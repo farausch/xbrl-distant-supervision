@@ -1,0 +1,1817 @@
+{
+    "de-gaap-ci:bs.ass": [
+        "Aktiva",
+        "Summe Aktiva",
+        "Bilanzsumme"
+    ],
+    "de-gaap-ci:bs.ass.currass": [
+        "Umlaufvermögen"
+    ],
+    "de-gaap-ci:bs.ass.currass.cashequiv": [
+        "Kassenbestand",
+        "Bundesbankguthaben",
+        "Bank Guthaben",
+        "Bankguthaben",
+        "Bankvermögen",
+        "Bank Vermögen",
+        "Guthaben bei Kreditinstituten und Schecks",
+        "Guthaben bei Kreditinstituten"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory": [
+        "Vorräte"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv": [
+        "Forderungen",
+        "Forderungen und sonstige Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.above1year": [
+        "davon mit einer Restlaufzeit von mehr als einem Jahr",
+        "Forderungen mit einer Laufzeit größer 1 Jahr",
+        "Forderungen Laufzeit ein einem 1 Jahr",
+        "Forderungen und sonstige Vermögensgegenstände, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab": [
+        "Summe Passiva",
+        "Bilanzsumme"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals": [
+        "Rückstellungen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity": [
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed": [
+        "Grundkapital",
+        "Stammkapital",
+        "Geschäftsguthaben",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.limitedliablepartners": [
+        "Kapitalanteile der Kommanditisten",
+        "Kommanditkapital",
+        "Kommanditist Kapital",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.liab": [
+        "Verbindlichkeiten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.upto1year": [
+        "Verbindlichkeiten mit einer Restlaufzeit bis zu einem Jahr",
+        "Verbindlichkeiten Restlaufzeit einem ein 1 Jahr",
+        "Verbindlichkeiten, davon mit Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.fixass": [
+        "Anlagevermögen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin": [
+        "Finanzanlagen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan": [
+        "Immaterielle Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan": [
+        "Sachanlagen"
+    ],
+    "de-gaap-ci:bs.ass.prepaidexp": [
+        "Rechnungsabgrenzungsposten",
+        "Aktive Rechnungsabgrenzungsposten",
+        "aktive Rechnungsabgrenzungsposten"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.capres": [
+        "Kapital Rücklage",
+        "Kapitalrücklage"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.profitloss": [
+        "Jahresüberschuss",
+        "Bilanzgewinn",
+        "Bilanzverlust",
+        "Bilanzergebnis",
+        "Bilanz Ergebnis",
+        "Bilanzgewinn Bilanz",
+        "Bilanzverlust Bilanz"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres": [
+        "Gewinnrücklagen",
+        "Ergebnisrücklagen",
+        "Ergebnis Rücklagen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.corp": [
+        "gezeichnetes Kapital",
+        "gezeichnetes Kapital Kapitalgesellschaften",
+        "Gezeichnetes Kapital",
+        "Kapitalanteile",
+        "Kapitalkonto"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.ownsharesdeducted": [
+        "Eigene Anteile - offen vom Gezeichneten Kapital abgesetzt",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.pretaxres": [
+        "Sonderposten mit Rücklageanteil"
+    ],
+    "de-gaap-ci:bs.eqliab.pretaxres.res": [
+        "steuerfreie Rücklagen",
+        "Sonderposten mit Rücklageanteil"
+    ],
+    "de-gaap-ci:bs.eqliab.pretaxres.res.subsidies": [
+        "Rücklage für Zuschüsse",
+        "Sonderposten mit Rücklageanteil"
+    ],
+    "de-gaap-ci:incomeuse.gainloss": [
+        "Bilanzgewinn",
+        "Bilanzverlust",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.netincome": [
+        "Jahresfehlbetrag",
+        "Jahresüberschuss",
+        "Ergebnisverwendung",
+        "Ergebnis Verwendung",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.retainedearningsprevyear": [
+        "Gewinnvortrag aus dem Vorjahr",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV"
+    ],
+    "de-gaap-ci:is.netincome": [
+        "Jahresüberschuss",
+        "Jahresfehlbetrag"
+    ],
+    "de-gaap-ci:is.netincome.eat": [
+        "Ergebnis nach Steuern"
+    ],
+    "de-gaap-ci:is.netincome.othertaxes": [
+        "sonstige Steuern"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin": [
+        "Finanz- und Beteiligungsergebnis",
+        "Beteiligung Ergebnis",
+        "Finanzergebnis",
+        "Finanzen Ergebnis",
+        "Beteiligungsergebnis",
+        "Finanzergebnis Beteiligungsergebnis"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc": [
+        "Betriebsergebnis",
+        "Betriebsergebnis GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort": [
+        "Abschreibungen",
+        "Abschreibungen GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort.fixass": [
+        "Abschreibungen Vermögensgegenstände Anlagevermögen Sachanlagen",
+        "Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen",
+        "Abschreibungen GKV auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit": [
+        "Rohergebnis",
+        "Roh Ergebnis",
+        "Ergebnis",
+        "Rohergebnis GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.materialservices": [
+        "Material Aufwand",
+        "Materialaufwand",
+        "Materialaufwand GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput": [
+        "Gesamtleistung",
+        "Gesamtleistung GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.inventorychange": [
+        "Fertige Erzeugnisse Bestand",
+        "Unfertige Erzeugnisse Bestand",
+        "Veränderung Fertige Erzeugnisse Bestand",
+        "Erhöhung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen",
+        "Erhöhung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.netsales": [
+        "Umsatzerlöse",
+        "Umsatzerlöse GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.ownwork": [
+        "Aktivierte Eigenleistungen",
+        "andere aktivierte Eigenleistungen",
+        "andere aktivierte Eigenleistungen GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost": [
+        "sonstige betriebliche Aufwendungen",
+        "sonstige betriebliche Aufwendungen GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue": [
+        "sonstige betriebliche Erträge",
+        "sonstige betriebliche Erträge GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff": [
+        "Personalaufwand",
+        "Personalaufwand GKV"
+    ],
+    "de-gaap-ci:is.netincome.tax": [
+        "Einkommensteuer",
+        "Ertragsteuer",
+        "Ertrag Steuer",
+        "Einkommen Steuer",
+        "Einkommensteuer Ertragsteuer",
+        "Steuern vom Einkommen und Ertrag",
+        "Steuern vom Einkommen und vom Ertrag"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.legal": [
+        "gesetzliche Rücklage"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.other": [
+        "andere Gewinnrücklagen"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital": [
+        "nicht Eigenkapital Fehlbetrag",
+        "Fehlbetrag Verlustanteil Entnahmen",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.losslimitedliablepartners": [
+        "Negative Kapitalanteile Kommanditisten",
+        "Nicht durch Vermögenseinlagen gedeckter Verlustanteil der Kommanditisten",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.netincome": [
+        "Überschuss",
+        "Fehlbetrag",
+        "Jahresfehlbetrag",
+        "Jahresüberschuss",
+        "Jahresüberschuss/-fehlbetrag Bilanz - bei Kapitalgesellschaften",
+        "Eigenkapital, Jahresüberschuss/-fehlbetrag Bilanz - bei Kapitalgesellschaften"
+    ],
+    "de-gaap-ci:bs.ass.currass.cashequiv.bank": [
+        "Guthaben bei Kreditinstituten",
+        "Kassenbestand",
+        "Bundesbankguthaben",
+        "Bank Guthaben",
+        "Guthaben bei Kreditinstituten und Schecks"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.affil": [
+        "Forderungen gegen verbundene Unternehmen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.other": [
+        "sonstige Vermögensgegenstände",
+        "Forderungen und sonstige Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.deftax": [
+        "Aktive latente Steuern"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.loanstoaffil": [
+        "Ausleihungen an verbundene Unternehmen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.particip": [
+        "Beteiligungen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.sharesinaffil": [
+        "Anteile an verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.landbuildings": [
+        "Grundstücke",
+        "Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.otherequipm": [
+        "andere Anlagen",
+        "Betriebs- und Geschäftsausstattung"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals.other": [
+        "sonstige Rückstellungen"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals.pensions": [
+        "Rückstellungen für Pensionen und ähnliche Verpflichtungen"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals.tax": [
+        "Steuerrückstellungen",
+        "Steuer Rückstellungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.bank": [
+        "Bankverbindlichkeiten",
+        "Verbindlichkeiten gegenüber Kreditinstituten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other": [
+        "sonstige Verbindlichkeiten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.other": [
+        "übrige sonstige Verbindlichkeiten",
+        "sonstige Verbindlichkeiten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.therofftax": [
+        "sonstige Verbindlichkeiten Steuern",
+        "sonstige Verbindlichkeiten, davon aus Steuern"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders": [
+        "Verbindlichkeiten gegenüber Gesellschaftern",
+        "Verbindlichkeiten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.trade": [
+        "Verbindlichkeiten LuL",
+        "Verbindlichkeiten aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.additionrevenreserves": [
+        "Einstellungen in Gewinnrücklagen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses": [
+        "Zinsen Aufwendungen",
+        "Zinsen und ähnliche Aufwendungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses.assoc": [
+        "Zinsen und ähnliche Aufwendungen, davon an verbundene Unternehmen",
+        "Zinsen Aufwendungen verbundene Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.income": [
+        "sonstige Zinsen",
+        "ähnliche Erträge"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.income.assoc": [
+        "sonstige Zinsen, davon von verbundenen Unternehmen",
+        "Erträge Zinsen verbundene Unternehmen",
+        "ähnliche Erträge, davon von verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earningprofsharing": [
+        "Gewinngemeinschaft Abführungsvertrag Gewinnabführungsvertrag Gewinn",
+        "auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags erhaltene Gewinne",
+        "Aufgrund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags erhaltene Gewinne"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earningprofsharing.other": [
+        "Gewinne Gewinnabführungsvertrag Abführung Vertrag",
+        "erhaltene Gewinne aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags",
+        "Aufgrund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags erhaltene Gewinne"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earnings": [
+        "Erträge aus Beteiligungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earnings.groupcomp": [
+        "Erträge aus Beteiligungen an verbundenen Unternehmen",
+        "Erträge aus Beteiligungen, davon aus Beteiligungen an verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earningsecurities": [
+        "Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earningsecurities.assoc": [
+        "Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens, davon von verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.materialservices.services": [
+        "Aufwendungen für bezogene Leistungen",
+        "Aufwendungen für bezogene Leistungen GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff.salaries": [
+        "Löhne und Gehälter",
+        "Löhne und Gehälter GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff.social": [
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung",
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff.social.other": [
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung, nicht zuordenbar",
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung GKV, nicht zuordenbar"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff.social.pensions": [
+        "soziale Abgaben",
+        "Aufwendungen für Altersversorgung",
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung GKV"
+    ],
+    "de-gaap-ci:is.netincome.taxes": [
+        "Steuern vom Einkommen und vom Ertrag",
+        "Steuern vom Einkommen und vom Ertrag - Vorjahr"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.advpaympaid": [
+        "geleistete Anzahlungen",
+        "geleistete Anzahlungen Vorräte"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.finishedandmerch": [
+        "fertige Erzeugnisse und Waren",
+        "fertige Erzeugnisse",
+        "fertige Waren"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.inprogress": [
+        "unfertige Erzeugnisse",
+        "unfertige Leistungen",
+        "unfertige Erzeugnisse und Leistungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.inprogress.goods": [
+        "unfertige Erzeugnisse",
+        "unfertige Leistungen",
+        "unfertige Erzeugnisse und Leistungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.material": [
+        "Rohstoffe Hilfsstoffe Betriebsstoffe",
+        "Roh-, Hilfs- und Betriebsstoffe"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.trade": [
+        "Forderungen aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.securities": [
+        "Wertpapiere",
+        "Wertpapiere des Umlaufvermögens"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.loanstoparticip": [
+        "Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.otherloans": [
+        "sonstige Ausleihungen",
+        "Sonstige Ausleihungen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.securities": [
+        "Wertpapiere des Anlagevermögens"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.concessionbrands": [
+        "entgeltlich erworbene Konzessionen, gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.goodwill": [
+        "Geschäfts- oder Firmenwert",
+        "Geschäftswert",
+        "Firmenwert"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.inconstradvpaym": [
+        "Geleistete Anzahlungen und Anlagen im Bau",
+        "geleistete Anzahlungen und Anlagen im Bau"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.machinery": [
+        "technische Anlagen und Maschinen",
+        "technische Anlagen",
+        "Maschinen"
+    ],
+    "de-gaap-ci:bs.eqliab.defincome": [
+        "Rechnungsabgrenzungsposten",
+        "passive Rechnungsabgrenzungsposten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.advpaym": [
+        "erhaltene Anzahlungen auf Bestellungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.particip": [
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.shareholders": [
+        "Forderungen gegen Gesellschafter",
+        "Forderungen und sonstige Vermögensgegenstände",
+        "sonstige Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.particip": [
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.dividensplanned": [
+        "Vorabausschüttung",
+        "Vorab vorher Ausschüttung",
+        "beschlossene Ausschüttung GJ",
+        "beschlossene Ausschüttung für das Geschäftsjahr",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV",
+        "Bilanzgewinn",
+        "Bilanzverlust"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.materialservices.material": [
+        "Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren",
+        "Aufwendungen für bezogene Waren GKV",
+        "Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.materialservices.material.purchased": [
+        "Aufwendungen für bezogene Waren",
+        "Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren",
+        "Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren GKV"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.retainedearnings": [
+        "Gewinnvortrag",
+        "Verlustvortrag",
+        "Gewinn Verlust Vortrag",
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.securities": [
+        "Anleihen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releaseotherres": [
+        "Entnahmen aus anderen Gewinnrücklagen",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV",
+        "Entnahmen aus Gewinnrücklagen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releaserevenreserves": [
+        "Entnahmen aus anderen Gewinnrücklagen",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV",
+        "Entnahmen aus Gewinnrücklagen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.amortfinanc": [
+        "Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens",
+        "Abschreibungen auf Finanzanlagen",
+        "Abschreibungen auf Wertpapiere des Unlaufvermögens"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.inprogress.services": [
+        "unfertige Leistungen",
+        "Unfertige Erzeugnisse"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.deficitnotcoveredbycapital": [
+        "Nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "Nicht durch Eigenkapital gedeckter Fehlbetrag Passivausweis"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.accumlossprevyear": [
+        "Verlustvortrag aus dem Vorjahr",
+        "Bilanzgewinn GuV",
+        "Bilanzverlust GuV"
+    ],
+    "de-gaap-ci:bs.eqliab.deftax": [
+        "Passive latente Steuern",
+        "latente Steuern"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort.currass": [
+        "Abschreibungen auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten",
+        "Abschreibungen GKV auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.reservespartnership": [
+        "Rücklagen",
+        "Rücklagen gesamthänderisch gebunden",
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres": [
+        "Sonstige Sonderposten"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.ownshares": [
+        "Ausgleichsposten für aktivierte eigene Anteile",
+        "Sonstige Sonderposten"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.amortfinanc.financials": [
+        "Abschreibungen auf Finanzanlagen",
+        "Abschreibungen auf Wertpapiere des Umlaufvermögens"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort.fixass.tan": [
+        "Abschreibungen auf Sachanlagen",
+        "Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens",
+        "Abschreibungen GKV auf immaterielle Vermögensgegenstände des Anlagevermögens"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.materialservices.material.rawmatconss": [],
+    "de-gaap-ci:bs.ass.currass.inventory.other": [
+        "sonstige Vorräte",
+        "Vorräte"
+    ],
+    "de-gaap-ci:bs.ass.surplusfromoffsetting": [
+        "Aktiver Unterschiedsbetrag aus der Vermögensverrechnung"
+    ],
+    "de-gaap-ci:is.netincome.regular": [
+        "Ergebnis der gewöhnlichen Geschäftstätigkeit"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation": [
+        "Beteiligung Ergebnis",
+        "Netto Beteiligung Ergebnis",
+        "Netto-Beteiligungsergebnis"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest": [
+        "Netto-Zinsergebnis",
+        "Netto Zins Ergebnis",
+        "Zins Ergebnis"
+    ],
+    "de-gaap-ci:is.netincome.extraord": [
+        "außerordentliches Ergebnis"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.advpaym": [
+        "geleistete Anzahlungen",
+        "Immaterielle Vermögensgegenstände",
+        "geleistete Anzahlungen auf immaterielle Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.otherfinass": [
+        "Sonstige Finanzanlagen",
+        "sonstige Finanzanlagen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.otherfinass.reinsurclaim": [
+        "Rückdeckungsansprüche aus Lebensversicherungen",
+        "Rückdeckungsansprüche aus Lebensversicherungen langfristiger Verbleib",
+        "Sonstige Finanzanlagen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.consolsurplus": [
+        "Unterschiedsbetrag aus der Kapitalkonsolidierung vor BilMoG"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.currtransl": [
+        "Währungsumrechnungsdifferenzen",
+        "Währung Umrechnung Differenz",
+        "Eigenkapital Währung Umrechnung Differenz",
+        "Eigenkapital aus Währungsumrechnungsdifferenzen"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.subsidies": [
+        "Sonderposten für Investitionszulagen",
+        "Sonderposten für Zuschüsse Dritter",
+        "Sonstige Sonderposten"
+    ],
+    "de-gaap-ci:is.netincome.extraord.income": [
+        "außerordentliche Erträge"
+    ],
+    "de-gaap-ci:is.netincome.extraord.expenses": [
+        "außerordentliche Aufwendungen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.concessionbrands.software": [
+        "EDV-Software",
+        "EDV Software",
+        "Software",
+        "entgeltlich erworbene Konzessionen",
+        "gewerbliche Schutz- und ähnliche Rechte und Werte",
+        "Lizenzen an solchen Rechten und Werten"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.advpaymreceived": [
+        "erhaltene Anzahlungen auf Bestellungen, offen abgesetzt",
+        "erhaltene Anzahlungen auf Bestellungen, offen aktivisch abgesetzt",
+        "Vorräte, erhaltene Anzahlungen auf Bestellungen, offen aktivisch abgesetzt"
+    ],
+    "de-gaap-ci:bs.ass.currass.securities.other": [
+        "sonstige Wertpapiere",
+        "sonstige Wertpapiere des Umlaufvermögens",
+        "Wertpapiere des Umlaufvermögens"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.otherequipm.office": [
+        "Geschäftsausstattung",
+        "andere Anlagen",
+        "Betriebs- und Geschäftsausstattung"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.inventorychange.inprogres": [],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort.fixass.intan": [],
+    "de-gaap-ci:is.netincome.incomesharing": [
+        "Verlust- bzw. Gewinnabführung Tochter"
+    ],
+    "de-gaap-ci:is.netincome.incomesharing.loss": [
+        "Erträge aus Verlustübernahme",
+        "Verlust- bzw. Gewinnabführung Tochter"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.concessionbrands.other": [
+        "sonstige Rechte und Werte",
+        "entgeltlich erworbene Konzessionen",
+        "gewerbliche Schutz- und ähnliche Rechte und Werte",
+        "Lizenzen an solchen Rechten und Werten"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.other": [
+        "sonstige immaterielle Vermögensgegenstände",
+        "Immaterielle Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.landbuildings.rightequivalenttolandwithoutbuildings": [
+        "grundstücksgleiche Rechte ohne Bauten",
+        "Grundstücke",
+        "grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.machinery.technequipm": [
+        "technische Anlagen",
+        "technische Anlagen und Maschinen",
+        "Maschinen"
+    ],
+    "de-gaap-ci:bs.ass.currass.securities.ownshares": [
+        "eigene Anteile"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.forownshares": [
+        "Rücklage für eigene Anteile",
+        "Rücklage für eigene Anteile nur Kapitalgesellschaften"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.thereoffsocsec": [
+        "sonstige Verbindlichkeiten",
+        "sonstige Verbindlichkeiten, davon im Rahmen der sozialen Sicherheit"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.loss": [
+        "Aufwendungen aus Verlustübernahmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.loss.other": [
+        "übernommene Verluste aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags",
+        "Aufwendungen aus Verlustübernahmen"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals.tax.deftax": [
+        "Rückstellungen für latente Steuern",
+        "Steuerrückstellungen",
+        "Steuer Rückstellungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.finishedandmerch.goods": [
+        "Fertige Erzeugnisse",
+        "fertige Erzeugnisse",
+        "Fertige Erzeugnisse und Waren",
+        "fertige Erzeugnisse und Waren"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.concessionbrands.trademarks": [
+        "gewerbliche Schutzrechte",
+        "entgeltlich erworbene Konzessionen, gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+        "gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+        "entgeltlich erworbene Konzessionen"
+    ],
+    "de-gaap-ci:bs.ass.prepaidexp.other": [
+        "sonstige aktive Rechnungsabgrenzung",
+        "Aktive Rechnungsabgrenzungsposten"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.income.valuediscount": [
+        "sonstige Zinsen und ähnliche Erträge aus Abzinsung",
+        "sonstige Zinsen und ähnliche Erträge, davon aus Abzinsung"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.exchange": [
+        "sonstige betriebliche Aufwendungen GKV",
+        "sonstige betriebliche Aufwendungen GKV, davon Aufwendungen aus Währungsumrechnung",
+        "sonstige betriebliche Aufwendungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue.exchange": [
+        "sonstige betriebliche Erträge GKV",
+        "sonstige betriebliche Erträge GKV, davon Erträge aus Währungsumrechnung",
+        "sonstige betriebliche Erträge"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.calledin": [
+        "eingefordertes Kapital",
+        "davon eingefordertes Kapital",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile",
+        "eingefordertes Kapital"
+    ],
+    "de-gaap-ci:is.netincome.incomesharing.gain": [
+        "aufgrund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags abgeführte Gewinne",
+        "auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags abgeführte Gewinne",
+        "Verlust- bzw. Gewinnabführung"
+    ],
+    "de-gaap-ci:is.netincome.incomesharing.gain.other": [
+        "Gewinnabführung aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags",
+        "Verlust- bzw. Gewinnabführung"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.finishedandmerch.merchandise": [
+        "Waren",
+        "Fertige Erzeugnisse und Waren",
+        "Fertige Erzeugnisse"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.advpaym.upto1year": [
+        "erhaltene Bestellungen, davon mit einer Restlaufzeit bis zu einem Jahr",
+        "erhaltene Anzahlungen, davon mit Restlaufzeit bis zu einem Jahr",
+        "erhaltene Anzahlungen auf Bestellungen, davon mit einer Restlaufzeit bis zu einem Jahr",
+        "erhaltene Bestellungen und Anzahlungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.upto1year": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit einer Restlaufzeit bis zu einem Jahr",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit einer Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.bank.upto1year": [
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon mit Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon mit einer Restlaufzeit bis zu einem Jahr",
+        "Verbindlichkeiten gegenüber Kreditinstituten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.upto1year": [
+        "sonstige Verbindlichkeiten",
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit bis zu einem Jahr",
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit bis 1 Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.trade.upto1year": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen",
+        "Verbindlichkeiten aus Lieferungen und Leistungen, davon mit Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten aus Lieferungen und Leistungen, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.deficitnotcovered": [
+        "nicht gedeckter Fehlbetrag",
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.paymforcapitalincrease": [
+        "zur Durchführung der Kapitalerhöhung geleistete Einlagen",
+        "Sonstige Sonderposten, zur Durchführung der Kapitalerhöhung geleistete Einlagen",
+        "sonstige Sonderposten"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.landbuildings.buildingsonnonownedland": [
+        "Bauten auf fremden Grundstücken",
+        "Grundstücke",
+        "Grundstücke, grundstücksgleiche Rechte und Bauten",
+        "Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.other.unpaidcapital": [
+        "eingeforderte noch ausstehende Kapitaleinlagen",
+        "Forderungen und sonstige Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.other.above1year": [
+        "sonstige Vermögensgegenstände",
+        "sonstige Vermögensgegenstände, davon mit Restlaufzeit mehr als einem Jahr",
+        "Forderungen und sonstige Vermögensgegenstände, davon mit einer Restlaufzeit von mehr als einem Jahr",
+        "Forderungen",
+        "Forderungen, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.trade.above1year": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen, davon mit Restlaufzeit über 1 Jahr",
+        "Verbindlichkeiten aus Lieferungen und Leistungen, davon mit einer Restlaufzeit von mehr als einem Jahr",
+        "Verbindlichkeiten aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.other.upto1year": [
+        "sonstige Vermögensgegenstände, davon mit Restlaufzeit bis zu einem Jahr",
+        "Forderungen und sonstige Vermögensgegenstände, davon mit einer Restlaufzeit bis zu einem Jahr",
+        "Forderungen, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.bank.above1year": [
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon mit Restlaufzeit über 1 Jahr",
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.above1year": [
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit über 1 Jahr",
+        "sonstige Verbindlichkeiten, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.profsharing": [
+        "Genussrechtskapital mit EK-Charakter",
+        "Genussrechtskapital mit Eigenkapital-Charakter",
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:bs.eqliab.pretaxres.specamort": [
+        "steuerrechtliche Sonderabschreibungen",
+        "Sonderposten mit Rücklageanteil"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.above1year.above5years": [
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit über fünf Jahre",
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit über 5 Jahre"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.advpaym.above1year": [
+        "erhaltene Anzahlungen, davon mit Restlaufzeit über 1 Jahr",
+        "erhaltene Anzahlungen auf Bestellungen, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.above1year.upto5years": [
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit über ein Jahr bis fünf Jahre",
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit über 1 Jahr bis 5 Jahre"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff.social.socexp": [
+        "soziale Abgaben",
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung GKV",
+        "Aufwendungen für Altersversorgung und für Unterstützung GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.inventorychange.finished": [
+        "Veränderung des Bestandes an fertigen Erzeugnissen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.affil.above1year": [
+        "Forderungen gegen verbundene Unternehmen mit Restlaufzeit über 1 Jahr",
+        "Forderungen gegen verbundene Unternehmen, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.particip.above1year": [
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit über 1 Jahr",
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.affil.upto1year": [
+        "Forderungen gegen verbundene Unternehmen mit Restlaufzeit bis 1 Jahr",
+        "Forderungen gegen verbundene Unternehmen, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.above1year": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit über 1 Jahr",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.particip.upto1year": [
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit bis 1 Jahr",
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.landbuildings.buildingsonownland": [
+        "Bauten auf eigenen Grundstücken und grundstücksgleichen Rechten",
+        "Grundstücke",
+        "Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",
+        "grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.shareholders": [
+        "Sonstige Verbindlichkeiten gegenüber Gesellschaftern",
+        "sonstige Verbindlichkeiten, davon sonstige Verbindlichkeiten gegenüber Gesellschaftern"
+    ],
+    "de-gaap-ci:bs.ass.unpaidcap": [
+        "Rückständige Einzahlungen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.sharesparentcomp": [
+        "Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.minorityinterest": [
+        "Ausgleichsposten für nicht beherrschende Anteile",
+        "Ausgleichsposten für Anteile anderer Gesellschafter, Minderheitenanteile und Anteile Dritter",
+        "Minderheitenanteile und Anteile Dritter"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.consolsurplus": [
+        "Unterschiedsbetrag aus der Kapitalkonsolidierung",
+        "Sonstige Sonderposten"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.allowanceaccounted": [
+        "Vorräte, davon in den Vorräten verrechnete Wertberichtigungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.particip.above1year": [
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit über 1 Jahr",
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit einer Restlaufzeit von mehr als einem Jahr",
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.particip.upto1year": [
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit bis zu einem Jahr",
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.securities.convertible": [
+        "Anleihen",
+        "Anleihen, davon konvertibel"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.above1year": [
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit einer Restlaufzeit über 1 Jahr",
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.upto1year": [
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.other": [
+        "sonstige Ergebnisverrechnung",
+        "Bilanzgewinn",
+        "Bilanzverlust"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releasecapreserves": [
+        "Entnahmen aus der Kapitalrücklage",
+        "Bilanzgewinn",
+        "Bilanzverlust"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses.regularinterest": [
+        "Zinsen",
+        "Zinsen und ähnliche Aufwendungen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.concessionbrands.licenses": [
+        "Lizenzen an Rechten und Werten",
+        "gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+        "entgeltlich erworbene Konzessionen",
+        "entgeltlich erworbene Konzessionen, gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.landbuildings.landwithoutbuildings": [
+        "unbebaute Grundstücke",
+        "Grundstücke",
+        "grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücke",
+        "Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücke"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.inconstradvpaym.advpaym": [
+        "geleistete Anzahlungen auf Sachanlagen",
+        "Geleistete Anzahlungen und Anlagen im Bau"
+    ],
+    "de-gaap-ci:bs.ass.accountingconvenience": [
+        "Bilanzierungshilfe",
+        "Bilanzierung Hilfe",
+        "Bilanz Hilfe"
+    ],
+    "de-gaap-ci:bs.ass.accountingconvenience.startupcost": [
+        "Aufwendungen für die Ingangsetzung und Erweiterung des Geschäftsbetriebs",
+        "Bilanzierungshilfe, davon Aufwendungen für die Ingangsetzung und Erweiterung des Geschäftsbetriebs",
+        "Bilanz Bilanzierung Hilfe Ingangsetzung und Erweiterung des Geschäftsbetriebs"
+    ],
+    "de-gaap-ci:bs.ass.currass.cashequiv.cash": [
+        "Kasse",
+        "Kassenbestand",
+        "Bundesbankguthaben",
+        "Bank Guthaben",
+        "Guthaben bei Kreditinstituten und Schecks",
+        "Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.inconstradvpaym.equipmunderconstr": [
+        "technische Anlagen und Maschinen im Bau",
+        "Geleistete Anzahlungen und Anlagen im Bau"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.trade.above1year": [
+        "Forderungen aus Lieferungen und Leistungen, davon mit Restlaufzeit über 1 Jahr",
+        "Forderungen aus Lieferungen und Leistungen, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.trade.upto1year": [
+        "Forderungen aus Lieferungen und Leistungen, davon mit Restlaufzeit bis 1 Jahr",
+        "Forderungen aus Lieferungen und Leistungen, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses.valuediscount": [
+        "sonstige Zinsen und ähnliche Aufwendungen aus Abzinsung",
+        "Zinsen und ähnliche Aufwendungen, davon sonstige Zinsen und ähnliche Aufwendungen aus Abzinsung",
+        "Zinsen und ähnliche Aufwendungen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releasecapital": [
+        "Erträge aus der Kapitalherabsetzung",
+        "Bilanzgewinn",
+        "Bilanzverlust"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.concessionbrands.concession": [
+        "Konzessionen",
+        "entgeltlich erworbene Konzessionen",
+        "gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+        "entgeltlich erworbene Konzessionen, gewerbliche Schutz- und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.unlimitedliablepartners": [
+        "Kapitalanteile der persönlich haftenden Gesellschafter",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.unlimitedliablepartners.fixed": [
+        "Kapitalanteile der persönlich haftenden Gesellschafter, davon Festkapitalkonto",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.limitedliablepartners.fixed": [
+        "Kommandit-Kapital",
+        "Kommandit Kapital Kommanditisten",
+        "Kommanditist Kapital",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs": [
+        "Betriebsergebnis",
+        "Betriebsergebnis Umsatzkosten"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.admincost": [
+        "allgemeine Verwaltungskosten",
+        "allgemeine Verwaltungskosten UKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.grossopprofit": [
+        "Bruttoergebnis vom Umsatz",
+        "Bruttoergebnis vom Umsatz UKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.grossopprofit.cogs": [
+        "Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen",
+        "Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen UKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.grossopprofit.netsales": [
+        "Umsatzerlöse",
+        "Umsatzerlöse UKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.grossopprofit.otherrevenue": [
+        "sonstige betriebliche Erträge",
+        "sonstige betriebliche Erträge UKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.othercost": [
+        "sonstige betriebliche Aufwendungen",
+        "sonstige betriebliche Aufwendungen außerhalb des Herstellungs-, Vertriebs- und Verwaltungsbereichs UKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.salescost": [
+        "Vertriebskosten",
+        "Vertriebskosten UKV"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.silentpartner": [
+        "Einlagen stiller Gesellschafter mit EK-Charakter",
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.affil.parentcomp": [
+        "Forderungen gegen verbundene Unternehmen, davon Forderungen gegen herrschende oder gegen mit Mehrheit beteiligte Gesellschaft"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.notes": [
+        "Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel"
+    ],
+    "de-gaap-ci:bs.ass.currass.securities.affil": [
+        "Anteile an verbundenen Unternehmen",
+        "Anteile an verbundenen Unternehmen Umlaufvermögen"
+    ],
+    "de-gaap-ci:bs.ass.currass.securities.other.other": [
+        "übrige sonstige Wertpapiere des Umlaufvermögens",
+        "Wertpapiere des Umlaufvermögens, sonstige Wertpapiere des Umlaufvermögens, übrige sonstige Wertpapiere des Umlaufvermögens"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.profitloss.retainedearnings": [
+        "Verlustvortrag Bilanzvermerk bei teilweiser Ergebnis Verwendung",
+        "Bilanzgewinn bei Kapitalgesellschaften, davon Gewinnvortrag Bilanzvermerk bei teilweiser Ergebnis Verwendung",
+        "Bilanzverlust bei Kapitalgesellschaften, davon Verlustvortrag Bilanzvermerk bei teilweiser Ergebnis Verwendung"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.netsales.grosssales": [
+        "in Umsatzerlöse enthaltener Bruttowert",
+        "in Umsatzerlöse GKV enthaltener Bruttowert",
+        "Umsatzerlöse GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earningprofsharing.profpooling": [
+        "erhaltene Gewinne aufgrund einer Gewinngemeinschaft",
+        "Aufgrund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags erhaltene Gewinne"
+    ],
+    "de-gaap-ci:bs.ass.taxbalancegenerally": [
+        "Allgemeiner aktiver steuerlicher Ausgleichsposten"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.equitysilentpartner": [
+        "Einlagen stiller Gesellschafter",
+        "Sonstige Sonderposten"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.statutory": [
+        "satzungsmäßige Rücklagen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.additionotherres": [
+        "Einstellungen in andere Gewinnrücklagen",
+        "Einstellungen in Gewinnrücklagen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.grossopprofit.otherrevenue.exchange": [
+        "sonstige betriebliche Erträge UKV, davon Erträge aus Währungsumrechnung"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingcogs.othercost.exchange": [
+        "sonstige betriebliche Aufwendungen außerhalb des Herstellungs-, Vertriebs- und Verwaltungsbereichs UKV, davon Aufwendungen aus Währungsumrechnung",
+        "sonstige betriebliche Aufwendungen außerhalb des Herstellungs-, Vertriebs- und Verwaltungsbereichs"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.shareholders.above1year": [
+        "Forderungen gegen Gesellschafter, davon mit Restlaufzeit über 1 Jahr",
+        "Forderungen und sonstige Vermögensgegenstände, Forderungen gegen Gesellschafter, davon mit einer Restlaufzeit von mehr als einem Jahr",
+        "Forderungen gegen Gesellschafter",
+        "Forderungen und sonstige Vermögensgegenstände"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.shareholders.upto1year": [
+        "Forderungen gegen Gesellschafter, davon mit Restlaufzeit bis 1 Jahr",
+        "Forderungen und sonstige Vermögensgegenstände",
+        "Forderungen gegen Gesellschafter",
+        "Forderungen und sonstige Vermögensgegenstände, Forderungen gegen Gesellschafter, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.upto1year.other.parentcomp": [
+        "davon Verbindlichkeiten gegenüber herrschender oder gegenüber mit Mehrheit beteiligter Gesellschaft",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit bis zu einem Jahr, davon aus anderen Rechtsverhältnissen, davon Verbindlichkeiten gegenüber herrschender oder gegenüber mit Mehrheit beteiligter Gesellschaft"
+    ],
+    "de-gaap-ci:bs.ass.prepaidexp.loadredempt": [
+        "Disagio/Damnum",
+        "Disagio",
+        "Aktive Rechnungsabgrenzungsposten"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.paymforcapitalincrease": [
+        "Eigenkapital, davon zur Durchführung der Kapitalerhöhung geleistete Einlagen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.bank.above1year.above5years": [
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon mit Restlaufzeit über 5 Jahre"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.inprogress.constructioninprogress": [
+        "in Ausführung befindliche Bauaufträge",
+        "Unfertige Erzeugnisse",
+        "unfertige Leistungen",
+        "Unfertige Erzeugnisse, unfertige Leistungen, in Ausführung befindliche Bauaufträge"
+    ],
+    "de-gaap-ci:bs.ass.other": [
+        "sonstige Aktiva"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.particip.assoc": [
+        "Beteiligungen, davon Beteiligungen an assoziierten Unternehmen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.particip.other": [
+        "sonstige Beteiligungen, nach Rechtsform nicht zuordenbar",
+        "Beteiligungen, nach Rechtsform nicht zuordenbar",
+        "Beteiligungen, sonstige Beteiligungen, nach Rechtsform nicht zuordenbar"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earnings.particip": [
+        "Erträge aus Beteiligungen, davon aus Beteiligungen an nicht verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earnings.particip.assoc": [
+        "Erträge aus Beteiligungen, davon aus Beteiligungen an nicht verbundenen Unternehmen, davon aus Beteiligungen an assoziierten Unternehmen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.additionpartnersaccount": [
+        "Gutschrift auf Kapitalkonten",
+        "Gutschrift auf Kapitalkonten der Gesellschafter",
+        "Bilanzgewinn, Gutschrift auf Kapitalkonten der Gesellschafter"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.frompriorperiod": [
+        "andere Ergebnisrücklagen, davon aus dem Bilanzgewinn des Vorjahres eingestellt",
+        "Gewinnrücklagen, davon aus dem Bilanzgewinn des Vorjahres eingestellt",
+        "Ergebnisrücklagen, davon aus dem Bilanzgewinn des Vorjahres eingestellt",
+        "Ergebnis Rücklagen Gewinn Vorjahr",
+        "andere Ergebnisrücklagen, davon aus dem Bilanzgewinn des Vorjahres eingestellt",
+        "Gewinnrücklagen/Ergebnisrücklagen, andere Ergebnisrücklagen, davon aus dem Bilanzgewinn des Vorjahres eingestellt"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.legal.profitformeryear": [
+        "gesetzliche Rücklage, davon aus dem Bilanzgewinn des Vorjahres eingestellt"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releasecapitalreserve": [
+        "Einstellung in die Kapitalrücklage nach den Vorschriften über die vereinfachte Kapitalherabsetzung",
+        "Bilanzgewinn",
+        "Bilanzverlust"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.unpaidcap": [
+        "nicht eingeforderte ausstehende Einlagen",
+        "nicht eingeforderte ausstehende Einlagen offen passivisch abgesetzt",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.other": [
+        "sonstige Sachanlagen"
+    ],
+    "de-gaap-ci:is.netincome.extraord.income.other": [
+        "andere außerordentliche Erträge",
+        "außerordentliche Erträge, davon andere außerordentliche Erträge"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.securities.upto1year": [
+        "Anleihen, davon mit Restlaufzeit bis 1 Jahr",
+        "Anleihen, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.securities.shares": [
+        "Aktien",
+        "Wertpapiere des Anlagevermögens",
+        "Wertpapiere des Anlagevermögens, Aktien"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.currchange": [
+        "Gewinnrücklage mit Ausschüttungssperre für aktivierte Aufwendungen im Zusammenhang mit der Euro-Umstellung"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.special": [
+        "Sonderrücklage",
+        "Sonder Rücklage",
+        "Besonders Rücklage",
+        "Gewinnrücklagen",
+        "Ergebnisrücklagen",
+        "Ergebnis Rücklagen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.securities.above1year": [
+        "Anleihen, davon mit Restlaufzeit über 1 Jahr",
+        "Anleihen, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals.pensions.upto1year": [
+        "Rückstellungen für Pensionen und ähnliche Verpflichtungen, davon kurzfristiger Anteil"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.otherequipm.factory": [
+        "Betriebsausstattung",
+        "andere Anlagen",
+        "Betriebs- und Geschäftsausstattung"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.selfmade": [
+        "Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.additionrevenreserves.legalres": [
+        "Einstellungen in die gesetzliche Rücklage",
+        "Einstellungen in Gewinnrücklagen",
+        "Bilanzgewinn",
+        "Bilanzverlust"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.otherfinass.coopshares": [
+        "Genossenschaftsanteile",
+        "Genossenschaftsanteile langfristiger Verbleib",
+        "Sonstige Finanzanlagen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.cooppartners": [
+        "Geschäftsguthaben der Genossen",
+        "Geschäftsguthaben der Mitglieder",
+        "gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.cooppartners.staying": [
+        "Geschäftsguthaben der Genossen, davon Geschäftsguthaben der verbleibende Mitglieder",
+        "Geschäftsguthaben der Mitglieder, davon Geschäftsguthaben der verbleibenden Mitglieder",
+        "Gezeichnetes Kapital",
+        "Kapitalkonto",
+        "Kapitalanteile"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.cooppartners.leaving": [
+        "Geschäftsguthaben der Genossen, davon Geschäftsguthaben der mit Ablauf des Geschäftsjahres ausgeschiedenen Mitglieder",
+        "Geschäftsguthaben der Mitglieder, davon Geschäftsguthaben der mit Ablauf des Geschäftsjahres ausgeschiedenen Mitglieder"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.cooppartners.cancelledshares": [
+        "Geschäftsguthaben der Genossen, davon Geschäftsguthaben aus gekündigten Geschäftsanteilen",
+        "Geschäftsguthaben der Mitglieder, davon Geschäftsguthaben aus gekündigten Geschäftsanteilen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.othercoop": [
+        "andere Ergebnisrücklagen",
+        "Gewinnrücklagen",
+        "Ergebnisrücklagen",
+        "Ergebnis Rücklagen"
+    ],
+    "de-gaap-ci:bs.ass.unpaidcap.called": [
+        "davon eingefordert",
+        "Ausstehende Einlagen, davon eingefordert"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.amortfinanc.seccurrass": [
+        "übliche und unübliche Abschreibungen auf Wertpapiere des Umlaufvermögens",
+        "Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.other.leasedass": [
+        "vermietete Anlagenwerte",
+        "sonstige Sachanlagen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.earningsecurities.nonassoc": [
+        "Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens, davon Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens von nicht verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.affil.trade": [
+        "Forderungen gegen verbundene Unternehmen, davon aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.particip.trade": [
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.upto1year.trade": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit bis 1 Jahr und aus Lieferungen und Leistungen",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit bis zu einem Jahr, davon aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.materialservices.material.additpurchc": [],
+    "de-gaap-ci:bs.ass.fixass.fin.loanstosharehold": [
+        "Ausleihungen an Gesellschafter"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.inprogress.ordersinprogress": [
+        "in Arbeit befindliche Aufträge",
+        "Unfertige Erzeugnisse",
+        "unfertige Leistungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.income.discount": [
+        "Diskonterträge",
+        "Zinsen Diskont Erträge",
+        "Abschlag Erträge",
+        "sonstige Zinsen",
+        "sonstige Zinsen und ähnliche Erträge"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.miscellaneous": [
+        "andere sonstige betriebliche Aufwendungen",
+        "andere sonstige betriebliche Aufwendungen GKV",
+        "sonstige betriebliche Aufwendungen GKV"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.insurance": [
+        "Versicherungsprämien, Gebühren und Beiträge",
+        "sonstige betriebliche Aufwendungen",
+        "sonstige betriebliche Aufwendungen, Versicherungsprämien, Gebühren und Beiträge"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.branche_kfz": [
+        "Geschäfts- und Vorführwagen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.capres.other": [
+        "Kapitalrücklage",
+        "Kapitalrücklage, davon andere Zuzahlungen in das Eigenkapital"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.machinery.installations": [
+        "Betriebsvorrichtungen",
+        "Betrieb Vorrichtung",
+        "technische Anlagen und Maschinen",
+        "technische Anlagen und Maschinen, Betrieb Vorrichtungen"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.accountingconvenience": [
+        "Ausgleichsposten für aktivierte Bilanzierungshilfen",
+        "Ausgleich Posten Bilanzierung Bilanz Hilfe",
+        "Ausgleichsposten für aktivierte Bilanzierungshilfen Personenhandelsgesellschaften",
+        "Sonstige Sonderposten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.bank.above1year.upto5years": [
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon mit Restlaufzeit über 1 Jahr bis 5 Jahre"
+    ],
+    "de-gaap-ci:bs.ass.fixass.intan.goodwill.fromconsolidation": [
+        "Geschäfts- oder Firmenwert aus Kapitalkonsolidierung"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.other.othertaxrec": [
+        "andere Forderungen gegen Finanzbehörden",
+        "Forderungen und sonstige Vermögensgegenstände gegen Finanzbehörden",
+        "Forderungen und sonstige Vermögensgegenstände, sonstige Vermögensgegenstände, andere Forderungen gegen Finanzbehörden"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.limitedliablepartners.accumloss": [
+        "gezeichnetes Kapital der Kommanditisten, davon Verlustausgleichskonto",
+        "Kapitalkonto der Kommanditisten, davon Verlustausgleichskonto",
+        "Kapitalanteile der Kommanditisten, davon Verlustausgleichskonto"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue.miscellaneous": [
+        "andere sonstige betriebliche Erträge",
+        "andere sonstige betriebliche Erträge, nicht zuordenbar",
+        "sonstige betriebliche Erträge"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.marketing": [
+        "Werbeaufwand",
+        "sonstige betriebliche Aufwendungen, Werbeaufwand"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.otherordinary": [
+        "andere ordentliche, nicht zuordenbare sonstige betriebliche Aufwendungen",
+        "sonstige betriebliche Aufwendungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.disposcurrass": [
+        "Verluste aus dem Abgang von Vermögensgegenständen des Umlaufvermögens",
+        "sonstige betriebliche Aufwendungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.leasefix": [
+        "Miet- und Pachtaufwendungen für unbewegliche Wirtschaftsgüter",
+        "sonstige betriebliche Aufwendungen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.freight": [
+        "Frachten und Verpackung",
+        "sonstige betriebliche Aufwendungen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releaserevenreserves.ownsharesres": [
+        "Entnahmen aus der Rücklage für eigene Anteile"
+    ],
+    "de-gaap-ci:is.netincome.incomesharing.gain.incomestatement": [
+        "Vergütungen für Genussrechtskapital",
+        "Verlust- bzw. Gewinnabführung"
+    ],
+    "de-gaap-ci:is.netincome.tax.prevperiodreceived": [
+        "Steuererstattungen für Vorjahre",
+        "Steuern vom Einkommen und vom Ertrag",
+        "Steuererstattungen für Vorjahre Steuern vom Einkommen und vom Ertrag"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.material.consumables": [
+        "Betriebsstoffe",
+        "Roh-, Hilfs- und Betriebsstoffe"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.privateaccountsp": [
+        "Privatkonto",
+        "Privatkonto Einzelunternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.privateaccountsp.incomeusedeposits": [
+        "Einlagen",
+        "Einlagen Privatkonto"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.loanstoparticip.subsidiaries": [
+        "Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon Ausleihungen an Beteiligungen"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.losslimitedliablepartner": [
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, davon nicht durch Vermögenseinlagen gedeckter Verlustanteil von Kommanditisten",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil, davon nicht durch Vermögenseinlagen gedeckter Verlustanteil von Kommanditisten"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.material.rawmaterial": [
+        "Rohstoffe",
+        "Roh-, Hilfs- und Betriebsstoffe"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.income.deposits": [
+        "Zinsen auf Einlagen bei Kreditinstituten und auf Forderungen an Dritte",
+        "sonstige Zinsen und ähnliche Erträge, Zinsen auf Einlagen bei Kreditinstituten und auf Forderungen an Dritte"
+    ],
+    "de-gaap-ci:bs.eqliab.accruals.other.other": [
+        "übrige sonstige Rückstellungen",
+        "nicht zuordenbare Rückstellungen",
+        "sonstige Rückstellungen"
+    ],
+    "de-gaap-ci:is.netincome.extraord.expenses.eghgb": [
+        "außerordentliche Aufwendungen aus der Anwendung des EGHGB"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.inventorychange.increaseg": [],
+    "de-gaap-ci:nt": [
+        "Anhang"
+    ],
+    "de-gaap-ci:bs.ass.currass.securities.other.securities": [
+        "festverzinsliche Wertpapiere",
+        "festverzinsliche Wertpapiere innerhalb der sonstigen Wertpapiere des Umlaufvermögens",
+        "Wertpapiere des Umlaufvermögens",
+        "sonstige Wertpapiere des Umlaufvermögens"
+    ],
+    "de-gaap-ci:incomeuse.dividends": [
+        "Ausschüttungsbetrag für das Berichtsjahr"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.profitloss.showndebit": [
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, davon Bilanzverlust",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil, davon Bilanzverlust",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen, davon Bilanzverlust",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen, davon Bilanzgewinn"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.limitedliablepartners.variable": [
+        "Kapitalanteile der Kommanditisten, davon variables Kapitalkonto",
+        "gezeichnetes Kapital der Kommanditisten, davon variables Kapitalkonto",
+        "Kapitalkonto der Kommanditisten, davon variables Kapitalkonto"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.disposfixass": [
+        "Verluste aus dem Abgang von Vermögensgegenständen des Anlagevermögens",
+        "sonstige betriebliche Aufwendungen, Verluste aus dem Abgang von Vermögensgegenständen des Anlagevermögens"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.fixing": [
+        "Aufwand für Fremdreparaturen und Instandhaltung",
+        "sonstige betriebliche Aufwendungen, Aufwand für Fremdreparaturen und Instandhaltung"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.vehicles": [
+        "Aufwendungen für den Fuhrpark",
+        "sonstige betriebliche Aufwendungen, Aufwendungen für den Fuhrpark"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue.releaseprov": [
+        "Erträge aus der Auflösung von Rückstellungen",
+        "sonstige betriebliche Erträge, Erträge aus der Auflösung von Rückstellungen"
+    ],
+    "de-gaap-ci:bs.contingliab.guaranteesnotescheques": [
+        "Verbindlichkeiten aus Bürgschaften, Wechsel- und Scheckbürgschaften"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.corp.premium": [
+        "gezeichnetes Kapital, davon Kapital aus Vorzugsaktien",
+        "Grundkapital, davon Kapital aus Vorzugsaktien",
+        "Kapitalkonto, davon Kapital aus Vorzugsaktien",
+        "Kapitalanteile, davon Kapital aus Vorzugsaktien"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.othercost.group": [
+        "sonstige betriebliche Aufwendungen gegen verbundene Unternehmen",
+        "sonstige betriebliche Aufwendungen, davon gegen verbundene Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.notes.upto1year": [
+        "Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel, davon mit Restlaufzeit bis 1 Jahr",
+        "Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel, davon mit einer Restlaufzeit bis zu einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.notes.above1year": [
+        "Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel, davon mit Restlaufzeit über 1 Jahr",
+        "Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.staff.social.welfare": [
+        "Aufwendungen für Unterstützung",
+        "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.unlimitedliablepartners.fixed": [
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, nicht durch Vermögenseinlagen gedeckter Verlustanteil, davon Festkapitalkonto",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, nicht durch Vermögenseinlagen gedeckter Verlustanteil, nicht durch Vermögenseinlagen gedeckte Entnahmen, davon Festkapitalkonto"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue.releasepretaxres": [
+        "Erträge aus Auflösung des Sonderpostens mit und ohne Rücklageanteil",
+        "sonstige betriebliche Erträge GKV, Erträge aus Auflösung des Sonderpostens mit und ohne Rücklageanteil"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.finishedandmerch.notyetinvoiced": [
+        "noch nicht abgerechnete Leistungen",
+        "noch nicht abgerechnete Leistungen fertige Erzeugnisse, Waren",
+        "Fertige Erzeugnisse und Waren, noch nicht abgerechnete Leistungen fertige Erzeugnisse, Waren",
+        "fertige Erzeugnisse und Waren"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses.other": [
+        "Übrige nicht zuordenbare sonstige Zinsen und ähnliche Aufwendungen",
+        "Zinsen und ähnliche Aufwendungen, übrige nicht zuordenbare sonstige Zinsen und ähnliche Aufwendungen",
+        "Zinsen und ähnliche Aufwendungen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.particip.silent": [
+        "stille Beteiligungen",
+        "Beteiligungen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.revenueres.forrepaymtocoop": [
+        "Gewinnrücklagen, davon für Ausscheidungszwecke von Genossen auszuzahlen",
+        "Ergebnisrücklagen, davon für Ausscheidungszwecke von Genossen auszuzahlen",
+        "Ergebnis Rücklagen Ausscheidung Genosse",
+        "Gewinn Rücklagen Ausscheidung Genosse"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.duetopartners": [
+        "Gesellschafterdarlehen mit EK-Charakter",
+        "Gesellschafterdarlehen mit Eigenkapital-Charakter",
+        "Eigenkapital, Gesellschafterdarlehen mit Eigenkapital-Charakter",
+        "Eigenkapital"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort.currass.receiv": [
+        "Abschreibungen auf Forderungen und sonstige Vermögensgegenstände",
+        "Abschreibungen GKV auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.above5years": [
+        "Verbindlichkeiten, davon mit Restlaufzeit über 5 Jahre"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.other.shareholders": [
+        "Sonstige Vermögensgegenstände gegenüber Gesellschaftern",
+        "Forderungen und sonstige Vermögensgegenstände, davon gegen Gesellschafter"
+    ],
+    "de-gaap-ci:is.netincome.tax.deferred": [
+        "Bilanzierte latente Steuern",
+        "Steuern vom Einkommen und vom Ertragn"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.netsales.taxfromgrosssale": [],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.inventorychange.workinpro": [],
+    "de-gaap-ci:bs.ass.fixass.fin.securities.other": [
+        "sonstige Wertpapiere des Anlagevermögens",
+        "Wertpapiere des Anlagevermögenss"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.depramort.fixass.startupcost": [
+        "Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen, auf Ingangsetzungsaufwendungen",
+        "Abschreibungen GKV auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen, auf Ingangsetzungsaufwendungen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.regulatory": [
+        "Forderungen aus dem Zentralregulierungs- und Delkrederegeschäft",
+        "Forderungen und sonstige Vermögensgegenstände aus dem Zentralregulierungs- und Delkrederegeschäft",
+        "Forderungen",
+        "sonstige Vermögengsgegenstände"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses.discount": [
+        "Diskontaufwendungen",
+        "Diskont Zinsen Aufwendungen",
+        "Zinsen und ähnliche Aufwendungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.collateralised": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon durch Pfandrechte oder ähnliches gesichert",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.above1year.above5years": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit über 5 Jahre",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.above1year.upto5years": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit über 1 Jahr bis 5 Jahre",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netparticipation.amortfinanc.group": [
+        "Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens, davon an verbundene Unternehmen"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.grosstradingprofit.totaloutput.netsales.group": [
+        "Umsatzerlöse GKV, davon Umsatzerlöse mit verbundenen Unternehmen",
+        "Umsatzerlöse, davon Umsatzerlöse mit verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.subscribed.unlimitedliablepartners.variable": [
+        "Kapitalanteile der persönlich haftenden Gesellschafter, davon variables Kapitalkonto",
+        "gezeichnetes Kapital / Kapitalkonto/ Kapitalanteile, Kapitalanteile der persönlich haftenden Gesellschafter",
+        "gezeichnetes Kapital der persönlich haftenden Gesellschafter",
+        "Kapitalkonto der persönlich haftenden Gesellschafter",
+        "Kapitalanteile der persönlich haftenden Gesellschafter"
+    ],
+    "de-gaap-ci:is.netincome.incomesharing.loss.other": [
+        "Verlustabführung aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags",
+        "Verlust- bzw. Gewinnabführung, Erträge aus Verlustübernahme, Verlustabführung aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags",
+        "Gewinnabführung aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags",
+        "Erträge aus Verlustübernahme aufgrund eines Gewinn- oder Teilgewinnabführungsvertrags"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.inprogress.notyetinvoiced": [
+        "noch nicht abgerechnete Leistungen",
+        "noch nicht abgerechnete Leistungen unfertige Erzeugnisse, unfertige Leistungen",
+        "Unfertige Erzeugnisse, unfertige Leistungen, noch nicht abgerechnete Leistungen unfertige Erzeugnisse, unfertige Leistungen",
+        "unfertige Erzrugnisse",
+        "unfertige Leistungen"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.additionretainedearnings": [
+        "Gewinnvortrag auf neue Rechnung",
+        "Gewinnvortrag auf neue Rechnung soweit nicht Aktiengesellschaft"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue.disposfixass": [
+        "Erträge aus Abgängen des Anlagevermögens",
+        "sonstige betriebliche Erträge GKV, Erträge aus Abgängen des Anlagevermögens",
+        "sonstige betriebliche Erträge"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.other": [
+        "andere Sonderposten",
+        "Sonstige Sonderposten, andere Sonderposten",
+        "sonstige Sonderposten"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.additionrevenreserves.statres": [
+        "Einstellungen in die satzungsmäßigen Rücklagen",
+        "Einstellungen in Gewinnrücklagen, Einstellungen in die satzungsmäßigen Rücklagen",
+        "Einstellungen in Gewinnrücklagen"
+    ],
+    "de-gaap-ci:bs.ass.taxbalanceorgancomp": [
+        "Aktiver Ausgleichsposten für Organschaftsverhältnisse beim Organträger"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.stayingwood": [],
+    "de-gaap-ci:incomeuse.gainloss.releasepartnersaccount": [
+        "Belastung auf Kapitalkonten",
+        "Belastung auf Kapitalkonten der Gesellschafter"
+    ],
+    "de-gaap-ci:bs.eqliab.equity.profitloss.tobepaidout": [
+        "Bilanzgewinn bei Kapitalgesellschaften, davon zur Ausschüttung vorgesehen",
+        "Eigenkapital, Bilanzgewinn bei Kapitalgesellschaften, davon zur Ausschüttung vorgesehen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.otherloans.other": [
+        "übrige sonstige Ausleihungen",
+        "nicht zuordenbare sonstige Ausleihungen",
+        "Sonstige Ausleihungen, übrige sonstige Ausleihungen, nicht zuordenbare sonstige Ausleihungen",
+        "Sonstige Ausleihungen"
+    ],
+    "de-gaap-ci:incomeuse.withdrawals": [
+        "Entnahmen im Berichtsjahr"
+    ],
+    "de-gaap-ci:bs.ass.currass.cashequiv.cheques": [
+        "Schecks",
+        "Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+        "Bundesbankguthaben",
+        "Bank Guthaben",
+        "Guthaben bei Kreditinstituten und Schecks",
+        "Guthaben bei Kreditinstituten"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.securities.above1year.above5years": [
+        "Anleihen, davon mit Restlaufzeit über 5 Jahre"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.thereoffcoopertiverefunds": [
+        "sonstige Verbindlichkeiten aus genossenschaftlicher Rückvergütung",
+        "sonstige Verbindlichkeiten, davon aus genossenschaftlicher Rückvergütung"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.income.other": [
+        "Übrige, nicht zuordenbare sonstige Zinsen und ähnliche Erträge",
+        "übrige, nicht zuordenbare sonstige Zinsen und ähnliche Erträge",
+        "sonstige Zinsen und ähnliche Erträge",
+        "sonstige Zinsen und ähnliche Erträge, übrige, nicht zuordenbare sonstige Zinsen und ähnliche Erträge"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.releaserevenreserves.legalres": [
+        "Entnahmen aus der gesetzlichen Rücklage",
+        "Entnahmen aus Gewinnrücklagen, Entnahmen aus der gesetzlichen Rücklage",
+        "Entnahmen aus Gewinnrücklagen"
+    ],
+    "de-gaap-ci:mgmtrep": [
+        "Lagebericht"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.regulatory": [
+        "Verbindlichkeiten aus dem Zentralregulierungs- und Delkrederegeschäft"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.particip.shareholders": [
+        "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon Forderungen an beteiligte Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.particip.upto1year.shareholders": [
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit bis 1 Jahr und gegenüber beteiligte Unternehmen",
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit bis zu einem Jahr, davon gegenüber beteiligten Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.bank.collateralised": [
+        "Verbindlichkeiten gegenüber Kreditinstituten, davon durch Pfandrechte oder ähnliches gesichert"
+    ],
+    "de-gaap-ci:incomeuse.gainloss.minorityint": [
+        "Ergebnisanteil anderer Gesellschafter",
+        "Ergebnisanteil nicht beherrschender Anteile"
+    ],
+    "de-gaap-ci:is.netincome.regular.fin.netinterest.expenses.loanfees": [
+        "Kreditprovisionen und Verwaltungskostenbeiträge",
+        "Zinsen und ähnliche Aufwendungen, Kreditprovisionen und Verwaltungskostenbeiträge",
+        "Zinsen und ähnliche Aufwendungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.upto1year.limitedliable": [
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit Restlaufzeit bis 1 Jahr und Verbindlichkeiten gegenüber Kommanditisten",
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit einer Restlaufzeit bis zu einem Jahr, davon Verbindlichkeiten gegenüber Kommanditisten",
+        "Verbindlichkeiten gegenüber Gesellschaftern"
+    ],
+    "de-gaap-ci:bs.ass.currass.cashequiv.centralbank": [
+        "Bundesbankguthaben",
+        "Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+        "Kassenbestand",
+        "Bank Guthaben",
+        "Guthaben bei Kreditinstituten und Schecks"
+    ],
+    "de-gaap-ci:bs.ass.fixass.fin.loanstoparticip.parentcomp": [
+        "Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon Ausleihungen an beteiligte Unternehmungen"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.withdrawalsunlimitedliablepartner": [
+        "Nicht durch Vermögenseinlagen gedeckte Entnahmen persönlich haftender Gesellschafter",
+        "davon nicht durch Vermögenseinlagen gedeckte Entnahmen persönlich haftender Gesellschafter",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.trade.shareholders": [
+        "Forderungen aus Lieferungen und Leistungen, davon gegen Gesellschafter"
+    ],
+    "de-gaap-ci:bs.ass.currass.inventory.material.supplmaterial": [
+        "Hilfsstoffe",
+        "Roh-, Hilfs- und Betriebsstoffe, Hilfsstoffe",
+        "Roh-, Hilfs- und Betriebsstoffe"
+    ],
+    "de-gaap-ci:bs.ass.prepaidexp.vat": [
+        "als Aufwand berücksichtigte Umsatzsteuer auf Anzahlungen",
+        "Aktive Rechnungsabgrenzungsposten, als Aufwand berücksichtigte Umsatzsteuer auf Anzahlungen",
+        "Aktive Rechnungsabgrenzungsposten"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.lossunlimitedliablepartner": [
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, davon nicht durch Vermögenseinlagen gedeckter Verlustanteil persönlich haftender Gesellschafter",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil, davon nicht durch Vermögenseinlagen gedeckter Verlustanteil persönlich haftender Gesellschafter"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.shareholder": [
+        "Forderungen und sonstige Vermögensgegenstände, davon gegen Gesellschafter"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.shareholders.affilcompanies": [
+        "Forderungen und sonstige Vermögensgegenstände, davon gegen verbundene Unternehmen",
+        "Forderungen gegen Gesellschafter, davon gegen verbundene Unternehmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.affilcomp": [
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon gegenüber verbundenen Unternehmen"
+    ],
+    "de-gaap-ci:bs.ass.currass.receiv.affil.partner": [
+        "Forderungen gegen verbundene Unternehmen, davon gegen Gesellschafter"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.partner": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon gegenüber Gesellschaftern"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.ofwhichtoshareholders": [
+        "Verbindlichkeiten, davon gegenüber Gesellschaftern"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.lossunlimitedliablepartners": [
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil der persönlich haftenden Gesellschafter",
+        "Nicht durch Vermögenseinlagen gedeckter Verlustanteil der persönlich haftenden Gesellschafter",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag der persönlich haftenden Gesellschafter",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, nicht durch Vermögenseinlagen gedeckter Verlustanteil, nicht durch Vermögenseinlagen gedeckte Entnahmen der persönlich haftenden Gesellschafter [Aktivseite]"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.privateaccountsp": [
+        "Privatkonto",
+        "Privatkonto Einzelunternehmen",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.privateaccountsp.incomeusedeposits": [
+        "Einlagen",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.other.upto1year.socsec": [
+        "sonstige Verbindlichkeiten, davon mit Restlaufzeit bis 1 Jahr, Genussrechte mit Fremdkapitalcharakter",
+        "Sonstige Verbindlichkeiten, davon mit Restlaufzeit bis zu einem Jahr, davon Genussrechte mit Fremdkapitalcharakter"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.particip.upto1year.trade": [
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit bis 1 Jahr und aus Lieferungen und Leistungen",
+        "Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, davon mit Restlaufzeit bis zu einem Jahr, davon aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.upto1year.trade": [
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit Restlaufzeit bis 1 Jahr und aus Lieferungen und Leistungen",
+        "Verbindlichkeiten gegenüber Gesellschaftern, davon mit einer Restlaufzeit bis zu einem Jahr, davon aus Lieferungen und Leistungen"
+    ],
+    "de-gaap-ci:incomeuse.paidincapital.toreserves": [
+        "Kapitalerhöhung im Berichtsjahr, davon Erhöhung der Kapitalrücklage"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.unlimitedpartner": [
+        "Verbindlichkeiten gegenüber persönlich haftenden Gesellschaftern",
+        "Verbindlichkeiten",
+        "Verbindlichkeiten gegenüber Gesellschaftern"
+    ],
+    "de-gaap-ci:is.netincome.extraord.income.merger": [
+        "Erträge durch Verschmelzung und Umwandlung",
+        "sonstige betriebliche Erträge, Erträge durch Verschmelzung und Umwandlung",
+        "sonstige betriebliche Erträge"
+    ],
+    "de-gaap-ci:is.netincome.regular.operatingtc.otheroprevenue.other": [
+        "andere Nebenerlöse",
+        "sonstige betriebliche Erträge, andere Nebenerlöse",
+        "sonstige betriebliche Erträge"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.above1year": [
+        "Verbindlichkeiten, davon mit einer Restlaufzeit von mehr als einem Jahr"
+    ],
+    "de-gaap-ci:bs.eqliab.otherspecres.taxbalancegenerally": [
+        "steuerlicher Ausgleichsposten",
+        "Allgemeiner passiver steuerlicher Ausgleichsposten",
+        "allgemeiner passiver steuerlicher Ausgleichsposten",
+        "Sonstige Sonderposten, allgemeiner passiver steuerlicher Ausgleichsposten",
+        "sontige Sonderposten"
+    ],
+    "de-gaap-ci:is.netincome.extraord.expenses.other": [
+        "andere außerordentliche Aufwendungen, nicht zuordenbar",
+        "außerordentliche Aufwendungen, davon andere außerordentliche Aufwendungen, nicht zuordenbar"
+    ],
+    "de-gaap-ci:bs.ass.deficitnotcoveredbycapital.unpaidcapt": [
+        "nicht durch Eigenkapital gedeckter Fehlbetrag",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil",
+        "nicht durch Eigenkapital gedeckter Fehlbetrag, davon nicht eingeforderte ausstehende Einlagen",
+        "nicht durch Vermögenseinlagen gedeckter Verlustanteil, davon nicht eingeforderte ausstehende Einlagen",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen",
+        "nicht durch Vermögenseinlagen gedeckte Entnahmen, davon nicht eingeforderte ausstehende Einlagen"
+    ],
+    "de-gaap-ci:bs.ass.fixass.tan.branche_kfz.compcar": [
+        "Geschäftswagen",
+        "Geschäfts- und Vorführwagen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.assoccomp.upto1year.other": [
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit bis 1 Jahr und aus anderen Rechtsverhältnissen",
+        "Verbindlichkeiten gegenüber verbundenen Unternehmen, davon mit Restlaufzeit bis zu einem Jahr, davon aus anderen Rechtsverhältnissen"
+    ],
+    "de-gaap-ci:bs.eqliab.liab.shareholders.gmbhsilent": [
+        "Verbindlichkeiten gegenüber GmbH-Gesellschaftern und stillen Gesellschaftern",
+        "Verbindlichkeiten gegenüber Gesellschaftern",
+        "Verbindlichkeiten gegenüber stillen Gesellschaftern"
+    ]
+}

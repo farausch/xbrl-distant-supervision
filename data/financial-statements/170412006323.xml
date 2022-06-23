@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ba-jahresabschluss-v1.xsl" type="text/xsl"?><BA-Jahresabschluss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" BANr="170412006323"
+                    Version="1"
+                    xsi:noNamespaceSchemaLocation="ba-jahresabschluss.xsd"
+                    pub_pua_publikationsart="135_JahresabschlussFinanzbericht"
+                    PDF-Orientierung="quer"
+                    ID="62032e17-49d7-425a-87cd-618e568635eb"
+                    pub_rubrik="Jahresabschluss"
+                    pub_eingangsdatum=""
+                    pub_eingangsart=""
+                    pub_veroeffentlichungstyp="Jahresabschluss"
+                    pub_ktitel="Jahresabschluss zum Geschäftsjahr vom 01.07.2015 bis zum 30.06.2016"
+                    pub_terminvorgabe="schnellstmoeglich"
+                    pub_termin="2017-05-22"
+                    pub_termin2="0001-01-01"
+                    pub_termin3="0001-01-01"
+                    pub_pubdat_redaktion="2017-04-27"
+                    pub_pubdat_redaktion2="0001-01-01"
+                    pub_pubdat_redaktion3="0001-01-01"
+                    pub_pubdat="2017-04-27"
+                    pub_pubdat1="2017-04-27"
+                    pub_print="nein"
+                    pub_berichtigung="nein">
+  <!-- Manuskript: Tonkens EA 2015_2016.pdf -->
+  <Unternehmens-Kopf>
+      <pub_un_name>Tonkens Agrar AG</pub_un_name>
+      <pub_un_sitz>Sülzetal</pub_un_sitz>
+      <pub_un_strasse>Welsleber Straße 1</pub_un_strasse>
+      <pub_un_plz>39171</pub_un_plz>
+      <pub_un_ort>Sülzetal</pub_un_ort>
+      <pub_un_land>Deutschland</pub_un_land>
+  </Unternehmens-Kopf>
+  <Bek-Text>
+      <Bek-Kopf>
+         <pub_un_logo_kopf Datei="170412006323_00-0.jpg" Format="JPEG">
+        <?xm-replace_text {pub_un_logo_kopf}?>
+      </pub_un_logo_kopf>
+         <Z-Titel Groesse="gross">Tonkens Agrar AG</Z-Titel>
+         <Z-Titel>Sülzetal</Z-Titel>
+         <Titel>
+            <L-Titel>Jahresabschluss zum Geschäftsjahr vom 01.07.2015 bis zum 30.06.2016</L-Titel>
+         </Titel>
+      </Bek-Kopf>
+      <BerichtsTeil>Bilanz</BerichtsTeil>
+      <A>
+         <b>AKTIVA</b>
+      </A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">Geschäftsjahr</TD>
+               <TD valign="bottom">Vorjahr</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>A. Anlagevermögen</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>I. Immaterielle Vermögensgegenstände</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Entgeltlich erworbene gewerbliche Schutzrechte und ähnliche Rechte</TD>
+               <TD>1.759,00</TD>
+               <TD>3.647,00</TD>
+            </TR>
+            <TR>
+               <TD>II. Sachanlagen</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>1. Technische Anlagen und Maschinen</TD>
+               <TD>1.681.369,00</TD>
+               <TD>1.796.917,00</TD>
+            </TR>
+            <TR>
+               <TD>2. Andere Anlagen, Betriebs- und Geschäftsausstattung</TD>
+               <TD>8.356,00</TD>
+               <TD>7.644,00</TD>
+            </TR>
+            <TR>
+               <TD>III. Finanzanlagen</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Anteile an verbundenen Unternehmen</TD>
+               <TD>1.085.868,00</TD>
+               <TD>1.085.868,00</TD>
+            </TR>
+            <TR>
+               <TD>B. Umlaufvermögen</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>I. Forderungen und sonstige Vermögensgegenstände</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>1. Forderungen aus Lieferungen und Leistungen</TD>
+               <TD>37.848,99</TD>
+               <TD>38.302,54</TD>
+            </TR>
+            <TR>
+               <TD>2. Forderungen gegen verbundene Unternehmen</TD>
+               <TD>6.937.916,48</TD>
+               <TD>8.918.474,01</TD>
+            </TR>
+            <TR>
+               <TD>3. Sonstige Vermögensgegenstände</TD>
+               <TD>98.293,78</TD>
+               <TD>77.231,40</TD>
+            </TR>
+            <TR>
+               <TD>II. Kassenbestand und Guthaben bei Kreditinstituten</TD>
+               <TD>173.920,40</TD>
+               <TD>345.872,36</TD>
+            </TR>
+            <TR>
+               <TD>C. Rechnungsabgrenzungsposten</TD>
+               <TD>16.129,72</TD>
+               <TD>28.944,12</TD>
+            </TR>
+            <TR>
+               <TD>D. Aktive latente Steuern</TD>
+               <TD>939.000,00</TD>
+               <TD>483.000,00</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD>
+                  <Bilanzsumme Betrag="10980461.37" Waehrung="EUR">10.980.461,37</Bilanzsumme>
+               </TD>
+               <TD>12.785.900,43</TD>
+            </TR>
+            <TR Hervorhebung="keine">
+               <TD>
+                  <A>
+                     <b>PASSIVA</b>
+                  </A>
+               </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR Hervorhebung="Z-Kopf" valign="bottom">
+               <TD> </TD>
+               <TD>Geschäftsjahr</TD>
+               <TD>Vorjahr</TD>
+            </TR>
+            <TR Hervorhebung="Z-Kopf" valign="bottom">
+               <TD> </TD>
+               <TD>Euro</TD>
+               <TD>Euro</TD>
+            </TR>
+            <TR>
+               <TD>A. Eigenkapital</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>I. Gezeichnetes Kapital</TD>
+               <TD>1.659.000,00</TD>
+               <TD>1.659.000,00</TD>
+            </TR>
+            <TR>
+               <TD>II. Kapitalrücklage</TD>
+               <TD>8.242.533,80</TD>
+               <TD>8.242.533,80</TD>
+            </TR>
+            <TR>
+               <TD>III. Gewinnrücklagen</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Andere Gewinnrücklagen</TD>
+               <TD>217.000,00</TD>
+               <TD>217.000,00</TD>
+            </TR>
+            <TR>
+               <TD>IV. Bilanzverlust</TD>
+               <TD>-2.411.628,18</TD>
+               <TD>-749.533,14</TD>
+            </TR>
+            <TR>
+               <TD>B. Rückstellungen</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>1. Steuerrückstellungen</TD>
+               <TD>0,00</TD>
+               <TD>26.000,00</TD>
+            </TR>
+            <TR>
+               <TD>2. Sonstige Rückstellungen</TD>
+               <TD>354.866,68</TD>
+               <TD>343.583,51</TD>
+            </TR>
+            <TR>
+               <TD>C. Verbindlichkeiten</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>1. Verbindlichkeiten gegenüber Kreditinstituten</TD>
+               <TD>2.056.346,68</TD>
+               <TD>2.186.707,46</TD>
+            </TR>
+            <TR>
+               <TD>2. Verbindlichkeiten aus Lieferungen und Leistungen</TD>
+               <TD>19.560,46</TD>
+               <TD>10.158,38</TD>
+            </TR>
+            <TR>
+               <TD>3. Verbindlichkeiten gegenüber verbundenen Unternehmen</TD>
+               <TD>787.525,64</TD>
+               <TD>753.234,03</TD>
+            </TR>
+            <TR>
+               <TD>4. Sonstige Verbindlichkeiten</TD>
+               <TD>55.256,29</TD>
+               <TD>97.216,39</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD>10.980.461,37</TD>
+               <TD>12.785.900,43</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <BerichtsTeil>Gewinn- und Verlustrechnung </BerichtsTeil>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">Geschäftsjahr</TD>
+               <TD valign="bottom">Vorjahr</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>1. Umsatzerlöse</TD>
+               <TD>
+                  <Umsatzerloese Betrag="530987.63" Waehrung="EUR">530.987,63</Umsatzerloese>
+               </TD>
+               <TD>680.953,64</TD>
+            </TR>
+            <TR>
+               <TD>2. Sonstige betriebliche Erträge</TD>
+               <TD>59.055,25</TD>
+               <TD>29.816,33</TD>
+            </TR>
+            <TR>
+               <TD>3. Materialaufwand</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Aufwendungen für bezogene Leistungen</TD>
+               <TD>1.777,50</TD>
+               <TD>0,00</TD>
+            </TR>
+            <TR>
+               <TD>4. Personalaufwand</TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>a) Löhne und Gehälter</TD>
+               <TD>297.244,76</TD>
+               <TD>393.347,01</TD>
+            </TR>
+            <TR>
+               <TD>b) Soziale Abgaben</TD>
+               <TD>57.156,94</TD>
+               <TD>75.531,85</TD>
+            </TR>
+            <TR>
+               <TD>5. Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen</TD>
+               <TD>122.605,10</TD>
+               <TD>121.036,31</TD>
+            </TR>
+            <TR>
+               <TD>6. Sonstige betriebliche Aufwendungen</TD>
+               <TD>358.479,51</TD>
+               <TD>302.618,65</TD>
+            </TR>
+            <TR>
+               <TD>7. Sonstige Zinsen und ähnliche Erträge</TD>
+               <TD>347.025,27</TD>
+               <TD>530.554,78</TD>
+            </TR>
+            <TR>
+               <TD>8. Aufgrund eines Gewinnabführungsvertrags erhaltene Gewinne</TD>
+               <TD>542.681,37</TD>
+               <TD>202.765,94</TD>
+            </TR>
+            <TR>
+               <TD>9. Zinsen und ähnliche Aufwendungen</TD>
+               <TD>212.525,16</TD>
+               <TD>183.855,71</TD>
+            </TR>
+            <TR>
+               <TD>10. Aufwendungen aus Verlustübernahme</TD>
+               <TD>2.553.975,98 </TD>
+               <TD>1.708.850,82 </TD>
+            </TR>
+            <TR>
+               <TD>11. Ergebnis der gewöhnlichen Geschäftstätigkeit</TD>
+               <TD>-2.124.015,43</TD>
+               <TD>-1.341.149,66</TD>
+            </TR>
+            <TR>
+               <TD>12. Steuern vom Einkommen und vom Ertrag</TD>
+               <TD>-461.918,17</TD>
+               <TD>-625.028,52</TD>
+            </TR>
+            <TR>
+               <TD>13. Sonstige Steuern</TD>
+               <TD>-2,22</TD>
+               <TD>33.412,00</TD>
+            </TR>
+            <TR>
+               <TD>14. Jahresfehlbetrag</TD>
+               <TD>-1.662.095,04</TD>
+               <TD>-749.533,14</TD>
+            </TR>
+            <TR>
+               <TD>15. Verlustvortrag aus dem Vorjahr</TD>
+               <TD>-749.533,14</TD>
+               <TD>0,00</TD>
+            </TR>
+            <TR>
+               <TD>16. Bilanzverlust</TD>
+               <TD>-2.411.628,18</TD>
+               <TD>-749.533,14</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <Z-Titel>Anlagenspiegel</Z-Titel>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL Legende="ja" align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL Umbruch="ja" width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL Umbruch="ja" width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR>
+               <TD> </TD>
+               <TD align="center" colspan="4" valign="bottom">Anschaffungs- oder Herstellungskosten</TD>
+               <TD align="center" colspan="4" valign="bottom">Abschreibungen</TD>
+               <TD align="center" colspan="2" valign="bottom">Buchwerte</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">Stand 01.07.2015</TD>
+               <TD valign="bottom">Zugänge</TD>
+               <TD valign="bottom">Abgänge</TD>
+               <TD valign="bottom">Stand 30.06.2016</TD>
+               <TD valign="bottom">Stand 01.07.2015</TD>
+               <TD valign="bottom">Zugänge</TD>
+               <TD valign="bottom">Abgänge</TD>
+               <TD valign="bottom">Stand 30.06.2016</TD>
+               <TD valign="bottom">30.06.2016</TD>
+               <TD valign="bottom">30.06.2015</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">Euro </TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro</TD>
+               <TD valign="bottom">Euro </TD>
+               <TD valign="bottom">Euro </TD>
+               <TD valign="bottom">Euro </TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>I. Immaterielle Vermögensgegenstände </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Entgeltlich erworbene gewerbliche Schutzrechte und ähnliche Rechte</TD>
+               <TD>19.221,81 </TD>
+               <TD>0,00</TD>
+               <TD>745,81 </TD>
+               <TD>18.476,00</TD>
+               <TD>15.574,81 </TD>
+               <TD>1.887,00</TD>
+               <TD>744,81</TD>
+               <TD>16.717,00 </TD>
+               <TD>1.759,00 </TD>
+               <TD>3.647,00 </TD>
+            </TR>
+            <TR>
+               <TD>II. Sachanlagen </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>1. Technische Anlagen und Maschinen</TD>
+               <TD>2.291.509,51</TD>
+               <TD>0,00</TD>
+               <TD>0,00</TD>
+               <TD>2.291.509,51</TD>
+               <TD>494.592,51</TD>
+               <TD>115.548,00</TD>
+               <TD>0,00</TD>
+               <TD>610.140,51</TD>
+               <TD>1.681.369,00</TD>
+               <TD>1.796.917,00</TD>
+            </TR>
+            <TR>
+               <TD>2. Andere Anlagen, Betriebs- und Geschäftsausstattung</TD>
+               <TD>23.464,21 </TD>
+               <TD>5.883,10</TD>
+               <TD>7.052,82 </TD>
+               <TD>22.294,49</TD>
+               <TD>15.820,21 </TD>
+               <TD>5.170,10 </TD>
+               <TD>7.051,82</TD>
+               <TD>13.938,49 </TD>
+               <TD>8.356,00 </TD>
+               <TD>7.644,00 </TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD>2.314.973,72 </TD>
+               <TD>5.883,10</TD>
+               <TD>7.052,82 </TD>
+               <TD>2.313.804,00</TD>
+               <TD>510.412,72 </TD>
+               <TD>120.718,10 </TD>
+               <TD>7.051,82</TD>
+               <TD>624.079,00 </TD>
+               <TD>1.689.725,00 </TD>
+               <TD>1.804.561,00 </TD>
+            </TR>
+            <TR>
+               <TD>III. Finanzanlagen </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Anteile an verbundenen Unternehmen</TD>
+               <TD>1.085.868,00 </TD>
+               <TD>0,00</TD>
+               <TD>0,00 </TD>
+               <TD>1.085.868,00</TD>
+               <TD>0,00</TD>
+               <TD>0,00</TD>
+               <TD>0,00</TD>
+               <TD>0,00 </TD>
+               <TD>1.085.868,00 </TD>
+               <TD>1.085.868,00 </TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD>3.420.063,53 </TD>
+               <TD>5.883,10</TD>
+               <TD>7.798,63 </TD>
+               <TD>3.418.148,00</TD>
+               <TD>525.987,53</TD>
+               <TD>122.605,10</TD>
+               <TD>7.796,63</TD>
+               <TD>640.796,00 </TD>
+               <TD>2.777.352,00 </TD>
+               <TD>2.894.076,00 </TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <BerichtsTeil>Anhang für das Geschäftsjahr vom 01.07.2015 bis 30.06.2016</BerichtsTeil>
+      <Z-Titel>GRUNDSÄTZE DER RECHNUNGSLEGUNG</Z-Titel>
+      <A>
+         <b>Aufstellung des Jahresabschlusses</b>
+      </A>
+      <A>Der Jahresabschluss der Tonkens Agrar AG wurde nach den Vorschriften des Handelsgesetzbuches (HGB) und des Aktiengesetzes (AktG) aufgestellt. Für die Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren gewählt.</A>
+      <A>Die Gesellschaft ist gemäß § 267a Abs. 1 HGB als Kleinstkapitalgesellschaft einzuordnen. Zwar besteht eine Börsennotierung im Entry Standard der Frankfurter Wertpapierbörse, jedoch gilt dieses Börsensegment nicht als organisierter Markt im Sinne des § 2 Abs. 5 WpHG. Die Erleichterungsvorschriften für kleine Kapitalgesellschaften wurden nur insoweit in Anspruch genommen, wie nicht gemäß § 131 Abs. 1 Satz 3 AktG ein Aktionär in der Hauptversammlung ein Vorlagerecht für einen Jahresabschluss ohne Erleichterungsmöglichkeiten besitzt.</A>
+      <A>Im Sinne der Klarheit und zur Verbesserung der Übersichtlichkeit werden ergänzende Angaben zu den Posten der Bilanz und der Gewinn- und Verlustrechnung ausschließlich im Anhang gemacht.</A>
+      <A>
+         <b>Bilanzierungs- und Bewertungsgrundsätze</b>
+      </A>
+      <A>Entgeltlich erworbene immaterielle Vermögensgegenstände und die Sachanlagen sind mit ihren Anschaffungs- bzw. Herstellungskosten, vermindert um planmäßige Abschreibungen, bewertet. Die Abschreibungen werden linear bemessen. Ihnen liegen die betriebsgewöhnlichen Nutzungsdauern zugrunde.</A>
+      <A>Die Finanzanlagen werden zu Anschaffungskosten bewertet. Außerplanmäßige Abschreibungen werden vorgenommen, soweit eine voraussichtliche dauernde Wertminderung vorliegt.</A>
+      <A>Die Forderungen und sonstigen Vermögensgegenstände werden zum Nennwert abzüglich erforderlicher Abschreibungen bewertet. Die Restlaufzeiten betragen weniger als ein Jahr.</A>
+      <A>Die liquiden Mittel werden zu Nominalwerten angesetzt.</A>
+      <A>Als aktive Rechnungsabgrenzungsposten sind Auszahlungen vor dem Abschlussstichtag angesetzt, soweit sie Aufwand für einen bestimmten Zeitraum nach diesem Zeitpunkt darstellen.</A>
+      <A>Latente Steuern werden auf die Unterschiede in den Bilanzansätzen der Handelsbilanz und der Steuerbilanz angesetzt, sofern sich diese in späteren Geschäftsjahren voraussichtlich abbauen. Aktive und passive latente Steuern werden saldiert ausgewiesen.</A>
+      <A>Im Falle eines Aktivüberhangs der latenten Steuern zum Bilanzstichtag wird von dem Aktivierungswahlrecht des § 274 Abs. 1 Satz 2 HGB Gebrauch gemacht.</A>
+      <A>Der Aufwand und Ertrag aus der Veränderung der bilanzierten latenten Steuern wird in der Gewinn- und Verlustrechnung unter dem Posten "Steuern vom Einkommen und vom Ertrag" in Höhe von TEUR -456 (Vorjahr TEUR -424) ausgewiesen.</A>
+      <A>Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abgezinst.</A>
+      <A>Durch die sonstigen Rückstellungen werden allen erkennbaren Risiken angemessen und ausreichend Rechnung getragen.</A>
+      <A>Die Verbindlichkeiten werden mit dem Erfüllungsbetrag ausgewiesen.</A>
+      <Z-Titel>ERLÄUTERUNGEN ZUR BILANZ</Z-Titel>
+      <A>
+         <b>Anlagevermögen</b>
+      </A>
+      <A>Die Entwicklung der in der Bilanz erfassten Anlagegegenstände ist in einer Anlage zum Anhang dargestellt.</A>
+      <A>
+         <b>Forderungen gegen verbundene Unternehmen</b>
+      </A>
+      <A>Die Forderungen gegen verbundene Unternehmen sind solche aus Darlehensgewährung/Verrechnungskonten (TEUR 6.915) und Lieferungen und Leistungen (TEUR 23).</A>
+      <A>
+         <b>Sonstige Vermögensgegenstände</b>
+      </A>
+      <A>In den sonstigen Vermögensgegenständen sind antizipative Forderungen aus im Folgejahr abziehbaren Vorsteuern in Höhe von TEUR 2 enthalten.</A>
+      <A>
+         <b>Latente Steuern</b>
+      </A>
+      <A>Die aktiven latenten Steuern resultieren aus folgenden Sachverhalten:</A>
+      <A>Temporäre Differenzen:</A>
+      <UL>
+         <LI>
+            <LA>Bildung einer Drohverlustrückstellung: Differenz TEUR 207 zu einem Steuersatz von 26,33 % (TEUR 55)</LA>
+         </LI>
+      </UL>
+      <A>Aktivierung steuerlicher Verlustvorträge:</A>
+      <UL>
+         <LI>
+            <LA>Körperschaftsteuerverlustvortrag TEUR 3.855 zu einem Steuersatz von 15,83 %</LA>
+         </LI>
+         <LI>
+            <LA>Gewerbesteuerverlustvortrag TEUR 2.607 zu einem Steuersatz von 10,51 %</LA>
+         </LI>
+      </UL>
+      <A>
+         <b>Gezeichnetes Kapital</b>
+      </A>
+      <A>Das Grundkapital beträgt zum 30.06.2016 EUR 1.659.000,00 und ist eingeteilt in 1.659.000 nennwertlose, auf den Inhaber lautende Stückaktien.</A>
+      <A>Der Vorstand ist ermächtigt, das Grundkapital in der Zeit bis zum 22.02.2017 mit Zustimmung des Aufsichtsrats um bis zu insgesamt nominal EUR 829.500,00 durch einmalige oder mehrmalige Ausgabe neuer auf den Inhaber lautender Stückaktien gegen Bar- oder Sacheinlage zu erhöhen (genehmigtes Kapital 2012).</A>
+      <A>
+         <b>Überleitungsrechnung zum Bilanzgewinn</b>
+      </A>
+      <A>In der Bilanz erfolgt eine Darstellung des Eigenkapitals vor Ergebnisverwendung. Die gemäß § 158 Abs. 1 AktG erforderliche Überleitungsrechnung zum Bilanzgewinn stellt sich wie folgt dar:</A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">30.06.2016</TD>
+            </TR>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">EUR</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>Jahresfehlbetrag des Geschäftsjahres</TD>
+               <TD>-1.662.095,04</TD>
+            </TR>
+            <TR>
+               <TD>Verlustvortrag aus dem Vorjahr</TD>
+               <TD>-749.533,14 </TD>
+            </TR>
+            <TR>
+               <TD>Bilanzverlust zum Stichtag</TD>
+               <TD>-2.411.628,18</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <A>
+         <b>Sonstige Rückstellungen</b>
+      </A>
+      <A>Die sonstigen Rückstellungen von TEUR 355 berücksichtigen im Wesentlichen Rückstellungen für Vergütungen an den Aufsichtsrat von TEUR 30, Rückbauverpflichtungen von TEUR 37, Abschluss- und Prüfungskosten von TEUR 62 sowie Drohverlustrückstellungen von TEUR 207.</A>
+      <A>
+         <b>Verbindlichkeiten</b>
+      </A>
+      <A>Verbindlichkeiten gegenüber Kreditinstituten bestehen in Höhe von TEUR 2.056, davon mit einer Restlaufzeit von über 5 Jahren in Höhe von TEUR 687 und einer Restlaufzeit von über 1 bis zu 5 Jahren in Höhe von TEUR 500. Alle anderen Verbindlichkeiten haben eine Restlaufzeit von bis zu einem Jahr.</A>
+      <A>Sicherheiten wurden für die Verbindlichkeiten gegenüber Kreditinstituten in Form von Verpfändung von Guthaben, Sicherungsübereignungen und Forderungsabtretungen bestellt.</A>
+      <A>Gegenüber verbundenen Unternehmen bestehen Verbindlichkeiten in Höhe von TEUR 781. Diese Verbindlichkeiten sind Verbindlichkeiten aus Lieferungen und Leistungen (TEUR 36) und Darlehensgewährungen (TEUR 745).</A>
+      <A>
+         <b>Bewertungseinheiten</b>
+      </A>
+      <A>Die Gesellschaft ist im Rahmen ihrer Geschäftstätigkeit Zinsrisiken ausgesetzt. Deren Absicherung erfolgt im Wesentlichen durch den Einsatz derivativer Finanzinstrumente. Es handelt sich meist um außerhalb der Börse gehandelte (sogenannte OTC-) Instrumente. Dazu gehören insbesondere Zinsswaps. Ihr Einsatz erfolgt nach einheitlichen Richtlinien, unterliegt strengen internen Kontrollen und bleibt mit wertmäßig geringen Ausnahmen auf die Absicherung des operativen Geschäfts der Gesellschaft sowie der damit verbundenen Geldanlagen und Finanzierungsvorgänge beschränkt. Ziel des Einsatzes von derivativen Finanzinstrumenten ist, in Bezug auf Ergebnis und Zahlungsmittelflüsse die Fluktuationen zu reduzieren, die auf Veränderungen von Zinssätzen zurückgehen.</A>
+      <A>Zur Absicherung von Grundgeschäften werden derivative Finanzinstrumente regelmäßig zur Absicherung des Zinsänderungsrisikos bei Darlehen mit variabler Verzinsung eingesetzt. Sofern die gesetzlichen Voraussetzungen vorliegen, werden Bewertungseinheiten i.S.d. § 254 HGB gebildet. Zur bilanziellen Abbildung der wirksamen Teile der gebildeten Bewertungseinheiten wird die sog. Einfrierungsmethode (kompensatorische Bewertung) angewendet. Die Effektivität der Sicherungsbeziehungen wird zu jedem Bilanzstichtag prospektiv und retrospektiv festgestellt.</A>
+      <A>Es wurden folgende Bewertungseinheiten gebildet:</A>
+      <A>Im Geschäftsjahr wurden derivative Finanzinstrumente (Zinsswaps) zur Absicherung künftiger Zahlungsströme aus variabel verzinslichen (Euribor) Darlehen verwendet. Dem Zinsswap liegt ein Grundgeschäft mit vergleichbarem, gegenläufigem Risiko (Mikro-Hedge) zugrunde. Das mit der aus dem Grundgeschäft und dem Sicherungsgeschäft gebildeten Bewertungseinheit nach § 254 HGB gesicherte Kreditvolumen beträgt zum Bilanzstichtag TEUR 1.313.</A>
+      <A>Die Regelungen zur Bildung einer Bewertungseinheit zur kompensatorischen Bewertung der Sicherungsbeziehung werden angewandt. Aufgrund der Betragsidentität und der Kongruenz der Laufzeiten, Zinssätze, Zinsanpassungs- bzw. Zins- und Tilgungstermine gleichen sich die gegenläufigen Wertänderungen bzw. Zahlungsströme während der Laufzeit von Grund- und Sicherungsgeschäft aus.</A>
+      <A>Das Geschäft weist zum Bilanzstichtag einen negativen Marktwert von rund TEUR 198 zu Lasten der Berichtsgesellschaft auf. Dieser Wert belastet das Unternehmen jedoch erst, wenn das Swapgeschäft verkauft werden würde.</A>
+      <A>
+         <b>Derivative Finanzinstrumente</b>
+      </A>
+      <A>Zur Begrenzung von Zinsrisiken wurden Zinsderivate in Form eines Zinsswaps im Volumen von TEUR 1.000 mit einer Laufzeit bis 2021 abgeschlossen. Bei diesem derivativen Finanzinstrument handelt es sich um eine Zinssicherung mittels Digital Collar. Der digitale Collar hat eine Zinsobergrenze von 3,9 % und eine Zinsuntergrenze von 1,0 %.</A>
+      <A>Es handelt sich nicht um eine Bewertungseinheit.</A>
+      <A>Das Geschäft weist zum Bilanzstichtag einen negativen Marktwert von rund TEUR 207 zu Lasten der Berichtsgesellschaft auf. Dieser Wert belastet das Unternehmen jedoch erst, wenn das Swapgeschäft verkauft werden würde. In gleicher Höhe wurde eine Drohverlustrückstellung gebildet.</A>
+      <Z-Titel>SONSTIGE ANGABEN</Z-Titel>
+      <A>
+         <b>Ausschüttungsgesperrte Beträge</b>
+      </A>
+      <A>Zum Bilanzstichtag unterliegt der Wert der aktiven latenten Steuern in Höhe von TEUR 939 der Ausschüttungssperre.</A>
+      <A>
+         <b>Haftungsverhältnisse</b>
+      </A>
+      <A>Die Gesellschaft unterliegt Bürgschaftsverpflichtungen zu Gunsten von Tochtergesellschaften (verbundenen Unternehmen) in Höhe von TEUR 5.782. Die besicherten Darlehen valutieren zum Stichtag mit TEUR 3.726. Daneben unterliegt die Gesellschaft Verpflichtungen aus Schuldbeitrittserklärungen in Höhe von TEUR 5.757. Die besicherten Darlehen valutieren zum Stichtag mit TEUR 3.749.</A>
+      <A>Aufgrund der Liquiditätssituation der Tochtergesellschaften ist von einer Inanspruchnahme für deren Haftungsverhältnisse nicht auszugehen.</A>
+      <A>Eine Inanspruchnahme durch die Gläubiger der Tochterunternehmen kann nicht ausgeschlossen werden; es liegen diesbezüglich jedoch keine Anhaltspunkte für eine Inanspruchnahme vor.</A>
+      <A>
+         <b>Sonstige finanzielle Verpflichtungen</b>
+      </A>
+      <A>Mit den Tochtergesellschaften Agrar- und Milchhof Stemmern GmbH in Sülzetal, Milch- und Zuchtbetrieb Hendriks GmbH in Sülzetal, Osterfelder Agrar GmbH in Osterfeld, AMB Agrar Holding GmbH in Sülzetal und Börde Vita GmbH in Wanzleben-Börde, bestehen jeweils ein Beherrschungs- und Gewinnabführungsvertrag, der auch zur Übernahme von Verlusten dieser Gesellschaft verpflichtet. Diese Verträge wurden mit der Eintragung in das Handelsregister des Sitzes der Gesellschaften wirksam.</A>
+      <A>
+         <b>Anteilsbesitz</b>
+      </A>
+      <A>Die Gesellschaft hält zum Bilanzstichtag folgende Anteile an Unternehmen:</A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR valign="bottom">
+               <TD>Name und Sitz der Gesellschaft</TD>
+               <TD>Anteil am Kapital</TD>
+               <TD>Eigenkapital 30.06.2016</TD>
+               <TD>Jahresergebnis per 30.06.2016</TD>
+            </TR>
+            <TR valign="bottom">
+               <TD> </TD>
+               <TD>%</TD>
+               <TD>TEUR</TD>
+               <TD>TEUR</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>Agrar- und Milchhof Stemmern GmbH, Sülzetal</TD>
+               <TD>100,00 direkt</TD>
+               <TD>463</TD>
+               <TD>0</TD>
+            </TR>
+            <TR>
+               <TD>Milch- und Zuchtbetrieb Hendriks GmbH, Sülzetal</TD>
+               <TD>51,00 direkt und 49,00 indirekt</TD>
+               <TD>229</TD>
+               <TD>0</TD>
+            </TR>
+            <TR>
+               <TD>Osterfelder Agrar GmbH, Osterfeld</TD>
+               <TD>100,00 direkt</TD>
+               <TD>1.415</TD>
+               <TD>0</TD>
+            </TR>
+            <TR>
+               <TD>Börde Vita GmbH, Wanzleben- Börde</TD>
+               <TD>100,00 direkt</TD>
+               <TD>25</TD>
+               <TD>0</TD>
+            </TR>
+            <TR>
+               <TD>AMB Agrar Holding GmbH, Sülzetal</TD>
+               <TD>100,00 direkt</TD>
+               <TD>12</TD>
+               <TD>0</TD>
+            </TR>
+            <TR>
+               <TD>Bördelagerhaus GmbH, Wanzleben-Börde</TD>
+               <TD>50,00 indirekt</TD>
+               <TD>2.344</TD>
+               <TD>61</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <A>
+         <b>Aufsichtsrat</b>
+      </A>
+      <A>Folgende Damen und Herren gehörten im Geschäftsjahr dem Aufsichtsrat der Gesellschaft an:</A>
+      <UL Praefix="Punkt">
+         <LI>
+            <LA>Herr Dr. Johannes Waitz, Rechtsanwalt, Braunschweig, Vorsitzender</LA>
+         </LI>
+         <LI>
+            <LA>Herr Horst Mantay, Wirtschaftsprüfer/Steuerberater, Berlin, stellvertretender Vorsitzender sowie</LA>
+         </LI>
+         <LI>
+            <LA>Frau Bea Tonkens, Landwirtin, Torgau</LA>
+         </LI>
+      </UL>
+      <A>Die Gesamtbezüge des Aufsichtsrates für das Geschäftsjahr betrugen TEUR 30.</A>
+      <A>
+         <b>Mitglieder des Vorstandes</b>
+      </A>
+      <A>Als Mitglied des Vorstandes war im abgelaufenen Geschäftsjahr bestellt:</A>
+      <UL Praefix="Punkt">
+         <LI>
+            <LA>Herr Gerrit Tonkens, Landwirt, Torgau</LA>
+         </LI>
+      </UL>
+      <A>Die Gesamtbezüge des Vorstandes betrugen für das Geschäftsjahr TEUR 0.</A>
+      <A>
+         <b>Mitarbeiter</b>
+      </A>
+      <A>Im abgelaufenen Geschäftsjahr beschäftigte die Gesellschaft, neben dem Vorstand, durchschnittlich <DurchschnittMAAnzahl Anzahl="8">8</DurchschnittMAAnzahl> (Vorjahr 10) angestellte Mitarbeiter.</A>
+      <A>
+         <b>Konzernzugehörigkeit</b>
+      </A>
+      <A>Die Tonkens Agrar AG, Sülzetal, stellt als Muttergesellschaft einen Konzernabschluss der Tonkens Agrar AG, Sülzetal, und ihrer Tochterunternehmen auf. Der Konzernabschluss wird elektronisch beim Bundesanzeiger veröffentlicht.</A>
+      <A>Die Tochterunternehmen wenden die Vorschriften des ersten (enthält den § 274 HGB), dritten und vierten Unterabschnitts zur Offenlegung der Jahresabschlüsse nicht an.</A>
+      <A>
+         <b>Abschlussprüferhonorar</b>
+      </A>
+      <A>Das im Berichtsjahr als Aufwand erfasste Honorar für den Abschlussprüfer (TEUR 42, Vorjahr TEUR 0) setzt sich aus Honoraren für Abschlussprüfungen (TEUR 42, Vorjahr TEUR 0), anderen Bestätigungsleistungen (TEUR 0, Vorjahr TEUR 0), Steuerberatungsleistungen (TEUR 0, Vorjahr TEUR 0) sowie sonstigen Leistungen (TEUR 0, Vorjahr TEUR 0) zusammen.</A>
+      <Sign>
+         <SOD>Sülzetal, den 4. November 2016</SOD>
+         <O-Name/>
+         <U-Zeichner>Gerrit Tonkens, Vorstand</U-Zeichner>
+      </Sign>
+      <BerichtsTeil>Lagebericht gemäß HGB der Tonkens Agrar AG über das Geschäftsjahr 2015/2016 (01.07.2015-30.06.2016)</BerichtsTeil>
+      <A>
+         <b>1. Deutsche Wirtschaft und Arbeitsmarkt </b>
+      </A>
+      <A>Im Jahr 2015 verzeichnete die deutsche Wirtschaft ein solides stetiges Wachstum, das Bruttoinlandsprodukt (BIP) nahm um 1,7 % zu. Im dritten und vierten Quartal 2015 wurde jeweils ein Plus von 0,3 % erreicht. Kräftigste Wachstumstreiber waren auf der Verwendungsseite die privaten Konsumausgaben, welche mit +1,9 % den stärksten Anstieg seit dem Jahr 2000 aufwiesen. Auch die Konsumausgaben des Staates legten mit +2,8 % deutlich zu. Positiv entwickelten sich ebenfalls die Investitionen: So erhöhten sich die Ausrüstungsinvestitionen der Unternehmen und des Staates um 4,0 %, die Bauinvestitionen um 1,9 %. Unverändert robust zeigte sich der deutsche Arbeitsmarkt — die Zahl der Erwerbstätigen stieg von 42,7 Mio. in 2014 auf 43,0 Mio. Personen in 2015.</A>
+      <A>Das erste Quartal 2016 fiel mit +0,7 % außergewöhnlich stark aus, begünstigt durch die milde Witterung zog die Bautätigkeit saisonal verfrüht an. Im zweiten Quartal 2016 folgte ein BIP-Wachstum von 0,4 %. Hier zeigten sich die Exporte besonders stark, stützend wirkten sich darüber hinaus auch die Konsumausgaben der privaten Haushalte und die des Staates aus. Der Aufschwung auf dem deutschen Arbeitsmarkt setzte sich auch im ersten Kalenderhalbjahr 2016 weiter fort. Ende Juni 2016 waren 43,5 Mio. Personen erwerbstätig, was im Vorjahresvergleich einem Plus von 1,2 % entspricht.</A>
+      <A>
+         <b>2. Branchenentwicklung</b>
+      </A>
+      <A>
+         <b>Wetterbedingungen in Deutschland </b>
+      </A>
+      <A>Entscheidend für den Geschäftserfolg der Tonkens Agrar AG im Berichtszeitraum 01. Juli 2015 bis 30. Juni 2016 war die Erntesaison 2015 und die bereits im Spätsommer 2014 begonnene Aussaat der ersten Fruchtarten. Daher wird auch auf die wichtigen externen Einflussfaktoren des Geschäftsjahres 2014/2015 eingegangen, welche den Zeitraum der Aussaat und des Wachstums bestimmt haben — hier insbesondere Witterungseinflüsse.</A>
+      <A>
+         <b>Wetterbedingungen 2014/2015</b>
+      </A>
+      <A>Die Anbausaison 2014, die mit der Ernte 2015 endet und die sich im Geschäftsergebnis 2015/16 widerspiegelt, begann ab August 2014 mit der Aussaat. Dieser zeigte sich sehr niederschlagsreich und herbstlich. Der Herbst 2014 war ungewöhnlich trocken und mild, er bot optimale Bedingungen für die Ernte- und Feldarbeit. Darauf folgte ein wechselhafter und ebenfalls milder Winter 2014/2015. Dies führte zunächst dazu, dass die Pflanzenwelt keine Winterruhe fand und sich das Wintergetreide regional zu rasch entwickelte. Im Dezember fiel erst nach Weihnachten gebietsweise Schnee. Im Januar wechselten sich Rekordtemperaturen, starke Regenfälle und Stürme mit winterlichen Tagen ab. Ein normales Temperaturniveau wies erst der Februar 2015 auf, zum Monatsende war die Vegetation insgesamt von einem normalen Entwicklungsstand gekennzeichnet. Der Frühling 2015 startete warm, sonnenscheinreich und trocken, wobei der Monat März bei überdurchschnittlich hohen Temperaturen optimale Bedingungen für Feldarbeiten bot. Aufgrund zu geringer Niederschläge im April 2015 mussten mancherorts die Felder das erste Mal künstlich beregnet werden. Der Mai brachte dem Norden und Süden Deutschlands mehr Regenfälle, während Mitteldeutschland unter Trockenheit litt. Dem folgte ein sehr wechselhafter Juni mit einigen gewittrigen Starkregenfällen, wobei nur zu Monatsbeginn und -ende sommerliche Temperaturen verzeichnet wurden, dazwischen behauptete sich eine deutlich kältere Luft.</A>
+      <A>
+         <b>Wetterbedingungen 2015/2016</b>
+      </A>
+      <A>Der Sommer 2015 brachte starke Wetterextreme mit sich. Nach einem wechselhaften Juni 2015 zeigten sich die Monate Juli und August in vielen Regionen sehr trocken und heiß, mitunter wurden neue Temperaturrekorde in Deutschland erreicht. So wurden in Kitzingen am 5. Juli 2015 40,3 °C gemessen. Diese Hitze brachte einigen Teilen Deutschlands eine außergewöhnliche Trockenheit. Im Deutschlandmittel ergaben sich nur 207 l/m<ex>2</ex>, 14 % unterhalb des Solls von 239 l/m<ex>2</ex>. In Folge vertrockneten Getreideflächen und Wiesen, was teilweise durch gewittrige Starkregenfälle entschärft wurde. Gebietsweise führte Dauerregen aber auch zu Überschwemmungen. Nördlich von Magdeburg und damit in der Nähe der Felder der Tonkens Agrar AG, fiel am 4. Juli 2015 bei einem schweren Gewitter eine Niederschlagsmenge von 119,9 l/m<ex>2</ex>. Insgesamt stellte der Sommer aber den drittwärmsten seit dem Beginn der Wetteraufzeichnungen dar. Dem Rekordsommer folgten ein unauffälliger September und Oktober, wobei auch diese Monate das Niederschlagssoll weiter unterschritten, insbesondere im Südwesten Deutschlands mangelte es an Regen. In Ostdeutschland wurde das Soll weitestgehend erfüllt — die Wetterbedingungen ließen sämtliche Ernte- und Feldarbeiten zu. Im November und Dezember 2015 wurden erneut Temperaturrekorde gebrochen — der Dezember 2015 war mit Abstand der wärmste seit dem Beginn der Wetteraufzeichnungen und fiel zu trocken aus. Schnee gab es an Weihnachten keinen. Viele Orte blieben den ganzen Monat über frostfrei. Dieser frühlingshafte Start des Winters lies die Pflanzenwelt nicht zur Winterruhe kommen. Mitte Januar sorgte der erste Frost für die Vegetationsruhe und stoppte dann die Pflanzenentwicklung. Gleichzeitig nahmen die Niederschläge im Januar und Februar deutlich zu, das Soll wurde überschritten, was sich in einer entsprechenden Bodenfeuchte und teilweise auch in einer Unbefahrbarkeit der Felder bemerkbar machte. Der März startete daher feucht, ab der zweiten Märzwoche setzte sich ein trockenes Hochdruckwetter durch. Nachtfröste verhinderten zunächst den Frühlingsbeginn, erst Ende des Monats startete der Erstfrühling. Der vierte Monat des Jahres 2016 machte seinem Namen alle Ehre — das Wetter zeigte sich im April 2016 sehr wechselhaft. Die Sommerungen konnten gepflanzt werden und auch die Pflanzentwicklung legte zu. Ab Monatsmitte setzte die Rapsblüte ein. Ende April machte sich ein ungewöhnlich starker Kaltluftvorstoß breit — tagsüber wurden nur einstellige Temperaturen und nachts sogar Bodenfröste verzeichnet. Aufgrund dessen verzögerten sich das Legen der Kartoffeln und der Start der Maisbestellung. Der Mai 2016 war durch abwechselnde Hoch- und Tiefdruckgebiete gekennzeichnet, wobei ab Christi Himmelfahrt die Temperaturen auf ein sommerliches Niveau zunahmen. Mancherorts war ein erster Grünlandschnitt möglich, in einigen Gebieten mussten die Felder aufgrund von Trockenheit das erste Mal künstlich beregnet werden. Zu den Eisheiligen an Pfingsten setzte ein unbeständiges und deutlich kühleres Wetter ein. Das wechselhafte Wetter hielt noch bis Monatsende an, dafür stiegen die Temperaturen aber wieder. Der Juni war durch überwiegend warme Temperaturen charakterisiert, heiße Luft aus Nordwestafrika sorgte im letzten Monatsdrittel für hochsommerliches Wetter. Dabei führten im ganzen Monat Juni bereits geringe Luftdruckunterschiede zu starken Gewittern und Regengüssen, die teilweise katastrophal ausfielen und sogar von Tornados begleitet wurden. Dies spiegelte sich auch in der deutlich über dem Durchschnitt liegenden Niederschlagsmenge von 115 l/m<ex>2</ex> wider, das Mittel beträgt 85 l/m<ex>2</ex>.</A>
+      <A>
+         <b>Ernteentwicklung</b>
+      </A>
+      <A>Weltgetreidebilanz (ohne Reis) (in Mio. Tonnen)</A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">2012/13</TD>
+               <TD valign="bottom">2013/14</TD>
+               <TD valign="bottom">2014/15</TD>
+               <TD valign="bottom">2015/16*</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>WEIZEN </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Produktion</TD>
+               <TD>655</TD>
+               <TD>717</TD>
+               <TD>730</TD>
+               <TD>735</TD>
+            </TR>
+            <TR>
+               <TD>Handel</TD>
+               <TD>142</TD>
+               <TD>157</TD>
+               <TD>153</TD>
+               <TD>165</TD>
+            </TR>
+            <TR>
+               <TD>Verbrauch</TD>
+               <TD>677</TD>
+               <TD>699</TD>
+               <TD>716</TD>
+               <TD>722</TD>
+            </TR>
+            <TR>
+               <TD>Endbestände</TD>
+               <TD>171</TD>
+               <TD>188</TD>
+               <TD>203</TD>
+               <TD>217</TD>
+            </TR>
+            <TR>
+               <TD>Hauptexportländer <ex>a)</ex>
+               </TD>
+               <TD>51</TD>
+               <TD>54</TD>
+               <TD>64</TD>
+               <TD>64</TD>
+            </TR>
+            <TR>
+               <TD>MAIS </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Produktion</TD>
+               <TD>866</TD>
+               <TD>998</TD>
+               <TD>1.018</TD>
+               <TD>969</TD>
+            </TR>
+            <TR>
+               <TD>Handel</TD>
+               <TD>100</TD>
+               <TD>122</TD>
+               <TD>125</TD>
+               <TD>135</TD>
+            </TR>
+            <TR>
+               <TD>Verbrauch</TD>
+               <TD>863</TD>
+               <TD>950</TD>
+               <TD>994</TD>
+               <TD>969</TD>
+            </TR>
+            <TR>
+               <TD>Endbestände</TD>
+               <TD>131</TD>
+               <TD>182</TD>
+               <TD>207</TD>
+               <TD>207</TD>
+            </TR>
+            <TR>
+               <TD>GETREIDE </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Produktion</TD>
+               <TD>1.795</TD>
+               <TD>2.008</TD>
+               <TD>2.047</TD>
+               <TD>2.000</TD>
+            </TR>
+            <TR>
+               <TD>Handel</TD>
+               <TD>271</TD>
+               <TD>310</TD>
+               <TD>322</TD>
+               <TD>341</TD>
+            </TR>
+            <TR>
+               <TD>Verbrauch</TD>
+               <TD>1.818</TD>
+               <TD>1.935</TD>
+               <TD>2.008</TD>
+               <TD>1.982</TD>
+            </TR>
+            <TR>
+               <TD>Endbestände</TD>
+               <TD>337</TD>
+               <TD>412</TD>
+               <TD>451</TD>
+               <TD>469</TD>
+            </TR>
+            <TR>
+               <TD>Hauptexportländer <ex>a)</ex>
+               </TD>
+               <TD>99</TD>
+               <TD>121</TD>
+               <TD>146</TD>
+               <TD>145</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <A>
+         <Fn>
+            <FnZ>*</FnZ>
+            <FnA>vorläufige Zahlen, a) Argentinien, Australien, Kanada, EU, Kasachstan, Russland, Ukraine, USA</FnA>
+         </Fn>
+      </A>
+      <A>In Deutschland wird rund die Hälfte der deutschen Landesfläche landwirtschaftlich genutzt. Bezogen auf einzelne Anbaupflanzen ergab sich dabei folgendes Bild:</A>
+      <A>
+         <i>Getreide:</i>
+      </A>
+      <A>Die Getreideernte in Deutschland fiel im Jahr 2016 mit 45,5 Mio. Tonnen unterdurchschnittlich aus. Der Rekordwert des Vorjahres von 48,9 Mio. Tonnen wurde damit um 6,9 % unterschritten, auch der mehrjährige Durchschnitt wurde um 2,5 % verfehlt. Zurückzuführen ist dies einerseits auf die verringerten Anbauflächen. Zugunsten anderer Fruchtarten betrug die Anbaufläche für Getreide lediglich rund 6,35 Mio. Hektar, dies stellt den niedrigsten Wert seit dem Jahr 1993 dar. Andererseits verursachte die unbeständige Witterung, insbesondere im Frühjahr 2016, mit (anhaltend) starken Regenfällen, Überschwemmungen und Hagelschäden regional Ernteeinbußen. Mit Blick auf die durchschnittlichen Hektarerträge ergab sich eine ungewöhnlich große Bandbreite an Erntemengen: Je nach Bundesland wurden Hektarerträge von 54,2 Dezitonnen bis zu 80,6 Dezitonnen eingefahren, das deutschlandweite Mittel lag bei 70,3 Dezitonnen je Hektar (jeweils ohne Körnermais). Hierbei führte Schleswig-Holstein das Ranking an, das Schlusslicht stellte Brandenburg dar. In Sachsen-Anhalt überstiegen die Hektarerträge mit 76,9 Dezitonnen den Bundesdurchschnitt.</A>
+      <A>Per Ende August 2016 lagen die deutschen Erzeugerpreise unter Vorjahresniveau, was aufgrund der Rekordernten der Vorjahre auf das noch immer hohe Angebot auf dem Markt zurückzuführen ist. So zeigte sich der Brotgetreidepreis mit 14,38 EUR je Dezitonne (Vj. 15,65 EUR je Dezitonne) zwar schwächer als im Vorjahr, Sorgen der Marktteilnehmer um Qualitätseinbußen wirkten sich jedoch preisstützend aus. Am deutlichsten machte sich der Preisverfall bei Futtergetreide bemerkbar. Futtergerste und Futterweizen notierten 13 %, bzw. 11 % niedriger als zum Vorjahreszeitpunkt.</A>
+      <A>Gegliedert nach den einzelnen Getreidearten stellten sich die Ernteergebnisse und Erzeugerpreise wie folgt dar:</A>
+      <A>Die Anbaufläche für die in Deutschland wichtigste Getreidekultur Winterweizen wurde um 2,0 % auf 3,14 Mio. Hektar verringert, die Erntemenge mit 24,2 Mio. Tonnen unterschritt das Vorjahresniveau deutlich um 7,7 %. Auch hier waren die Hektarerträge deutschlandweit sehr unterschiedlich und erfüllten insbesondere im Nordosten, Südwesten und Westen nicht die Erwartungen.</A>
+      <A>Bei Roggen verringerten die deutschen Landwirte ihre Anbauflächen sichtlich um 6,6 % auf 575.000 Hektar, was maßgeblich an der ungünstigen Preislage im Sommer 2015 gelegen haben dürfte. Zwar nahm die Erntemenge mit 3,23 Mio. Tonnen gegenüber Vorjahr um 9,0 % ab, die durchschnittlichen Hektarerträge erreichten aber mit 56,2 Dezitonnen (Vj. 56,6 Dezitonnen) fast das gute Vorjahresniveau. Der Roggenpreis notierte Ende August 2016 7 % schlechter als im Vorjahr, er bewegte sich bei 12,27 EUR je Dezitonne. Schlechtere Qualitäten, bestimmt für die Futtermittelerzeugung oder Biogasanlagen, wurden für 10,50 EUR je Dezitonne gehandelt.</A>
+      <A>Der Mais befand sich Ende August 2016 zum Zeitpunkt der Veröffentlichung des Ernteberichts des Bundeslandwirtschaftsministeriums noch in der Wachstums- und Ertragsbildungsphase, die Ernte erfolgt erst im Herbst 2016. Die Anbaufläche für Körnermais wurde gegenüber Vorjahr um 8,6 % auf 416.000 Hektar reduziert. Bei erwarteten regional hohen Ertragsunterschieden wird mit einer Gesamternte von 3,8 Mio. Tonnen gerechnet, was gegenüber 2015 einem Rückgang um 4% entspricht.</A>
+      <A>
+         <i>Raps:</i>
+      </A>
+      <A>Zur Ernte 2016 weiteten die deutschen Landwirte ihre Anbauflächen für Raps um 3,9 % auf 1,33 Mio. Hektar aus. Nach dem deutlichen Rückgang der Anbauflächen in der vorherigen Erntesaison liegen diese damit aber immer noch unter dem mehrjährigen Mittelwert. Die Hektarerträge gingen deutlich zurück. Bundesweit wurden im Durchschnitt 35,0 Dezitonnen Raps je Hektar eingebracht. Gegenüber Vorjahr bedeutet dies eine Abnahme um 10,5 % und auch das mehrjährige Mittel wurde um 8,5 % unterschritten. Ernteverluste ergaben sich regional aus unterschiedlichen Gründen. Während in Nordostdeutschland die Frühjahrs- und Vorsommertrockenheit die Kornfüllung bremsten und das Erntegut daher teils sehr kleinsamig war, führten in West- und Süddeutschland starke Niederschläge im Frühjahr zu einem hohen Krankheitsdruck und Schädlingsbefall. Insgesamt ging die Erntemenge gegenüber Vorjahr um 7,0 % auf 4,66 Mio. Tonnen zurück, das mehrjährige Mittel wurde um 10,9 % unterschritten. Dabei wurden stichprobenartig Ölgehalte von knapp 43 % festgestellt (Vj. 43,4 %). Im Vorfeld der Rapsernte zog der Rapspreis ab April 2016 auf den Terminmärkten, vor dem Hintergrund der erwarteten geringeren Ernten, an. Das Brexit-Referendum hatte zwischenzeitlich zu rückläufigen Preisen geführt, im August 2016 setzte sich der Preisauftrieb jedoch fort, da die EU-Rapsernte immer niedriger eingeschätzt wurde.</A>
+      <Grafik Datei="170412006323_00-1.jpg" Format="JPEG"/>
+      <A>
+    </A>
+      <A>
+         <i>Kartoffeln:</i>
+      </A>
+      <A>Zum Zeitpunkt der Berichterstellung konnte noch keine Prognose zur erwarteten Kartoffelerntemenge für 2016 getroffen werden, entscheidend sind die Witterungsbedingungen der kommenden Wochen bis zur Ernte im Herbst. Bislang war 2016 mit Blick auf die Witterungsbedingungen kein gutes Kartoffeljahr. Übersättigte Böden führten im Frühjahr bereits bei den Früherzeugungsgebieten zu Problemen bei der Feldbestellung, Dauernässe mitunter zur Krautfäule, auch zu Totalausfällen. Entsprechend verspätet startete in 2016 die Ernte der Frühkartoffeln, die Saison endete am 10. August. Mit 26.500 Tonnen verfehlte die Frühkartoffelernte den Vorjahreswert von 29.000 Tonnen deutlich. Bei den Speisefrühkartoffeln lagen die Erzeugerpreise mit rund 27 Euro je Dezitonne Ende August 2016 zwar über dem Vorjahresniveau, allerdings standen dem auch erhöhte Kosten gegenüber, so insbesondere für Pflanzenschutzmittel und das Absortieren. Insgesamt wurden Kartoffeln auf einer Fläche von 235.500 Hektar angebaut (-0,5 % ggü. Vj.).</A>
+      <A>
+         <i>Milch:</i>
+      </A>
+      <A>Preis für angelieferte Rohmilch je 100 Kilogramm in € </A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL Legende="ja" align="left"/>
+            <COL/>
+            <COL/>
+            <COL/>
+            <COL/>
+            <COL/>
+            <COL/>
+            <COL Umbruch="ja"/>
+            <COL/>
+            <COL/>
+            <COL/>
+            <COL/>
+            <COL/>
+         </COLGROUP>
+         <THEAD>
+            <TR valign="bottom">
+               <TD> </TD>
+               <TD align="center" colspan="6">2015</TD>
+               <TD align="center" colspan="6">2016 (vorläufig)</TD>
+            </TR>
+            <TR valign="bottom">
+               <TD>Merkmal</TD>
+               <TD>Juli</TD>
+               <TD>Aug.</TD>
+               <TD>Sept.</TD>
+               <TD>Okt.</TD>
+               <TD>Nov.</TD>
+               <TD>Dez.</TD>
+               <TD>Jan.</TD>
+               <TD>Feb.</TD>
+               <TD>März</TD>
+               <TD>April</TD>
+               <TD>Mai</TD>
+               <TD>Juni</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>Ab Hof</TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>bei tatsächlichem Fett- und Eiweißgehalt</TD>
+               <TD>27,48</TD>
+               <TD>27,30</TD>
+               <TD>27,87</TD>
+               <TD>28,89</TD>
+               <TD>29,29</TD>
+               <TD>29,24</TD>
+               <TD>28,37</TD>
+               <TD>27,55</TD>
+               <TD>26,68</TD>
+               <TD>25,07</TD>
+               <TD>23,21</TD>
+               <TD>22,46</TD>
+            </TR>
+            <TR>
+               <TD>bei 4,0 % Fettgehalt und 3,4 % Eiweißgehalt</TD>
+               <TD>28,20</TD>
+               <TD>27,80</TD>
+               <TD>27,54</TD>
+               <TD>27,76</TD>
+               <TD>28,19</TD>
+               <TD>28,36</TD>
+               <TD>27,45</TD>
+               <TD>26,82</TD>
+               <TD>25,83</TD>
+               <TD>24,60</TD>
+               <TD>23,08</TD>
+               <TD>22,83</TD>
+            </TR>
+            <TR>
+               <TD>Freie Molkerei</TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD>I</TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>bei 4,0 % Fettgehalt und 3,4 % Eiweißgehalt</TD>
+               <TD>29,41</TD>
+               <TD>29,02</TD>
+               <TD>28,77</TD>
+               <TD>28,99</TD>
+               <TD>29,41</TD>
+               <TD>29,59</TD>
+               <TD>28,65</TD>
+               <TD>28,02</TD>
+               <TD>27,02</TD>
+               <TD>25,78</TD>
+               <TD>24,26</TD>
+               <TD>24,02</TD>
+            </TR>
+            <TR>
+               <TD>Tatsächlicher Fettgehalt %</TD>
+               <TD>3,90</TD>
+               <TD>3,93</TD>
+               <TD>4,06</TD>
+               <TD>4,21</TD>
+               <TD>4,23</TD>
+               <TD>4,21</TD>
+               <TD>4,23</TD>
+               <TD>4,19</TD>
+               <TD>4,22</TD>
+               <TD>4,15</TD>
+               <TD>4,07</TD>
+               <TD>3,98</TD>
+            </TR>
+            <TR>
+               <TD>Tatsächlicher Eiweißgehalt %</TD>
+               <TD>3,30</TD>
+               <TD>3,33</TD>
+               <TD>3,44</TD>
+               <TD>3,53</TD>
+               <TD>3,51</TD>
+               <TD>3,48</TD>
+               <TD>3,47</TD>
+               <TD>3,45</TD>
+               <TD>3,47</TD>
+               <TD>3,42</TD>
+               <TD>3,39</TD>
+               <TD>3,33</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <A>Im Berichtsjahr zeigten sich die Milchpreise weiter massiv rückläufig. Gegenüber Juli 2015 mit 27,48 EUR/ 100 Kilogramm nahm der Kuhmilchpreis ab Hof bis Juni 2016 um rund 18 % auf 22,50 EUR/ 100 Kilogramm ab. Eine zukünftige Entspannung der für viele deutsche Betriebe existenzbedrohenden Situation zeichnete sich erst zum Ende des Geschäftsjahres 2015/2016 erstmals leicht ab. Auf Verarbeitungsstufe machten sich festere Preistendenzen bemerkbar, die jedoch die Erzeugerseite noch nicht erreichten. Angebotsseitig nahm der Druck im Laufe des ersten Kalenderhalbjahres 2016 ebenfalls ab. Die Zunahme bei der weltweiten Milchanlieferung fiel im zweiten Quartal 2016 erstmals seit Jahresbeginn 2015 wieder schwächer aus. Allerdings lag das Exportangebot von Januar bis Juni 2016 2,4 Mio. Tonnen höher als im Vorjahr.</A>
+      <A>Die niedrigen Milchpreise hatten aber vergleichsweise kaum Einfluss auf den Milchkuhbestand in Deutschland. Zum Stichtag 3. Mai 2016 gab es rund 4,3 Mio. Milchkühe, damit gegenüber der letzten Zählung im November 2015 etwa 0,3 % weniger (aufgrund eingeschränkter Qualität der Daten aus Baden-Württemberg ist die Datenbasis unsicher). Allerdings setzte sich der Strukturwandel in der Milchviehwirtschaft ungebremst fort. Die Daten aus Baden-Württemberg exklusive, nahm die Anzahl der Milchviehhaltungen deutschlandweit um 2,6 % auf knapp 71.300 Betriebe ab.</A>
+      <Z-Titel>B. Gesellschaftsstruktur</Z-Titel>
+      <A>Die Tonkens Agrar AG und ihre Tochtergesellschaften (nachfolgend auch "Tonkens Gruppe") sind in verschiedenen Bereichen der landwirtschaftlichen Produktion tätig. Die Geschäftstätigkeit umfasst die Segmente Ackerbau, Milchproduktion sowie Lagerung, Veredelung und Vermarktung von Agrarprodukten und Erneuerbare Energien. Das vierte Geschäftssegment Erneuerbare Energien umfasst den Betrieb von Photovoltaikanlagen und zwei Biogasanlagen, die in Sülzetal und Osterfeld betrieben werden und über eine Nennleistung von 1.200 kW verfügen und den Strom in das öffentliche Netz einspeisen.</A>
+      <A>Die Tonkens Gruppe ist in der Produktion von Agrarprodukten (Ackerbau und Milchproduktion) ausschließlich mit in Deutschland gelegenen Flächen tätig. 13,2 % der rund 3.241 Hektar (Vj. 3.305 Hektar) großen Fläche stellt Eigentumsfläche dar. 78,1 % sind gepachtet und 17,9 % werden für Landwirte in Lohnarbeit bzw. als Dienstleister bewirtschaftet. 9,2 % der Flächen werden verpachtet. Die Tonkens Gruppe baut ausschließlich auf konventionelle Weise an und betreibt keinen sogenannten ökologischen Anbau von Agrarprodukten.</A>
+      <Grafik Datei="170412006323_00-2.jpg" Format="JPEG"/>
+      <A>Die Agrar- und Milchhof Stemmern GmbH mit Sitz in Sülzetal, Ortsteil Stemmern, wurde am 5. Juni 1997 gegründet und ist im Handelsregister des Amtsgerichtes Stendal unter HRB 110167 eingetragen. Das Stammkapital beträgt derzeit 51.129,19 EUR und wird zu 100,0 % von der Tonkens Agrar AG gehalten. Gegenstand des Unternehmens ist landwirtschaftlicher Betrieb einschließlich Tierhaltung.</A>
+      <A>Die Börde Vita GmbH ist mit Vertrag vom 30. September 2009 unter der Firma BIOGAS STEMMERN GmbH mit Sitz in Sülzetal, Ortsteil Stemmern, gegründet worden und im Handelsregister des Amtsgerichts Stendal unter HRB 9873 eingetragen. Die Gesellschaft hat ihren Sitz in Wanzleben-Börde. Der Gegenstand des Unternehmens ist die Lagerung, Aufbereitung und der Handel von landwirtschaftlichen Produkten. Das Stammkapital beträgt derzeit 25.000,00 EUR und wird zu 100,0 % von der Tonkens Agrar AG gehalten.</A>
+      <A>Die Milch- und Zuchtbetrieb Hendriks GmbH mit Sitz in Sülzetal, Ortsteil Stemmern, wurde am 22. März 1991 gegründet und ist im Handelsregister des Amtsgerichtes Stendal unter HRB 102245 eingetragen. Das Stammkapital beträgt derzeit 102.258,38 EUR, wobei 51,0 % von der Tonkens Agrar AG und 49,0 % von der Agrar- und Milchhof Stemmern GmbH gehalten werden. Unternehmensgegenstand ist die Führung eines landwirtschaftlichen Betriebs mit allen damit verbundenen Tätigkeiten und Geschäften, insbesondere zur Aufzucht und Haltung von Milchkühen.</A>
+      <A>Die Osterfelder Agrar GmbH mit Sitz in Osterfeld, Ortsteil Haardorf, wurde am 8. Oktober 1991 gegründet und ist im Handelsregister des Amtsgerichtes Stendal unter HRB 205628 eingetragen. Das Stammkapital beträgt derzeit 51.129,19 EUR. Es wird zu 100,0 % von der Tonkens Agrar AG gehalten. Gegenstand des Unternehmens ist der Betrieb eines landwirtschaftlichen Betriebes (Tier- und Pflanzenproduktion) in Osterfeld sowie die Lagerung, Verpackung und der Handel mit Früchten landwirtschaftlicher Urproduktion und verarbeiteter Folgeprodukte betreffend insbesondere Kartoffeln und Zwiebeln.</A>
+      <A>Die AMB Agrar Holding GmbH mit Sitz in Sülzetal, Ortsteil Stemmern, wurde am 30. September 2009 gegründet und ist im Handelsregister des Amtsgerichts Stendal unter HRB 13616 eingetragen. Das Stammkapital beträgt aufgrund einer am 18. Mai 2010 eingetragenen Kapitalerhöhung derzeit 26.000,00 EUR und wird zu 100,0 % von der Tonkens Agrar AG gehalten. Gegenstand des Unternehmens ist der Erwerb und die Verwaltung von Beteiligungen an Unternehmen.</A>
+      <A>Die Bördelagerhaus GmbH mit Sitz in Wanzleben-Börde wurde am 5. Februar 2001 gegründet und ist im Handelsregister des Amtsgerichtes Stendal unter HRB 112660 eingetragen. Das Stammkapital beträgt derzeit 500.000,00 EUR, es wird zu 50,0 % von Herrn Berend van der Velde und zu 50,0 % von der AMB Agrar Holding GmbH gehalten. Gegenstand des Unternehmens ist die Lagerung, Aufbereitung und der Handel von landwirtschaftlichen Produkten. Die Gesellschaft ist zu allen Maßnahmen und Geschäften berechtigt, die dem Gesellschaftszweck unmittelbar oder mittelbar zu dienen geeignet sind. Der Unternehmensgegenstand beschränkt sich im Wesentlichen auf den Bereich der Erneuerbaren Energien.</A>
+      <A>
+         <b>Unternehmensstrategie</b>
+      </A>
+      <A>Die Tonkens Gruppe hat sich der kontinuierlichen Weiterentwicklung der Geschäftsfelder</A>
+      <UL Praefix="Punkt">
+         <LI>
+            <LA>Milchproduktion</LA>
+         </LI>
+         <LI>
+            <LA>Ackerbau</LA>
+         </LI>
+         <LI>
+            <LA>Lagerhaltung, Veredelung und Vermarktung</LA>
+         </LI>
+         <LI>
+            <LA>Erneuerbare Energien</LA>
+         </LI>
+      </UL>
+      <A>verschrieben. Das Geschäftsfeld der Erneuerbaren Energien wird derzeit nicht weiter ausgebaut, vor dem Hintergrund der aktuell ungünstigen politischen Rahmenbedingungen. Ziel ist ein kontrolliertes Wachstum, das mittels fünf Faktoren erzielt werden soll:</A>
+      <Grafik Datei="170412006323_00-3.jpg" Format="JPEG"/>
+      <A>Die Tonkens Gruppe profitiert aufgrund ihrer Größe von Synergie- und Spareffekten, die kleinere Wettbewerber nicht nutzen können. So können Logistik- und Vertriebskapazitäten in der Gruppe effizienter genutzt werden. Zudem bietet die gute Bodenqualität der Ackerflächen der Tonkens Gruppe einen weiteren Vorteil. In Sachsen-Anhalt liegen die Flächen in einem grundsätzlich sehr fruchtbaren Gebiet. Gemessen am Durchschnitt in Deutschland, weisen die Flächen überdurchschnittliche Erntequalität vor. Hinzu kommt, dass der Vorstand Gerrit Tonkens als ausgewiesener Fachmann im betriebswirtschaftlichen Bereich durch die kaufmännische Abteilung des Unternehmens ergänzt wird. Das Management hat über die Jahre eine vielversprechende Marktposition errichtet und sich als einer der führenden Anbieter für Zwiebeln und Kartoffeln in Deutschland etabliert. Ergänzt wird das Kerngeschäft schließlich durch den Bereich Erneuerbare Energien. Hierbei verfolgt der Vorstand das Ziel einer geschlossenen Kreislaufwirtschaft. Demnach soll beispielsweise nur so viel Biogas erzeugt werden, wie entsprechend im laufenden Betrieb Reststoffe anfallen. Die Tonkens Gruppe ist damit insgesamt betrachtet in einem attraktiven und von langfristigen Trends geprägten Umfeld tätig.</A>
+      <A>Das wichtigste mittelfristige Ziel im Rahmen dieser Strategie besteht in einer kontinuierlichen Steigerung des Anteils der Veredelung von selbst angebauten Zwiebeln und insbesondere Kartoffeln. Durch eine zunehmende eigene Verarbeitung der Produkte in den Bereichen Abpacken und Schälen soll die Wertschöpfung spürbar erhöht werden. Die Produktion im Ackerbau wird dahingehend fortlaufend angepasst, dass Sorten von hoher Qualität gezielt für die wachsende eigene Veredlung und Vermarktung angebaut werden. Im Berichtsjahr wurde daher in Saatgut für neue Kartoffelsorten investiert, die speziell für die eigene Veredelung geeignet sind. Während der weit überwiegende Teil der Landwirte als Produzent von Rohstoffen auftritt, verfolgt der Vorstand weiterhin das Ziel, die Tonkens Gruppe zu einem vollständigen Verarbeitungsbetrieb der eigenen Rohstoffe (Kartoffeln und Zwiebeln) zu entwickeln. Das fertige Endprodukt wird direkt an den Lebensmittelgroß- und -einzelhandel, die Industrie sowie die Gastronomie vertrieben, um so höhere Margen zu erzielen. Durch modernste Verarbeitungstechnik werden kosten- sowie zeitintensive Zwischenschritte in der Produktion vermieden. Mit den modernen Produktionsanlagen ist eine wirtschaftliche Produktion bei gleichzeitig deutlich erhöhter Kapazität möglich. Die Vermarktung der veredelten Produkte wird durch die Tochter Börde Vita GmbH betrieben. Das Ziel besteht weiterhin darin, unter der Gewinnung zusätzlicher größerer Abnehmer, die Inanspruchnahme der vorhandenen Kapazität deutlich zu erhöhen. So bietet die Kartoffelschälanlage die Möglichkeit, bis zu 10.000 Tonnen Rohware pro Jahr zu veredeln. Im Berichtsjahr konnten weitere Neukunden gewonnen werden, es bestehen aber noch Reserven im Veredelungsgeschäft. Der Fokus liegt im Geschäftsjahr 2016/17 auf der Steigerung der Rentabilität, welche bislang noch nicht zufrieden stellend ist.</A>
+      <A>Vor dem Hintergrund des Endes der Lieferbeschränkungen durch den Wegfall der EU-Milchquoten seit dem 01. April 2015, plant die Tonkens Agrar AG unverändert eine Ausweitung ihrer Milchvieh-Stallungen und eine Aufstockung des Milchviehbestands. In der Milchproduktion bestehen noch Kapazitäten beim vorhandenen Melkstand. Durch eine Ausnutzung dieser könnten die Produktionskosten optimiert werden, was insbesondere aktuell in Zeiten niedriger Milchpreise von Bedeutung ist. Mit Blick auf die sehr angespannte Situation auf dem Milchmarkt und dem dadurch im Berichtsjahr nicht zufriedenstellenden Geschäftsverlauf in diesem Geschäftsfeld, hat die Tonkens Agrar AG die geplante Investition zunächst zurückgestellt, hält an diesem Vorhaben aber weiter fest.</A>
+      <Z-Titel>C. Geschäftsverlauf</Z-Titel>
+      <A>Trotz der zuvor beschriebenen schwierigen Witterungsbedingungen in 2015 konnte die Tonkens Ag-rar AG in der Erntesaison 2015 gute Ernteerträge und Qualitäten erzielen. Auch aufgrund des gezielten Einsatzes des unternehmensintern anfallenden organischen Düngers aus den Biogasanlagen wurde bei der Gerste mit 120 Dezitonnen je Hektar einer neuer Rekordwert erreicht. Qualitativ gute und mindestens auf dem Bundesdurchschnitt liegende Erträge brachte die Tonkens Agrar AG auch bei den anderen Fruchtarten ein. Je nach Standort wurde beim Winterweizen ein Hektarertrag von 80 bis 90 Dezitonnen geerntet (Vj. 95 Dezitonnen) und beim Raps in einer Bandbreite von 40 bis 47 Dezitonnen (Vj. 50 Dezitonnen). Die Maiserträge lagen auf Vorjahresniveau. Der sehr gute Vorjahreswert von 446 Dezitonnen je Hektar konnte bei den Zwiebeln mit 495 Dezitonnen weiter gesteigert werden. Bei Kartoffeln wurden standortabhängig Mengen von 474 bis 485 Dezitonnen je Hektar gerodet.</A>
+      <A>Infolge mehrjähriger weltweiter Rekordernten sind die Läger gut gefüllt und die Preise für Agrarrohstoffe im Berichtsjahr auf ein niedriges Niveau zurückgegangen. Vor diesem Hintergrund hatte die Tonkens Agrar AG, mit der Hoffnung auf eine Besserung der Marktpreise, ihre Getreide- und Raps-ernte länger als sonst üblich eingelagert. Die erhofften Preissteigerungen setzten jedoch nicht ein. Entsprechend ergaben sich hieraus keine positiven Impulse für die Umsatz- und Ergebnisentwicklung im Berichtsjahr. Belastend wirkten sich zudem die anhaltend niedrigen und fast seit Monaten durchgängig sinkenden Milchpreise aus. Gegenüber Geschäftsjahresbeginn sind diese von 27,34 ct/kg auf unter 23 ct/kg zum Berichtsjahresende gefallen. Aufgrund dieser unverändert negativen Entwicklung auf dem Milchmarkt hat die Tonkens Agrar AG die Umsetzung der geplanten Kapazitätserweiterung in der Milchproduktion zur Verringerung der Produktionskosten je Liter Milch, zunächst verschoben, hält an diesem Vorhaben aber weiter fest.</A>
+      <A>Die Verwerfungen auf den Agrarmärkten haben sich bei den Umsatzerlösen und insbesondere im Ergebnis der Tonkens Agrar AG für das Geschäftsjahr 2015/2016 wiedergespiegelt. Mit 0,53 Mio. EUR (Vj. 0,68 Mio. EUR) lagen die Umsatzerlöse unter Vorjahresniveau. Erhöhte Gewinne aus Gewinnabführungsverträgen konnten die gestiegenen Aufwendungen aus Verlustübernahme nicht ausgleichen, weswegen sich der Jahresfehlbetrag auf 1,66 Mio. EUR (Vj. 0,75 Mio. EUR) verschlechterte.</A>
+      <A>
+         <b>Personal</b>
+      </A>
+      <A>
+         <b>Vorstand und Aufsichtsrat</b>
+      </A>
+      <A>Weder im Vorstand noch im Aufsichtsrat ergaben sich im Berichtsjahr personelle Veränderungen. Unverändert leitete Alleinvorstand Gerrit Tonkens die Tonkens Agrar AG, während sich der Aufsichtsrat aus seinem Vorsitzenden Herrn Dr. Johannes Waitz, seinem Stellvertreter Horst Mantay und dem Mitglied Bea Tonkens zusammensetzte.</A>
+      <A>
+         <b>Mitarbeiter</b>
+      </A>
+      <A>Zum Bilanzstichtag 30. Juni 2016 waren bei der Tonkens Agrar AG insgesamt 8 Mitarbeiter (Vj. 9) beschäftigt. </A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR>
+               <TD> </TD>
+               <TD valign="bottom">30.06.2016</TD>
+               <TD valign="bottom">30.06.2015</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>Gesamt</TD>
+               <TD>8</TD>
+               <TD>9</TD>
+            </TR>
+            <TR>
+               <TD>Davon Teilzeit</TD>
+               <TD>2</TD>
+               <TD>1</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <A>
+         <b>Ertragslage</b>
+      </A>
+      <A>Die Umsatzerlöse der Tonkens Agrar AG gingen im Berichtsjahr auf 0,53 Mio. EUR (Vj. 0,68 Mio. EUR) zurück. Hiervon entstammten 0,18 Mio. EUR (Vj. 0,24 Mio. EUR) dem Betrieb der Photovoltaikanlage. Die sonstigen betrieblichen Erträge nahmen von 30 TEUR auf 59 TEUR zu. Der Anstieg ist auf eine Versicherungsentschädigung für einen Blitzschlag an der Photovoltaikanlage zurückzuführen. Aufgrunddessen produzierte diese im Berichtsjahr auch weniger Strom.</A>
+      <A>Analog zum Vorjahr konnten die Gesamtkosten weiter gesenkt werden. Der Personalaufwand reduzierte sich vor dem Hintergrund der gesunkenen Mitarbeiterzahl und der Umwandlung einer Voll- in eine Teilzeitstelle um 0,11 Mio. EUR auf 0,35 Mio. EUR. Während der Abschreibungsaufwand mit 0,12 Mio. EUR auf Vorjahresniveau lag, nahmen die sonstigen betrieblichen Aufwendungen von 0,30 Mio. EUR auf 0,36 Mio. EUR zu. Diese Erhöhung basierte vordergründig auf der Reparatur des Blitzschadens der Photovoltaikanlage. Demgegenüber verringerten sich die Abschluss- und Prüfungskosten. Das Finanzergebnis ohne Ergebnisabführungen belief sich auf 0,13 Mio. EUR (Vj. 0,35 Mio. EUR). Folglich verschlechterte sich das Ergebnis der gewöhnlichen Geschäftstätigkeit auf -0,11 Mio. EUR (Vj. 0,16 Mio. EUR).</A>
+      <A>Ergebnisbelastend wirkten sich die Aufwendungen aus Verlustübernahme mit -2,55 Mio. EUR (Vj. -1,71 Mio. EUR) aus. Nach Steuern belief sich das Jahresergebnis auf -1,66 Mio. EUR (Vj. -0,75 Mio. EUR).</A>
+      <A>
+         <b>Vermögens- und Finanzlage</b>
+      </A>
+      <A>Die Bilanzsumme der Tonkens Agrar AG nahm zum Bilanzstichtag 30. Juni 2016 deutlich von 12,79 Mio. EUR auf 10,98 Mio. EUR ab.</A>
+      <A>Auf der Aktivseite der Bilanz lässt sich dieser Rückgang vordergründig auf die reduzierten Forderungen im Umlaufvermögen zurückführen. Der Posten Forderungen und sonstige Vermögensgegenstände minderte sich auf 7,07 Mio. EUR (Vj. 9,03 Mio. EUR). Die liquiden Mittel beliefen sich zum Bilanzstichtag auf 0,17 Mio. EUR (Vj. 0,35 Mio. EUR), das Unternehmen konnte seinen Zahlungsverpflichtungen jederzeit nachkommen.</A>
+      <A>Demgegenüber ging das Anlagevermögen abschreibungsbedingt auf 2,78 Mio. EUR (Vj. 2,89 Mio. EUR) zurück.</A>
+      <A>Das Eigenkapital auf der Passivseite der Bilanz reduzierte sich aufgrund des Jahresfehlbetrags von 9,37 Mio. EUR auf 7,71 Mio. EUR, entsprechend einer Eigenkapitalquote von 70,19 % (Vj. 73,28 %). Hierbei veränderte sich das Gezeichnete Kapital mit 1.659.000,00 EUR nicht.</A>
+      <A>Zum Bilanzstichtag gingen die Rückstellungen leicht auf 0,35 Mio. EUR (Vj. 0,37 Mio. EUR) zurück. Während zusätzliche Rückstellungen für Drohverluste aus Zinssicherungsgeschäften gebildet wurden (+ 18 TEUR), nahmen die Rückstellungen für Gewerbesteuer (- 26 TEUR) und Abschlusskosten (-13 TEUR) ab.</A>
+      <A>Die Verbindlichkeiten reduzierten sich leicht auf 2,92 Mio. EUR (Vj. 3,05 Mio. EUR). Hierbei vermehrten sich die Verbindlichkeiten gegenüber verbundene Unternehmen auf 0,79 Mio. EUR (Vj. 0,75 Mio.EUR), demgegenüber konnten 0,13 Mio. EUR an Bankdarlehen zurückgeführt werden. Hierdurch nahmen diese auf 2,06 Mio. EUR (Vj. 2,19 Mio. EUR) ab.</A>
+      <A>
+         <b>Prognose-Ist-Vergleich</b>
+      </A>
+      <A>Für das Geschäftsjahr 2015/2016 erwartete der Vorstand für die Tonkens Agrar AG eine gegenüber Vorjahr stabile Ertrags-, aber verbesserte Ergebnislage (in Folge der erwarteten höheren Gewinne aus Gewinnabführungsverträgen sowie geringeren Verlusten aus der Verlustübernahme). Der Vorstand rechnete zudem mit der Erwirtschaftung eines Jahresüberschusses.</A>
+      <A>Die Tonkens Agrar AG konnte bei Umsatz und Ergebnis das Vorjahresniveau nicht halten und demnach auch keine Verbesserungen dieser Kennziffern erzielen. Die Umsatzerlöse haben sich um 0,15 Mio. EUR auf 0,53 Mio. EUR reduziert. Zum einen gingen die konzerninternen Dienstleistungen zurück, zum anderen führte ein Blitzschaden an der Photovoltaikanlage zu verminderten Erlösen aus dem Stromverkauf.</A>
+      <A>Wie erwartet, wurden mit 0,54 Mio. EUR (Vj. 0,20 Mio. EUR) erhöhte Gewinne aus Gewinnabführungsverträgen erzielt, aber die Aufwendungen aus Verlustübernahme nahmen stärker um 0,85 Mio. EUR auf 2,55 Mio. EUR (Vj. 1,71 Mio. EUR) zu, womit sich in Summe eine Ergebnisbelastung ergab. Die auf Konzernebene länger als üblich eingelagerte Getreide- und Rapsernte konnte nicht zu den erhofften höheren Preisen verkauft werden. Damit verschlechterte sich das Jahresergebnis der Tonkens Agrar AG auf -1,66 Mio. EUR (Vj. -0,75 Mio. EUR).</A>
+      <A>Bei der Börde Vita GmbH liegt der Fokus auf der Erhöhung der Kapazität auf 30 bis 35 Tonnen verarbeitete Rohware pro Tag sowie kurz- und mittelfristig auf der Gewinnung industrieller Großkunden. Durch die Gewinnung von Neukunden konnte zwar die Auslastung der Schälanlagen weiter erhöht werden, es bestehen aber nach wie vor Reserven im Veredelungsgeschäft.</A>
+      <A>Der Umsetzungszeitpunkt für die geplante Kapazitätserhöhung in der Milchproduktion ist vor dem Hintergrund der unverändert schwierigen Lage am Milchmarkt unverändert offen, die Tonkens Agrar AG hat das Projekt verschoben, hält an diesem Vorhaben aber weiter fest.</A>
+      <A>Die vollständige Übertragung des Betriebszweigs Milchproduktion der Milch- und Zuchtbetrieb Hendriks GmbH auf die Agrar- und Milchhof Stemmern GmbH hat innerhalb der Tonkens Gruppe zu einer Reduzierung des Organisations- und Verwaltungsaufwands geführt. Darüber hinaus lässt sich dies auch an der Gesamtleistung der einzelnen Tochtergesellschaften erkennen: Der Bestand an fertigen und unfertigen Erzeugnissen sowie Tieren der Milch- und Zuchtbetrieb Hendriks GmbH wurde zum Bilanzstichtag der Agrar- und Milchhof Stemmern GmbH zugerechnet. Damit erhöhte sich die Gesamtleistung der Agrar- und Milchhof Stemmern GmbH deutlich auf 7,55 Mio. EUR (Vj. 5,88 Mio. EUR), wohingegen die Gesamtleistung der Milch- und Zuchtbetrieb Hendriks GmbH auf 1,59 Mio. EUR (Vj. 3,15 Mio. EUR) abnahm (zusätzlich beeinflusst durch Einbußen aufgrund der niedrigen Milchpreise).</A>
+      <Z-Titel>D. Chancen- und Risikobericht</Z-Titel>
+      <A>Als Betrieb in der landwirtschaftlichen Rohproduktion ist der Tonkens Konzern einer Vielzahl von Risiken ausgesetzt, die sich insbesondere aus dem Wirtschaftszweig der Landwirtschaft und der hohen Volatilität der Branche ergeben. Hierbei handelt es sich um externe Effekte, wie das Wetter oder auch die Preisvolatilität. Auch die gesetzlichen Rahmenbedingungen spielen eine entscheidende Rolle. Demgegenüber ergeben sich auch Chancen in Form von Umsatz- und Wachstumspotentialen.</A>
+      <A>Die Risiken lassen sich in folgende Gruppen unterscheiden:</A>
+      <A>
+         <b>1. Operative Risiken</b>
+      </A>
+      <A>
+         <b>Produktionsrisiken</b>
+      </A>
+      <A>Da die Tonkens Agrar AG sowohl im Ackerbau als auch in der Milchproduktion tätig ist, gibt es eine Vielzahl von Risiken, die hinsichtlich der Hektarerträge bzw. der Milchmengen zu Erlöseinbußen führen können.</A>
+      <A>Im Ackerbau können Schädlinge, insbesondere aber unvorhersehbare Wetterextreme, die Qualität und Quantität der Feldfrüchte mindern. Jede extreme Wetterlage wie Trockenheit, Starkniederschläge, damit möglicherweise einhergehende Überflutungen, aber auch Stürme, Hagel oder Frost können die Ernte empfindlich, sowohl positiv wie auch negativ, beeinflussen. Diesem Risiko begegnet Tonkens durch eine teilweise regionale Streuung und Produktdiversifikation sowie durch — wo ökonomisch sinnvoll — einen Versicherungsschutz. Darüber hinaus ergibt sich durch die sehr hohe Bodenqualität der Magdeburger Börde die Chance, überdurchschnittliche Erträge oder trotz widriger Bedingungen eine vergleichsweise noch zufriedenstellende Ernte zu erzielen. Erst Ende des Jahres 2013 wurde von der Bundesanstalt für Geowissenschaften und Rohstoffe bestätigt, dass die Magdeburger Börde den qualitativ besten Boden Deutschlands aufweist. Im Berichtsjahr konnte die Tonkens Agrar AG bei widrigen Witterungsbedingungen erneut von den hohen Wasserspeicherkapazitäten der Schwarzerdeböden profitieren. In den heißen und trockenen Monaten August und September 2016, konnten insbesondere die Kartoffeln und Zwiebeln davon profitieren.</A>
+      <A>Gleichzeitig besteht das Risiko, dass das eingekaufte Saatgut bestimmte Qualitätsstandards nicht erfüllt. Dies könnte negative Auswirkungen für die Ernte des jeweiligen Jahres haben. Um dieses Risiko zu minimieren, erwirbt die Tonkens Agrar AG zertifiziertes Saatgut bei ausgewählten Händlern.</A>
+      <A>Im Rahmen der Milchproduktion besteht ein Risiko in einem Ausbruch von Tierkrankheiten bzw. Seuchen. Dies gilt zum einen hinsichtlich des konkreten Bestandes der Tiere der Tonkens-Gruppe. Darüber hinaus können aber auch in der Öffentlichkeit diskutierte Themen, wie z.B. Bovine spongiforme Enzephalopathie (BSE), oder Futtermittelverunreinigungen nicht nur zu Einwirkungen auf den eigenen Bestand an Tieren sowie zu staatlichen Maßnahmen, die die Produktion beeinträchtigen, führen, sondern darüber hinaus auch die öffentliche Meinung über Milchprodukte negativ beeinflussen, was allgemein zu einer Reduzierung des Absatzes der Milchprodukte führen kann.</A>
+      <A>Regelmäßige tierärztliche Kontrollen und Futtermittelproben sollen die Gesundheit des Milchviehbestands sicherstellen.</A>
+      <A>Darüber hinaus können sich sowohl in der Pflanzenaufzucht als auch in der Milchviehhaltung Risiken durch Aufzucht-, bzw. Haltungs-, Fütterungs- oder anderweitige Managementfehler ergeben. Im Ackerbau können die Hektarerträge, u.a. durch den falschen Düngereinsatz, deutlich abnehmen. Die Gesellschaft begegnet dem Risiko, indem sie in der Landwirtschaft langjährig erfahrene Mitarbeiter einsetzt und darüber hinaus den Aufwuchs der Pflanzen fortwährend überwacht und dabei auch den Nährstoffgehalt der Böden regelmäßig analysiert. Zudem werden die Nährstoffe mit neuen Verfahren direkt in die Böden eingebracht, sodass sie ihre Wirkung ohne nennenswerte Verluste entfalten. Bei der Milchviehhaltung sind z.B. die Auswahl des geeigneten Futtermittels von großer Bedeutung sowie die regelmäßige Kontrolle der Milch, die Schulung des Personals und wiederkehrende Betreuung der Tierbestände durch einen Veterinär.</A>
+      <A>
+         <b>Risiken aus den Anlagen</b>
+      </A>
+      <A>Als Landwirtschaftsunternehmen setzt die Tonkens Agrar AG unterschiedlichste Maschinen, Geräte und Anlagen ein. Deren Einsatz ist mit einem vielfältigen Gefahrenpotential verbunden. Insbesondere könnten eine fehlerhafte Montage, eine fehlerhafte Bedienung der Anlagen, ein Unfall oder ein anderer Umstand dazu führen, dass beispielsweise Biogas entweicht oder sich entzündet und eine Explosion herbeiführt. Mögliche Personen- oder Sachschäden, wofür die Tonkens Agrar AG als Betreiber der Anlagen haftbar gemacht werden kann, können mitunter zu erheblichen direkten bzw. indirekten Kosten führen. Ein Brandschaden hat z.B. direkte Kosten für den Wiederaufbau bzw. die Wiederbeschaffung der jeweiligen Anlage zur Folge, gleichzeitig können Betriebsunterbrechungen zu indirekten Erlösminderungen führen. Neben den im Ackerbau eingesetzten Maschinen (z.B. Mähdrescher, Kartoffel- oder, Drillmaschinen) verfügt die Tonkens Agrar AG im Rahmen der Milchproduktion über einen modernen Melkstand. Darüber hinaus setzt sie im Bereich der Veredelung der eigenen Produkte moderne Schäl- und Verpackungsanlagen ein und betreibt im Rahmen des Geschäftsfelds der Erneuerbaren Energien Photovoltaik- und Biogasanlagen.</A>
+      <A>Dem Risiko von Personen- und Sachschäden begegnet die Tonkens Agrar AG durch hohe Sicherheitsvorschriften sowie den Abschluss ausgewählter Versicherungen.</A>
+      <A>Durch den unsachgemäßen Betrieb von Biogas- oder Photovoltaikanlagen können Schäden entstehen, die sich negativ auf die Leistung der Anlagen auswirken. Die Gesellschaft wirkt diesem Risiko entgegen, indem die Anlagen mit technischen Warn- und Überwachungssystemen ausgestattet sind. Zudem finden regelmäßig Schulungen der Mitarbeiter statt.</A>
+      <A>Da der technologische Fortschritt in immer kürzeren Abständen neuere, modernere und effizientere Maschinen hervorbringt, besteht auch ein Risiko in der Entwertung der vorhandenen Maschinen. Die Tonkens Agrar AG ist beständig dabei, ihren Maschinen- und Anlagenpark zu modernisieren, um damit eine effiziente und reibungslose Produktion gewährleisten zu können.</A>
+      <A>
+         <b>Umfang der Vorräte</b>
+      </A>
+      <A>Ausreichende Vorräte sind zur Minderung von Diskrepanzen zwischen Angebot und Nachfrage ein sehr wichtiges Instrument zur dauerhaften Lieferfähigkeit. Wenn die zugänglichen Vorräte im Vergleich zum Bedarf gering sind, kann die Preisvolatilität hoch sein. Tonkens minimiert das Risiko von Engpässen weitgehend durch eine gesteuerte und kontrollierte Lagerhaltung. Diese beinhaltet die Steuerung und Überwachung der Temperatur, Helligkeit, Luftfeuchtigkeit und Belüftung. So lagert die Gesellschaft beispielsweise Kartoffeln teilweise in Kisten, um Qualitätseinbußen zu vermeiden.</A>
+      <A>
+         <b>Ressourcenknappheit</b>
+      </A>
+      <A>Höhere Energiekosten, technologische und natürliche Grenzen limitieren das Produktionswachstum. Auch hier führt die eigens produzierte Photovoltaik- und Biogasenergie zu einer gezielten Verringerung des Risikos. Die Tonkens-Gruppe ist für die Ausübung ihrer Geschäftstätigkeit auf landwirtschaftliche Flächen angewiesen, um auf diesen Ackerbau, Milchproduktion und Biogasanlagen zu betreiben. Das Angebot an landwirtschaftlichen Flächen ist begrenzt. Sowohl beim Erwerb landwirtschaftlicher Flächen als auch beim Abschluss oder der Verlängerung von Pachtverträgen ist die Tonkens-Gruppe daher einem erheblichen Wettbewerb ausgesetzt. Die Gesellschaft ist im Rahmen der Beobachtung des Wettbewerbsumfeldes darauf bedacht, neue aussichtsreiche Flächen für den Anbau zu pachten und so sicher zu stellen, dass weiteres Wachstum möglich ist bzw. trägt im Rahmen eines geordneten Vertragsmanagements dafür Sorge, dass Anpassungsklauseln mit möglicher Erhöhung der Pachtpreise in laufenden Pachtverträgen beachtet und gezielt gesteuert werden.</A>
+      <A>
+         <b>Liquiditäts- und Zinsrisiken</b>
+      </A>
+      <A>Der Betrieb eines landwirtschaftlichen Unternehmens ist aufgrund des Umstandes, dass die Erzeugung landwirtschaftlicher Produkte eine Vorfinanzierung von der Aussaat bis zum Verkauf der Produkte, d.h. für einen Zeitraum von zum Teil mehr als einem Jahr, erfordert und Zahlungseingänge vorwiegend in der zweiten Jahreshälfte eines Kalenderjahres eingehen, sehr kapitalintensiv. Demgemäß hat die Tonkens-Gruppe in der Vergangenheit in erheblichem Umfang kurzfristige Fremdfinanzierungen aufgenommen. Auch der Bau der Photovoltaik-, Biogas- und Schälanlagen wurde teilweise mittels Darlehen finanziert. Um Zinsrisiken zu minimieren, wurden in diesem Zusammenhang seitens der Gesellschaft Zinssicherungsgeschäfte abgeschlossen.</A>
+      <A>Für das antizipierte Wachstum und weitere Investitionen benötigt die Tonkens Agrar AG ausreichend finanzielle Mittel. Neben Liquidität aus dem Cashflow wird dabei unter anderem auf Darlehen zurückgegriffen. Folgend besteht bei Nichtgewährung von Darlehen das Risiko, Investitionen nicht planmäßig durchführen oder beenden zu können und damit die angestrebten Wachstumsziele nicht zu erreichen. Die Tonkens Agrar AG verfügt über langjährige Kontakte zu Kreditinstituten, welche kontinuierlich gepflegt werden. Darüber hinaus führt das Management viele Gespräche, um neue Geschäftsbeziehungen zu Banken aufzunehmen. So soll auch dem Risiko der Abhängigkeit von zu wenigen Kreditinstituten begegnet werden.</A>
+      <A>
+         <b>Personalrisiken</b>
+      </A>
+      <A>Die deutsche Landwirtschaft erlebt eine immer stärkere Professionalisierung — für eine erfolgreiche Unternehmensentwicklung bei zunehmender Wettbewerbsintensität benötigt die Tonkens Agrar AG das entsprechende Personal. Neben der geeigneten Anzahl der Mitarbeiter ist vor allem auch ihre fachliche Qualifizierung von Bedeutung. Insbesondere der technologische Fortschritt, aber auch veränderte gesetzliche Rahmenbedingungen erfordern eine regelmäßige Aktualisierung des vorhandenen Wissens der Mitarbeiter. Die Tonkens Agrar AG lässt ihre Mitarbeiter regelmäßig schulen, um diese optimal auf die arbeitstechnischen Anforderungen vorzubereiten.</A>
+      <A>Auf der Managementebene ist der zukünftige Erfolg der Tonkens-Gruppe wesentlich durch die Tätigkeit von Gerrit Tonkens als Vorstand, gleichzeitig Gründer und wesentlicher mittelbarer Aktionär, beeinflusst. Der Verlust von Herrn Tonkens für die Tonkens-Gruppe würde dazu führen, dass die treibende Kraft hinter dem operativen Geschäft mit etablierten langjährigen Kontakten in der Branche, hohem Fachwissen und Detailkenntnissen des Unternehmens ausfällt, was von der Tonkens-Gruppe zumindest kurzfristig nicht kompensiert werden könnte. Unter Herrn Tonkens ist eine weitere Managementebene installiert, die das tägliche operative Geschäft an den einzelnen Produktionsstandorten und der Verwaltung leitet. Im Rahmen der Unternehmensnachfolge bereitet Herr Tonkens seine Söhne auf die spätere Unternehmensführung vor und vermittelt so sein Wissen und seine Kontakte weiter.</A>
+      <A>Darüber hinaus ergeben sich auch hinsichtlich steigender Lohnkosten Risiken für den wirtschaftlichen Erfolg des Tonkens Konzerns. Die Tonkens-Gruppe erwirtschaftet einen erheblichen Teil ihrer Erträge im Bereich Anbau von Kartoffeln und Zwiebeln. Der Anbau von Kartoffeln und Zwiebeln stellt sich, im Vergleich zu anderen Fruchtarten, als personalintensiv dar. Die Ertragskraft der Tonkens-Gruppe ist unmittelbar von der allgemeinen Lohnentwicklung für die eingesetzten Mitarbeiter abhängig. Steigende Lohnkosten können dazu führen, dass die Ertragsfähigkeit sinkt oder auch Verluste erwirtschaftet werden.</A>
+      <A>
+         <b>Risiken aus einer eventuellen Ausweitung der internationalen Aktivitäten der Tonkens-Gruppe</b>
+      </A>
+      <A>Die Tonkens-Gruppe ist derzeit in Deutschland tätig. Die Tonkens-Gruppe beabsichtigt, eine Ausweitung ihrer Aktivitäten in andere Staaten, insbesondere nach Osteuropa, zu realisieren, wenn sich entsprechende Investitions- und/ oder Beteiligungsmöglichkeiten ergeben. Hieraus können eine Reihe von Risiken, die aus den dortigen allgemeinen politischen, volkswirtschaftlichen, sozialen, rechtlichen und steuerlichen Rahmenbedingungen resultieren, erwachsen. Daneben sind eine Vielzahl von lokalen Gesetzen und Vorschriften einzuhalten. Lokale Rechts- und Verwaltungssysteme könnten die Erteilung von behördlichen Genehmigungen erschweren oder gar verhindern, die landwirtschaftliche Produktion beeinträchtigen oder die Durchsetzbarkeit von Forderungen und sonstigen Ansprüchen gefährden. Die Tonkens Agrar AG wird die Öffentlichkeit bei konkreten Geschäftsanbahnungen nach Osteuropa informieren.</A>
+      <A>
+         <b>2. Markt- und Branchenrisiken</b>
+      </A>
+      <A>
+         <b>Restriktionen und Kostenanstieg bei Saatgut, Futtermittel, Treibstoff, Pflanzenschutz und Dünger </b>
+      </A>
+      <A>Import- wie auch Exportrestriktionen verstärken die Preisvolatilität an den globalen Märkten. Zudem könnte hinsichtlich der Einkaufsseite ein deutlicher Anstieg der Kostenpositionen Saatgut, Futtermittel, Treibstoff und Pflanzenschutz sowie Düngemittel einen spürbaren Einfluss auf die Wirtschaftlichkeit haben. Das Unternehmen versucht, mittels eines zentralisierten Einkaufs die Einflüsse möglichst gering zu halten. Darüber hinaus soll zunehmend eigener Dünger, welcher im Rahmen des Betriebs von Biogasanlagen anfällt, den Einsatz externen Düngers substituieren.</A>
+      <A>
+         <b>Abhängigkeit von der Entwicklung der Preise für landwirtschaftliche Produkte</b>
+      </A>
+      <A>Auch auf der Verkaufsseite ist die Tonkens Agrar AG mit ihren in der Gruppe erzeugten landwirtschaftlichen Produkten erheblichen Preisschwankungen ausgesetzt. Die Preise werden dabei wesentlich durch Weltmarktpreise bestimmt und unterliegen einer hohen Volatilität. Das Angebot und die Nachfrage werden insbesondere beeinflusst durch regulatorische Rahmen- und Witterungsbedingungen sowie die Entwicklung der Bevölkerung ebenso wie durch globale Erntemengen und -qualitäten, Wechselkursveränderungen, aber auch das Verhalten insbesondere spekulativer Anleger. Dies betrifft sowohl die Nachfrageseite als auch die Angebotsseite. Um sich gegen dieses Risiko in einem gewissen Maße abzusichern, werden die Agrarprodukte teilweise mittels Vorkontrakten gegenüber dem lokalen Agrarhandel verkauft.</A>
+      <A>
+         <b>Energiepreise</b>
+      </A>
+      <A>Im Rahmen der Globalisierung und zunehmenden Vernetzung der Energiemärkte wird die Preisvolatilität von den Energiemärkten immer mehr auf die landwirtschaftlichen Märkte übertragen. Sofern keine autarke Energieversorgung besteht, sind landwirtschaftliche Unternehmen, die einen hohen Energieverbrauch haben, im besonderen Maße von Preissteigerungen betroffen. Diesem Risiko begegnet das Unternehmen durch die Optimierung von Produktionsabläufen und den Einsatz moderner Steuerungstechnik zur Reduzierung des Energieverbrauchs.</A>
+      <A>
+         <b>Pachtpreise</b>
+      </A>
+      <A>Da ein großer Anteil der von der Tonkens Agrar AG bewirtschafteten Flächen gepachtet ist, besteht ein Risiko in erhöhten Pachtpreisen. Insbesondere bei Neuverpachtungen hat sich in den letzten Jahren ein stetig zunehmender Preis ergeben. Die Tonkens Agrar AG hat sich ihre Pachtflächen zu festen Pachtpreisen über langfristige Verträge gesichert und ist bestrebt, die Pachtverhältnisse rechtzeitig vor Vertragsauslauf zu verlängern. Darüber hinaus befindet sich ein stetig zunehmender Teil der Flächen (derzeit rund 13,2 %) im Eigenbesitz. Angesichts der weiter steigenden Kaufpreise ist der Erwerb von Flächen zu marktüblichen Konditionen unwirtschaftlich. Dem Statistischen Bundesamt zu Folge haben sich die Kaufpreise innerhalb der letzten 10 Jahre mehr als verdoppelt. 2005 kostete der Hektar im Schnitt noch rund 8.700,00 EUR, 2015 knapp 19.600,00 EUR. Für 2016 gibt die Bodenverwertungs- und -verwaltungs GmbH (BVVG) aktuell eine Preissteigerung von durchschnittlich 3 % gegenüber Vorjahr an. Bei günstigeren Bedingungen, als sie der Markt bietet, behält sich die Tonkens Agrar AG weitere Flächenerwerbe vor. Die Tendenz steigender Pachtpreise wird durch mehrere Entwicklungen gestützt: Zum einen wurden Agrarflächen seit dem Ausbruch der Finanzkrise im Jahr 2007 zunehmend als krisenfeste und stabile Kapitalanlage betrachtet und geraten so zunehmend in den Fokus von Fonds und institutionellen Investoren, insbesondere vor dem Hintergrund der anhaltend niedrigen Zinsen und eines Mangels an attraktiven Investments. Gleichzeitig steigt die Nachfrage nach landwirtschaftlichen Erzeugnissen aufgrund der wachsenden Weltbevölkerung kontinuierlich an. Nicht zuletzt führt auch die gestiegene Nachfrage nach landwirtschaftlichen Rohstoffen für die Gewinnung von Bioenergie zu einer Attraktivitätssteigerung des Ackerlands als Kapitalanlage. Damit und durch die Versiegelung von Ackerflächen nimmt die Verfügbarkeit landwirtschaftlicher Flächen zur Nahrungsmittelproduktion zunehmend ab.</A>
+      <A>
+         <b>Der Einfluss saisonaler Effekte</b>
+      </A>
+      <A>Die Geschäftstätigkeit von landwirtschaftlichen Betrieben wie dem der Tonkens-Gruppe wird von saisonalen Effekten beeinflusst. Insbesondere im ersten Halbjahr eines Kalenderjahres verzeichnen landwirtschaftliche Betriebe meist geringere Einnahmen als im zweiten Halbjahr eines Jahres. So erzielen landwirtschaftliche Betriebe im zweiten Halbjahr eines Kalenderjahres, insbesondere nach der Erntezeit, erhebliche Einnahmen aus der Veräußerung von Teilen der Ernte und erhalten gegen Ende des Kalenderjahres Mittelzuflüsse in Folge der Auszahlung der staatlich gewährten Betriebsprämien. Die Geschäftszahlen der Tonkens-Gruppe könnten daher von Halbjahr zu Halbjahr, aber auch im Vergleich zur jeweiligen Vorjahresperiode, mitunter erheblich variieren, so dass insbesondere die Geschäftszahlen des ersten und des zweiten Halbjahrs nur eingeschränkt miteinander vergleichbar sind. Die Verkaufszeitpunkte der Kartoffeln und Zwiebeln, welche umsatzstarke Fruchtarten im Ackerbau und der Veredelung sind, können auf die Vergleichbarkeit einen entscheidenden Einfluss haben. Die Tonkens Agrar AG verfolgt aus diesem Grund eine transparente Kapitalmarktkommunikation, um ihre Aktionäre und mögliche Investoren über die aktuelle Geschäftsentwicklung und -zahlen fortlaufend zu informieren.</A>
+      <A>
+         <b>Wechselkurse</b>
+      </A>
+      <A>Währungsschwankungen können über ihren Einfluss auf die inländischen Rohstoffpreise die Wettbewerbsfähigkeit der Landwirte beeinträchtigen. Die Tonkens Agrar AG tätigt ihre Geschäfte ausschließlich in EUR und beobachtet beständig die Preis- und Währungsentwicklungen auf den Beschaffungsmärkten.</A>
+      <A>
+         <b>Wachsende Nachfrage</b>
+      </A>
+      <A>Das Pro-Kopf-Einkommen steigt weltweit und nimmt vor allem in den Schwellenländern ein immer höheres Maß an. Mit der größeren Kaufkraft steigt auch die Nachfrage nach Rohstoffen, Energie und Nahrungsmitteln. Wenn die Nachfrage das Angebot übersteigt, entsteht ein Aufwärtsdruck auf die Preise, der mit höheren Beschaffungskosten für die Landwirte, andererseits auch mit höheren Angebotspreisen bei ihren Produkten einhergeht.</A>
+      <A>
+         <b>3. Politik- und Rechtsrisiken</b>
+      </A>
+      <A>Die Tonkens Agrar AG unterliegt sowohl mit ihrer landwirtschaftlichen Produktion als auch mit der Gewinnung regenerativer Energie gesetzlichen Rahmenbedingungen. Politische Debatten können zu entscheidenden gesetzlichen Veränderungen, insbesondere mit möglicher negativer Auswirkung auf die Ertragslage des Tonkens Konzerns, führen. Die Tonkens Agrar AG überwacht die aktuellen Debatten und Veränderungen sehr genau, um rechtzeitig mit geeigneten Maßnahmen reagieren zu können. Eine Planbarkeit ergibt sich aus der Dauer der Umsetzung neuer Gesetzesvorhaben. Derzeit betreffen insbesondere folgende Gesetzesänderungen die Tonkens Agrar AG:</A>
+      <A>
+         <b>Erneuerbare-Energien-Gesetz (EEG)</b>
+      </A>
+      <A>Über ihre Photovoltaik- und die Biogasanlagen generiert die Tonkens Agrar AG Strom. Es besteht das Risiko, dass staatliche Vergütungssätze gekürzt werden, was zukünftig zu einer Minderung der Wirtschaftlichkeit der Anlagen führen könnte.</A>
+      <A>In Deutschland führt das EEG 2017 zu entscheidenden Änderungen des Vergütungssystems für neu errichtete Anlagen. Ab 2017 müssen sich Betreiber von Biogasanlagen wie bei einer Auktion mit ihrem Preis um die EEG-Vergütung bewerben, wobei der Höchstpreis auf 16,9 Cent je kWh für Bestandsanlagen und 14,0 Cent für Neuanlagen festgelegt ist. Im Markt werden daher Verwerfungen befürchtet, da ein Betreiben von Biogasanlagen ohne eigene Reststoffe nicht mehr wirtschaftlich sinnvoll sei. Hier profitiert die Tonkens Agrar AG vom Gedanken der internen Kreislaufwirtschaft, innerhalb des Konzerns anfallende Reststoffe für den Betrieb der Biogasanlage zu verwenden. Für die Tonkens Agrar AG ändert sich an der bisherigen Vergütung zunächst nichts, da die Bestandsanlagen während ihrer noch laufenden Förderzeit unter dem vor 2014 gültigen EEG von den höheren Vergütungssätzen profitieren. Ab einer Restlaufzeit von 8 Jahren kann die Tonkens Agrar AG freiwillig an den Auktionen teilnehmen.</A>
+      <A>Aufgrund der wirtschaftlich unattraktiven Vergütung für Neuanlagen hat die Tonkens Agrar AG den Ausbau des Bereichs Erneuerbare Energien mit der Fertigstellung der zweiten Biogasanlage am Standort Osterfeld im Sommer 2014 vorerst abgeschlossen.</A>
+      <A>
+         <b>Abschaffung der Zuckerquote ab dem 1. Oktober 2017</b>
+      </A>
+      <A>Das Ende der Quote wird zu mehr Wettbewerb und wettbewerbsfähigeren Preisen führen und die starre innereuropäische Produktionsbegrenzung aufheben. Es wird von einer Marktbereinigung ausgegangen, wesentlich beeinflusst durch die Produktionskosten. Der Anbau von Zuckerrüben wird auch künftig in ertragreichen Regionen stattfinden, hinzu kommt die Nähe zu der verarbeitenden Industrie. Die Zuckerfabriken sind unmittelbar an den Standorten der Tonkens-Gruppe angesiedelt. Die Tonkens-Gruppe plant weiterhin den Anbau von Zuckerrüben und wird die künftige Entwicklung am Zuckermarkt beobachten. In konkreten Zahlen lässt sich die weitere Entwicklung noch nicht ausdrücken.</A>
+      <A>
+         <b>Kürzung der EU-Direktzahlungen</b>
+      </A>
+      <A>Landwirtschaftliche Erzeuger haben nach dem EU-Recht Anspruch auf bestimmte Beihilfen, diese werden als Direktzahlungen bezeichnet. Art und Höhe dieser Beihilfen werden in der Gemeinsamen Agrarpolitik (GAP) der EU bestimmt. Die GAP setzt sich aus zwei verschiedenen Finanzierungsinstrumenten zusammen - der 1. und der 2. Säule. Die erste Säule beinhaltet Direktzahlungen an Landwirte, die je Hektar landwirtschaftlicher Fläche gewährt werden. Dabei sind ausdrücklich bestimmte Standards (sogenannte "Cross Compliance") einzuhalten. Diese sollen eine global wettbewerbsfähige Produktion ermöglichen. Die hohen europäischen Standards in Tier-, Natur-, Umwelt- und Verbraucherschutz lassen andernfalls keine kostendeckende Produktion zu.</A>
+      <A>Die zweite Säule umfasst gezielte Förderprogramme für die nachhaltige und umweltschonende Bewirtschaftung und die ländliche Entwicklung.</A>
+      <A>Das Direktzahlungssystem besteht aus einer Basisprämie, einer Greening-Prämie, einer Junglandwirteprämie sowie einer zusätzlichen Umverteilungsprämie für die ersten 46 Hektar eines Betriebes. Derzeit noch bestehende regionale Unterschiede bei der Basisprämie werden ab 2017 bis zum Jahr 2019 in drei Schritten abgebaut.</A>
+      <A>Ab 2019 haben dann alle Zahlungsansprüche in Deutschland einen einheitlichen Wert. Für Deutschland steht eine Obergrenze für die Direktzahlungen zur Verfügung. Wie die Verteilung ab 2019 auf die einzelnen Prämienarten erfolgen wird, steht noch nicht fest.</A>
+      <A>
+         <b>4. Chancen </b>
+      </A>
+      <A>Neben den Risiken bieten sich aber auch Chancen, die sich vorteilig auf die Vermögens-, Finanz- und Ertragslage der Tonkens-Gruppe und damit auf die Tonkens Agrar AG auswirken können.</A>
+      <A>Im Geschäftsfeld der Erneuerbaren Energien trägt die im Juli 2014 fertiggestellte zweite Biogasanlage am Standort Osterfeld zusätzlich zur Ergebnisstabilisierung bei. Insbesondere in Zeiten niedriger Preise für Agrarrohstoffe stellt das Geschäftssegment Erneuerbare Energien eine wichtige Ergebnisstütze dar. Im Berichtsjahr hat die zweite Biogasanlage in Osterfeld erstmals ein gesamtes Jahr Strom produziert, mit positiver Auswirkung auf die Umsatzerlöse.</A>
+      <A>Mit den Kartoffel- und Zwiebelschälanlagen soll die Tonkens Agrar AG zukünftig in der Lage sein, im Rahmen der Erhöhung der Kapazität ihre Agrarprodukte veredelt und mit höheren Margen in größerer Menge absetzen zu können. Hieraus ergeben sich Umsatzpotentiale — die Gesellschaft legt ihren Fokus u.a. auf die Gewinnung größerer Industriekunden als Abnehmer. Vorteilhaft erweisen sich zudem die flexiblen Verarbeitungsmöglichkeiten, die kleinere Schälbetriebe in dem Umfang nicht offerieren können. Kartoffeln können das ganze Jahr über in allen Kocheigenschaften und in unterschiedlichster Verarbeitungsform angeboten werden. Bei Zwiebeln ist ebenfalls eine bedarfsgerechte Veredelung möglich.</A>
+      <A>Im Berichtsjahr hat die Tonkens Agrar AG in Saatgut für neue Kartoffelsorten investiert, die speziell für die eigene Veredelung geeignet sind. Diese wurden im Frühjahr 2016 gepflanzt, im Herbst 2016 gerodet und stehen damit für das laufende Geschäftsjahr 2016/2017 als Rohware zur Verfügung. Die Umstellung der Kartoffelsorten im Anbau hat auch zur Folge, dass sich der Zukauf von Rohware zukünftig deutlich reduzieren wird, was den Materialaufwand verringert und die Wirtschaftlichkeit des Geschäftssegments Lagerhaltung und Vermarktung erhöht.</A>
+      <A>Die Tonkens Agrar AG prüft unverändert eine Ausweitung ihrer Stallungen und der Tierkapazität. Angesichts der schwierigen Lage am Milchmarkt, mit einem über Jahre andauernden Preisverfall, wurde bislang noch kein Termin zur Umsetzung der geplanten Investition festgelegt. Derzeit scheinen sich die Erzeugerpreise leicht zu erholen, die weitere Entwicklung muss abgewartet werden.</A>
+      <A>Momentan hat die Gesellschaft keine Kenntnis von eingetretenen Risiken, die eine Beeinträchtigung der Geschäftsentwicklung nach sich ziehen könnten.</A>
+      <Z-Titel>E. Ereignisse nach dem Bilanzstichtag</Z-Titel>
+      <A>Wesentliche Ereignisse nach dem Bilanzstichtag waren nicht zu verzeichnen.</A>
+      <Z-Titel>F. Prognosebericht</Z-Titel>
+      <A>
+         <b>Allgemeine wirtschaftliche Entwicklung</b>
+      </A>
+      <A>In 2016 hat die Weltkonjunktur bislang nur eine geringe Wachstumsdynamik aufgewiesen. Das Institut für Weltwirtschaft in Kiel (IfW) rechnet für 2016 mit einem Anstieg des globalen BIP um 3,1 % und damit der gleichen Wachstumsrate wie im Vorjahr. 2017 wird die Weltwirtschaftsproduktion mit +3,5% wieder stärker zunehmen. Risiken sieht das IfW in politischen Unsicherheiten. Zwar blieben die befürchteten negativen Auswirkungen des Brexit-Votums auf die Gesamtwirtschaft und die internationalen Finanzmärkte aus, doch sei zunehmend ein Trend zur einzelstaatlichen Souveränität zu verzeichnen, der beobachtet werden müsste. Die übrigen Rahmenbedingungen sind indes positiv —eine gelockerte Geldpolitik in den Industrieländern, gesunkene Kapitalmarktzinsen, die Stabilisierung des Ölpreises sowie konjunkturelle Impulse durch die Finanzpolitik stützen den Ausblick.</A>
+      <A>Das Brexit-Votum belastet den Ausblick für den Euroraum nur geringfügig. Die moderate Erholung in der EU wird sich auch in 2016 und 2017 mit BIP-Wachstumsraten von +1,6 % bzw. +1,7 % fortsetzen. Positive Signale gehen vom Arbeitsmarkt aus, so wird sich gemäß dem IfW die Erwerbslosenquote von derzeit 10,2 % auf durchschnittlich 9,4 % in 2017 weiter verbessern. Desweiteren stützen die niedrigen Zinsen und der noch immer relativ geringe Außenwert des Euro die Konjunktur bei einer leicht expansiv ausgerichteten Finanzpolitik.</A>
+      <A>Das deutsche BIP wird in 2016 um voraussichtlich 1,9 % zulegen. Für 2017 wird mit einem abgeschwächten Wirtschaftswachstum von 1,7 % gerechnet, maßgeblich beeinflusst durch negative temporäre Effekte des Brexit-Votums, welches sich im kommenden Jahr belastend auf die Exporte auswirken wird. Darüber hinaus sind auch Kalendereffekte durch die deutlich geringere Zahl an Arbeitstagen in 2017 zu berücksichtigen. Für 2018 rechnet das IfW wieder mit einem erhöhten Expansionstempo und einem BIP-Zuwachs von +2,1 %. Antriebskräfte stellen unverändert der Konsum, die robuste Lage auf dem Arbeitsmarkt sowie die Bauinvestitionen dar.</A>
+      <A>
+         <b>Branchenentwicklung </b>
+      </A>
+      <A>
+         <i>International: </i>
+      </A>
+      <TABLE border="0" width="900">
+         <COLGROUP align="right" valign="top">
+            <COL align="left"/>
+            <COL width="15%"/>
+            <COL width="15%"/>
+         </COLGROUP>
+         <THEAD>
+            <TR valign="bottom">
+               <TD>In Mio. t</TD>
+               <TD>16/17 (Prognose)</TD>
+               <TD>15/16 (Schätzung)</TD>
+            </TR>
+         </THEAD>
+         <TBODY>
+            <TR>
+               <TD>WEIZEN </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Produktion</TD>
+               <TD>747</TD>
+               <TD>736</TD>
+            </TR>
+            <TR>
+               <TD>Handel</TD>
+               <TD>164</TD>
+               <TD>165</TD>
+            </TR>
+            <TR>
+               <TD>Verbrauch</TD>
+               <TD>734</TD>
+               <TD>721</TD>
+            </TR>
+            <TR>
+               <TD>Endbestände</TD>
+               <TD>231</TD>
+               <TD>218</TD>
+            </TR>
+            <TR>
+               <TD>Hauptexportländer <ex>a)</ex>
+               </TD>
+               <TD>70</TD>
+               <TD>65</TD>
+            </TR>
+            <TR>
+               <TD>MAIS </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Produktion</TD>
+               <TD>1.027</TD>
+               <TD>970</TD>
+            </TR>
+            <TR>
+               <TD>Handel</TD>
+               <TD>132</TD>
+               <TD>136</TD>
+            </TR>
+            <TR>
+               <TD>Verbrauch</TD>
+               <TD>1.019</TD>
+               <TD>968</TD>
+            </TR>
+            <TR>
+               <TD>Endbestände</TD>
+               <TD>216</TD>
+               <TD>208</TD>
+            </TR>
+            <TR>
+               <TD>Hauptexportländer<ex> b)</ex>
+               </TD>
+               <TD>69</TD>
+               <TD>54</TD>
+            </TR>
+            <TR>
+               <TD>GETREIDE </TD>
+               <TD> </TD>
+               <TD> </TD>
+            </TR>
+            <TR>
+               <TD>Produktion</TD>
+               <TD>2.069</TD>
+               <TD>2.002</TD>
+            </TR>
+            <TR>
+               <TD>Handel</TD>
+               <TD>333</TD>
+               <TD>343</TD>
+            </TR>
+            <TR>
+               <TD>Verbrauch</TD>
+               <TD>2.049</TD>
+               <TD>1.981</TD>
+            </TR>
+            <TR>
+               <TD>Endbestände</TD>
+               <TD>492</TD>
+               <TD>472</TD>
+            </TR>
+            <TR>
+               <TD>Hauptexportländer<ex> a)</ex>
+               </TD>
+               <TD>163</TD>
+               <TD>146</TD>
+            </TR>
+         </TBODY>
+      </TABLE>
+      <A>
+         <Fn>
+            <FnZ>a)</FnZ>
+            <FnA>Argentinien, Australien, Kanada, EU, Kasachstan, Russland, Ukraine, USA</FnA>
+         </Fn>
+         <Fn>
+            <FnZ>b)</FnZ>
+            <FnA>Argentinien, Brasilien, Ukraine, USA</FnA>
+         </Fn>
+      </A>
+      <A>Ende September 2016 hat der Internationale Getreiderat (IGC) in seinem Getreidemarkt-Bericht die globalen Ernteerwartungen für Getreide auf ein neues Allzeithoch gestuft: So werden weltweit 2.069 Mio. Tonnen Getreide prognostiziert, was gegenüber Vorjahr einer Steigerung um 3% entspricht. Insbesondere in den USA haben sich die Ernteaussichten für Mais und Weizen nachhaltig verbessert, während in der EU von witterungsbedingt geringeren Ernten ausgegangen wird. Nachdem sich der Getreide-Verbrauch in der letzten Ernteperiode rückläufig gezeigt hatte, steigt nun die Nachfrage wieder deutlich an. Besonders gefragt sind Futtermittel — in dieser Saison ist der Bestand an Weizen mit geringerer Qualität sehr groß und die Preise sind aufgrund der hohen Versorgung niedrig. Gegenüber Vorjahr werden die größten Erntezuwächse global beim Mais erwartet — nach 970 Mio. Tonnen in 2015/16 prognostiziert der IGC nun 1.027 Mio. Tonnen für 2016/17.</A>
+      <A>
+         <i>Preisentwicklung:</i>
+      </A>
+      <A>Im Herbst 2016 fehlten bei den Weizenkursen wochenlang Impulse für steigende Preise. Ende September 2016 bewegten sich die Weizenpreise an den Terminbörsen bei rund 160 EUR je Tonne ohne klaren Aufwärtstrend, wobei die Entwicklung der Kassamarktpreise in Europa eng gebunden war an die der Matif-Preise in Paris. Belastend wirkte sich das global hohe Angebot bei zugleich verhaltener Nachfrage aus. Offen war zu diesem Zeitpunkt, inwieweit sich das in den USA abzeichnende knappe Angebot an qualitativ hochwertigen Weizen auf die Preise auswirken wird, nachdem auch in Europa die Weizenernte in Folge ungünstiger Vegetationsbedingungen sowohl mengen- als auch qualitätsmäßig beeinträchtigt gewesen war.</A>
+      <A>Ende September 2016 senkte die EU-Kommission ihre Schätzung für die EU-Maisernte 2016 um 5,4%. Eine zu heiße und trockene Witterung im Sommer 2016 beeinträchtigte das Vegetationswachstum der Maispflanzen in vielen EU-Ländern. Weltweit wird aber eine gegenüber Vorjahr um 10 % erhöhte Maiserzeugung erwartet, sodass der Maispreis in Chicago unter Druck geriet. Nach dem jüngsten monatlichen Bericht des US-Landwirtschaftsministeriums (USDA) am 13. Oktober 2016 fiel der Maispreis nach Eröffnung um 7 Cent auf 3,37 US-Dollar/bushel.</A>
+      <A>An der Terminbörse Matif in Paris konnte der Rapspreis Mitte Oktober 2016 zulegen und die Marke von 380 EUR/t halten. Auf dem deutschen Kassamarkt für Raps fehlten im Herbst 2016 Impulse für Preisbewegungen. In Deutschland war 2016 ein sehr schlechtes Rapsjahr — dem statistischen Bundesamt zu Folge betrug die Rapsernte lediglich 4,6 Mio. t (Vj. 5,0 Mio. t), wobei insbesondere in Norddeutschland Landwirte witterungsbedingte Einbußen verzeichneten.</A>
+      <A>Der sehr heiße September 2016 führte bei den Zuckerrüben zwar zu einem deutlichen Anstieg des Zuckergehalts im Durchschnitt auf über 18 %. Die Trockenheit erschwerte aber die Ernte — zum einen bestand eine erhöhte Gefahr von Bruchverlusten, zum anderen mussten u.a. die verdorrten Blätter sauber vom Rübenkörper getrennt werden.</A>
+      <A>Die Kartoffelernte fiel 2016 in Deutschland regional sehr unterschiedlich und insgesamt mit 10,2 Mio. t unterdurchschnittlich aus. Auch die Benelux-Länder brachten eine schlechte Kartoffelernte ein: Belgien wies mit -5,8 % gegenüber Vorjahr die größte Verschlechterung auf. Für Frankreich, Niederlande und Großbritannien werden ebenfalls unterdurchschnittliche Ernten erwartet. Die ohnehin stabilen Kartoffelpreise erhielten hierdurch weitere positive Impulse, es ist von einem Preisanstieg auszugehen.</A>
+      <A>Seit Juni 2016 haben sich die Preise für Milchprodukte am europäischen Binnenmarkt erstmals wieder von ihrer langen Talfahrt erholt. Zunächst nahmen die Preise nur auf Verarbeitungsstufe für z.B. Butter und insbesondere Milchpulver zu, jüngst kam es aber auch auf Erzeugerseite zu ersten Preiserhöhungen. Auch der Tonkens Agrar AG wurden erste leicht erhöhte Preise von der belieferten Molkerei ausgezahlt.</A>
+      <A>
+         <b>Ausblick auf das Geschäftsjahr 2016/2017</b>
+      </A>
+      <A>In der noch laufenden Erntesaison 2016 konnte die Tonkens Agrar AG trotz der widrigen Witterungsbedingungen gute bis durchschnittliche Ernteerträge oberhalb des Bundesdurchschnitts bei zugleich guter Qualität erzielen. Beim Winterweizen wurde ein Durchschnittsertrag von 90,5 dt/ha eingebracht (Vj. 86,5 dt/ha), bei der Gerste ein guter durchschnittlicher Hektarertrag von 98 dt/ha (im Vorjahr ein Spitzenwert von 120 dt/ha). Beim Winterraps lag die Ernte mit 44 dt/ha auf Vorjahresniveau mit einem guten Ölgehalt. Ein sehr starker Wert wurde bei Zwiebeln mit einem Hektarertrag von 562 dt erreicht.</A>
+      <A>Die Kartoffelernte war zum Zeitpunkt der Berichterstattung noch nicht abgeschlossen. Aufgrund der lang anhaltenden Trockenheit und extremen Hitzeperiode im Spätsommer/Herbst konnte mit der Rodung der Kartoffeln erst ab Mitte September 2016 begonnen werden. Über die zu erwartende Erntemenge kann gegenwärtig noch keine verlässliche Aussage getroffen werden. Insgesamt hat sich gezeigt, dass die Kartoffelfelder eine hohe Bandbreite an Hektarerträgen und Qualitäten aufweisen. Entscheidend war die Wasserversorgung im trockenen August und September 2016. Aufgrund dieser Heterogenität lässt sich derzeit nicht abschätzen, wie viel von der jetzt eingelagerten Rohware später auch eine ausreichende Qualität für die Vermarktung haben wird.</A>
+      <A>Beim Mais wurde ein Durchschnittsertrag auf dem Niveau der Vorjahre erzielt, der somit für die Futtermittelversorgung des Milchviehs ausreicht.</A>
+      <A>Im Rahmen der Veredelung über die Börde Vita GmbH gestaltet sich das Ziel, industrielle Großkunden zu gewinnen, aufgrund der vorherrschenden Markstrukturen als schwierig. Zwar ist 2016 für die Benelux-Länder als ein schlechtes Kartoffeljahr anzusehen, das verringerte Angebot an Rohware wirkt sich aber nicht entsprechend auf den Veredelungsmarkt aus. Im Berichtsjahr gelang es zwar, weitere Kunden hinzuzugewinnen. Für eine stärkere Auslastung der Schälanlagen werden aber Großkunden mit größeren Abnahmemengen benötigt. Daher liegt der Fokus weiterhin eindeutig darauf, die Rentabilität bei der Veredelung zu steigern. Unterstützend sollen sich hier die neuen, speziell für die Veredelung geeigneten Kartoffelsorten auswirken, welche zur Folge haben, dass weniger Rohware extern zugekauft werden muss.</A>
+      <A>Der Umsetzungszeitpunkt für die geplante Kapazitätserhöhung in der Milchproduktion ist vor dem Hintergrund der unverändert schwierigen Lage am Milchmarkt weiterhin offen. Im Moment scheint sich der Milchmarkt zu erholen, die Erzeugerpreise steigen erstmals seit Sommer 2016 wieder leicht an. Wie nachhaltig diese Trendwende ist, muss jedoch abgewartet werden.</A>
+      <A>Für die Tonkens Agrar AG erwartet Vorstand Gerrit Tonkens für das laufende Geschäftsjahr 2016/2017 leicht erhöhte Umsatzerlöse unter der Annahme einer normalen Stromproduktivität der Photovoltaikanlage. Bei leicht rückläufigen Gesamtkosten soll dann wieder ein deutlich verbessertes Jahresergebnis erzielt werden. Dies auch vor dem Hintergrund geplanter höherer Gewinne aus Gewinnabführungsverträgen sowie rückläufiger Aufwendungen aus Verlustübernahme.</A>
+      <Z-Titel>Schlusserklärung zum Abhängigkeitsbericht</Z-Titel>
+      <A>Es wurde ein Abhängigkeitsbericht gemäß § 312 Abs. 1 Aktiengesetz erstellt. Der Vorstand erklärt nach § 312 Abs. 3 Aktiengesetz Folgendes: Die Tonkens Agrar AG hat bei den im Bericht über Beziehungen zu verbundenen Unternehmungen aufgeführten Rechtsgeschäften nach den Umständen, die uns im Zeitpunkt, in dem die Rechtsgeschäfte vorgenommen wurden, bekannt waren, bei jedem Rechtsgeschäft eine angemessene Gegenleistung erhalten. Weder im Interesse noch auf Veranlassung der herrschenden Gesellschaft wurden Maßnahmen zum Nachteil der Gesellschaft durchgeführt oder unterlassen.</A>
+      <Sign>
+         <SOD>Sülzetal, den 4. November 2016</SOD>
+         <O-Name/>
+         <U-Zeichner>Gerrit Tonkens, Vorstand</U-Zeichner>
+      </Sign>
+      <BerichtsTeil>Bericht des Aufsichtsrates </BerichtsTeil>
+      <Z-Titel>der Tonkens Agrar AG</Z-Titel>
+      <A>Sehr geehrte Aktionärinnen und Aktionäre,</A>
+      <A>das Wirtschaftsjahr 2015/2016 erwies sich für die deutsche Landwirtschaftsbranche erneut als sehr schwierig. Niedrige Erzeugerpreise bei fast allen Agrarprodukten infolge mehrjähriger Rekordernten drückten die Erlöse, auch die weiter fallenden Milchpreise verhinderten eine kostendeckende Produktion. Auf der Verarbeitungsstufe bei Milchprodukten und zaghaft auch auf Erzeugerseite machten sich in den letzten Monaten zwar wieder stabilere Preistendenzen bemerkbar und auch der Anstieg der angelieferten Milchmenge ging zurück. Allerdings muss abgewartet werden, wie nachhaltig die Erzeuger von dieser Trendwende profitieren werden und ob sich dies auch in erhöhten Milchgeldabrechnungen widerspiegeln wird. Entsprechend gelang es dem Tonkens Konzern im Berichtsjahr leider nicht, die geplanten Umsatz- und Ergebniskennziffern zu erreichen.</A>
+      <A>Für das laufende Geschäftsjahr 2016/2017 konnte die Tonkens Agrar AG gute Ernteerträge oberhalb des Bundesdurchschnitts einbringen und weist damit eine bessere Erntebilanz als viele andere europäische Landwirtschaftsbetriebe mit witterungsbedingten Ernteeinbußen aus. Entscheidend ist nun die weitere Entwicklung der Preise für Agrarrohstoffe. Die Tonkens Agrar AG wird Sie zeitnah wie gewohnt über die Geschäftsentwicklung informieren.</A>
+      <Z-Titel>Überwachung der Geschäftsführung des Vorstandes</Z-Titel>
+      <A>Auch im Geschäftsjahr 2015/2016 hat der Aufsichtsrat die ihm nach Gesetz, Satzung und Geschäftsordnung obliegenden Aufgaben wahrgenommen und die Geschäftsführung des Vorstands kontinuierlich überwacht und beratend begleitet. Die Zusammenarbeit zwischen Vorstand und Aufsichtsrat war im Berichtsjahr weiterhin durch einen regelmäßigen und vertrauensvollen Austausch gekennzeichnet. Dabei unterrichtete der Vorstand den Aufsichtsrat regelmäßig, zeitnah und umfassend in schriftlicher und mündlicher Form über die Geschäftsentwicklung der Tonkens Konzerngesellschaften, die Unternehmens- und Liquiditätsplanung, geplante und laufende Investitionen sowie relevante Geschäftsereignisse. In Geschäfte wesentlicher Bedeutung war der Aufsichtsrat eingebunden und hat — insofern diese der Zustimmung des Aufsichtsrats bedurften — u.a. Investitionen in landwirtschaftliche Geräte und Agrarflächen genehmigt</A>
+      <Z-Titel>Bildung von Ausschüssen</Z-Titel>
+      <A>Vor dem Hintergrund, dass sich der Aufsichtsrat der Tonkens Agrar AG unverändert nur aus drei Personen zusammensetzt, werden sämtliche Themen im Plenum behandelt und von der Bildung von Ausschüssen abgesehen. Eine Effizienzsteigerung wäre mit der Bildung von Ausschüssen nicht verbunden.</A>
+      <Z-Titel>Sitzungen des Aufsichtsrats</Z-Titel>
+      <A>An den Tagen 8. September 2015, 2. Dezember 2015, 4. Januar 2016, 16. Februar 2016, 17. Februar 2016 und 26. April 2016 ist der Aufsichtsrat der Tonkens Agrar AG zu ordentlichen Aufsichtsratssitzungen zusammen gekommen Damit fanden im Geschäftsjahr 2015/2016 insgesamt 6 Sitzungen statt, an denen stets alle Mitglieder des Aufsichtsrats, zeitweilig auch der Vorstand und seine Mitarbeiter der kaufmännischen Abteilung teilnahmen. In der Bilanz-aufsichtsratssitzung am 02. Dezember 2015 über das Geschäftsjahr 2014/2015 war zudem als Gast ein Vertreter des Abschlussprüfers RBS RöverBrönnerSusat GmbH &amp; Co. KG Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft, Hamburg, zugegen. Schwerpunkte der Beratungen im Aufsichtsrat während und auch außerhalb der Sitzungen stellten die aktuelle Geschäftsentwicklung der Tonkens Agrar Konzerngesellschaften, die Finanzierung, Liquiditäts- und Unternehmensplanung (inklusive der Betrachtung detaillierter Soll-Ist-Abweichungen des Geschäftsverlaufs von den Planungen), Investitionen sowie der Erwerb weiterer Eigentumsflächen dar. Auch die Vorbereitungen auf die neue EU-Marktnüssbrauchsverordnung, die am 3. Juli 2016 in Kraft getreten ist und für Unternehmen im Freiverkehr neue (Veröffentlichungs-)Pflichten mit sich bringt, war Gegenstand der Sitzungen. Auf der Sitzung am 4. Januar 2016 beschloss der Aufsichtsrat zudem die Tagesordnung für die ordentliche Hauptversammlung am 17. Februar 2016.</A>
+      <Z-Titel>Zusammensetzung des Vorstandes und des Aufsichtsrates</Z-Titel>
+      <A>In keinen der beiden Gremien kam es im Berichtsjahr zu personellen Veränderungen. Alleinvorstand Gerrit Tonkens leitete unverändert die Tonkens Agrar AG, während sich der Aufsichtsrat aus seinem Vorsitzenden Herrn Dr. Johannes Waitz, seinem Stellvertreter Herrn Horst Mantay sowie dem Mitglied Frau Bea Tonkens zusammensetzte. Sämtliche Mitglieder des Aufsichtsrats wurden auf der ordentlichen Hauptversammlung am 17. Februar 2016 im turnusgemäß erneut in das Gremium gewählt, in der anschließenden konstituierenden Sitzung wurden Herr Dr. Waitz als Aufsichtsratsvorsitzender und Herr Mantay als sein Stellvertreter bestätigt.</A>
+      <Z-Titel>Erteilung des Prüfungsauftrages an die RTC Schütte Revision GmbH, Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft, Wildeshausen</Z-Titel>
+      <A>Den Prüfungsauftrag für das Berichtsjahr (01.07.2015 bis 30.06.2016) erteilte der Aufsichtsrat der Tonkens Agrar AG dem von der ordentlichen Hauptversammlung am 17. Februar 2016 gewählten Abschlussprüfer RTC Schütte Revision GmbH, Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft, Wildeshausen (RTC). Dieser Prüfungsauftrag umfasste auch die freiwillige Prüfung des Risikofrüherkennungssystems.</A>
+      <Z-Titel>Bilanz-Aufsichtsratssitzung am 16. Dezember 2016</Z-Titel>
+      <A>Den vom Vorstand nach den Grundsätzen des Handelsgesetzbuchs (HGB) aufgestellten Jahres- und Konzernabschluss einschließlich der jeweiligen Lageberichte für das Geschäftsjahr 2015/2016 hat die RTC geprüft und mit dem uneingeschränkten Bestätigungsvermerk versehen. Zudem merkte die RTC im Rahmen der freiwilligen Prüfung an, dass auskunftsgemäß ein entsprechendes Überwachungssystem eingerichtet ist, aber eine vollständige Dokumentation in Form eines Risikohandbuches nicht vorliegt.</A>
+      <A>Die vorgenannten Abschlussunterlagen sowie die Prüfberichte der RTC wurden allen Mitgliedern des Aufsichtsrats rechtzeitig für eine eigene Prüfung ausgehändigt. Auf der Bilanz-aufsichtsratssitzung am 16. Dezember 2016 wurden diese Unterlagen im Beisein des Vorstands und eines Vertreters des Abschlussprüfers, der über die wesentlichen Ergebnisse seiner Prüfungen berichtete, erörtert. Auf Basis seiner eigenen Prüfung des Jahresabschlusses und des Lageberichts sowie des Konzernabschlusses und des Konzernlageberichts der Tonkens Agrar AG hat sich der Aufsichtsrat dem Ergebnis der Prüfung durch den Abschlussprüfer angeschlossen. Somit hat der Aufsichtsrat den Jahresabschluss und den Konzernabschluss für das Geschäftsjahr 2015/2016 gebilligt. Der Jahresabschluss für das Geschäftsjahr 2015/2016 ist damit gemäß § 172 AktG festgestellt.</A>
+      <Z-Titel>Abhängigkeitsbericht gemäß § 312 AktG</Z-Titel>
+      <A>Für den vom Vorstand gemäß § 312 AktG aufgestellten Abhängigkeitsbericht, dessen Prüfung auch vom an den Abschlussprüfer RTC erteilten Prüfungsauftrag umfasst war, erteilte dieser den folgenden Bestätigungsvermerk:</A>
+      <A>„Nach dem abschließenden Ergebnis unserer Prüfung sind Einwendungen gegen den Abhängigkeitsbericht nicht zu erheben. Wir erteilen daher folgenden Bestätigungsvermerk:</A>
+      <A>Nach unserer pflichtgemäßen Prüfung und Beurteilung bestätigen wir, dass</A>
+      <OL>
+         <LI>
+            <LA>die tatsächlichen Angaben des Berichts richtig sind und</LA>
+         </LI>
+         <LI>
+            <LA>bei den im Bericht aufgeführten Rechtsgeschäften die Leistung der Gesellschaft nicht unangemessen hoch war."</LA>
+         </LI>
+      </OL>
+      <A>Der Abhängigkeitsbericht wurde dem Aufsichtsrat ebenfalls rechtzeitig vor der Bilanzaufsichtsratssitzung zugesendet und in dieser Sitzung erörtert. Nach einer eigenen eingehenden Prüfung im Hinblick auf seine Vollständigkeit und Richtigkeit, kam der Aufsichtsrat zu dem Ergebnis, dass keine Einwendungen gegen die vom Vorstand am Schluss des Berichts abgegebene Erklärung über die Beziehung zu verbundenen Unternehmen zu erheben sind und stimmte dem Prüfungsergebnis des Abschlussprüfers zu.</A>
+      <A>Der Aufsichtsrat dankt dem Vorstand und allen Mitarbeiterinnen und Mitarbeitern für ihr Engagement und ihre Leistung im Berichtsjahr.</A>
+      <Sign>
+         <SOD>Stemmern, den 16. Dezember 2016</SOD>
+         <O-Name/>
+         <U-Zeichner>Dr. Johannes Waitz, Vorsitzender des Aufsichtsrats</U-Zeichner>
+      </Sign>
+      <Z-Titel>F. Bestätigungsvermerk</Z-Titel>
+      <A>Nach dem abschließenden Ergebnis unserer Prüfung haben wir dem Jahresabschluss zum 30. Juni 2016 und dem Lagebericht für das Geschäftsjahr 2015/2016 der Tonkens Agrar AG, Sülzetal OT Stemmern, den folgenden uneingeschränkten Bestätigungsvermerk erteilt:</A>
+      <BerichtsTeil>"Bestätigungsvermerk des Abschlussprüfers </BerichtsTeil>
+      <A>An die Tonkens Agrar AG, Sülzetal OT Stemmern:</A>
+      <A>Wir haben den Jahresabschluss - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - unter Einbeziehung der Buchführung und den Lagebericht der Tonkens Agrar AG, Sülzetal OT Stemmern, für das Geschäftsjahr vom 1. Juli 2015 bis 30. Juni 2016 geprüft. Die Buchführung und die Aufstellung von Jahresabschluss und Lagebericht nach den deutschen handelsrechtlichen Vorschriften liegen in der Verantwortung der gesetzlichen Vertreter der Gesellschaft. Unsere Aufgabe ist es, auf der Grundlage der von uns durchgeführten Prüfung eine Beurteilung über den Jahresabschluss unter Einbeziehung der Buchführung und über den Lagebericht abzugeben.</A>
+      <A>Wir haben unsere Jahresabschlussprüfung nach § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung vorgenommen. Danach ist die Prüfung so zu planen und durchzuführen, dass Unrichtigkeiten und Verstöße, die sich auf die Darstellung des durch den Jahresabschluss unter Beachtung der Grundsätze ordnungsmäßiger Buchführung und durch den Lagebericht vermittelten Bildes der Vermögens-, Finanz- und Ertragslage wesentlich auswirken, mit hinreichender Sicherheit erkannt werden. Bei der Festlegung der Prüfungshandlungen werden die Kenntnisse über die Geschäftstätigkeit und über das wirtschaftliche und rechtliche Umfeld der Gesellschaft sowie die Erwartungen über mögliche Fehler berücksichtigt. Im Rahmen der Prüfung werden die Wirksamkeit des rechnungslegungsbezogenen internen Kontrollsystems sowie Nachweise für die Angaben in Buchführung und Jahresabschluss überwiegend auf der Basis von Stichproben beurteilt. Die Prüfung umfasst die Beurteilung der angewandten Bilanzierungsgrundsätze und der wesentlichen Einschätzungen der gesetzlichen Vertreter sowie die Würdigung der Gesamtdarstellung des Jahresabschlusses und des Lageberichts. Wir sind der Auffassung, dass unsere Prüfung eine hinreichend sichere Grundlage für unsere Beurteilung bildet.</A>
+      <A>Unsere Prüfung hat zu keinen Einwendungen geführt.</A>
+      <A>Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse entspricht der Jahresabschluss den gesetzlichen Vorschriften und vermittelt unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft. Der Lagebericht steht in Einklang mit dem Jahresabschluss, vermittelt insgesamt ein zutreffendes Bild von der Lage der Gesellschaft und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar."</A>
+      <Sign>
+         <SOD>Wildeshausen, 4. November 2016</SOD>
+         <O-Name>RTC / Schütte Revision GmbH<nZ/>Wirtschaftsprüfungsgesellschaft<nZ/>Steuerberatungsgesellschaft</O-Name>
+         <U-Zeichner>Lösing, Wirtschaftsprüfer</U-Zeichner>
+         <U-Zeichner>Helmbrecht, Wirtschaftsprüfer</U-Zeichner>
+      </Sign>
+  </Bek-Text>
+</BA-Jahresabschluss>
