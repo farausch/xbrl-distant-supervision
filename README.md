@@ -32,7 +32,7 @@ python evaluation.py > evaluation.csv
 The evaluation is stored to the file in csv format and can be processed further or imported to Excel.
 
 ## Data augmentation
-Given an annotated dataset in the format like the outout of the "run annotation" section, it is possible to augment this dataset. Augmentation in this case means replacing the entities in a sentence by additional entities. This leads to the same sentence structure but a different entity. The annotated base file and amount of additional sentences can be specified in the config.py file in the data augmentation section. Run it using:
+Given an annotated dataset in the format like the output of the "run annotation" section, it is possible to augment this dataset. Augmentation in this case means replacing the entities in a sentence by additional entities. This leads to the same sentence structure but a different entity. The annotated base file and amount of additional sentences can be specified in the config.py file in the data augmentation section. Run it using:
 ```
 python data_augmentation.py > augmented.csv
 ```
