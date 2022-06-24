@@ -1,0 +1,9 @@
+data/financial-statements/170412006323.xbrl
+Das;Grundkapital;beträgt;zum;30.06.2016;EUR;1.659.000,00;und;ist;eingeteilt;in;1.659.000;nennwertlose;,;auf;den;Inhaber;lautende;Stückaktien;.
+0;de-gaap-ci:bs.eqliab.equity.subscribed;0;0;0;0;de-gaap-ci:bs.eqliab.equity.subscribed;0;0;0;0;0;0;0;0;0;0;0;0;0
+data/financial-statements/170412006323.xbrl
+Zum;Bilanzstichtag;unterliegt;der;Wert;der;aktiven;latenten;Steuern;in;Höhe;von;TEUR;939;der;Ausschüttungssperre;.
+0;0;0;0;0;0;de-gaap-ci:bs.ass.deftax;de-gaap-ci:bs.ass.deftax;de-gaap-ci:bs.ass.deftax;0;0;0;0;de-gaap-ci:bs.ass.deftax;0;0;0
+data/financial-statements/170412006323.xbrl
+Die;Verbindlichkeiten;reduzierten;sich;leicht;auf;2,92;Mio.;EUR;(;Vj;.;3,05;Mio.;EUR;);.
+0;de-gaap-ci:bs.eqliab.liab;0;0;0;0;de-gaap-ci:bs.eqliab.liab;0;0;0;0;0;0;0;0;0;0

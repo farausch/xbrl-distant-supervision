@@ -18,9 +18,15 @@ If FastText vectors are used for string comparison, download FastText vectors (h
 
 Change config.py to your desired configuration.
 
+### Run annotation
+
 Run the distant supervision annotation algorithm and obtain annotated data triplets (file, tokens, annotations):
 ```
 python text_annotation.py > financial_sentences_annotated.txt
 ```
 
 In data/financial-statements is one pair of XBRL and XML documents. Place your own financial statements as pairs of these in order to annotate them automatically. The algorithm iterates over each file in this folder. XBRL and XML files that belong together must have the same file name except the file extension.
+
+Please note that the annotation algorithm is resource intensive depending on the parameters (especially the maximum length of n-grams to create) and takes some time even for a little amount of files.
+
+## Evaluation
