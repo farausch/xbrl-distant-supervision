@@ -30,3 +30,11 @@ MAX_NGRAM_LENGTH = 4
 EVAL_GROUND_TRUTH_FILE = "data/ground_truth.txt"
 EVAL_MIN_DIGIT_LENGTH_EQUAL_START = 1
 EVAL_MIN_DIGIT_LENGTH_EQUAL_STOP = 3
+
+# Data augmentation
+AUGMENT_FILE = "data/ground_truth.txt"
+AUGMENT_STEPS = 3
+AUGMENT_MULTI_MATCH_BOOSTER = 1
+
+# CoNLL transformer
+CONLL_INPUT_FILE = "data/ground_truth.txt"
