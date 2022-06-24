@@ -14,8 +14,7 @@ xml_extr = XmlExtraction()
 io_helper = IOHelper()
 
 def evaluate_annotations(truth_xbrl_files, truth_tokens, truth_annotations):
-    print("Evaluating annotations...")
-    print("Output columns: minimum digit start equal, similarity threshold, TP, TN, FP, FN, precision, recall")
+    print("entity type;minimum digit start equal;similarity threshold;TP;TN;FP;FN;precision;recall")
     nlp_trf = spacy.load(config.SPACY_MODEL_TRANSFORMER)
     for min_digit in range(config.EVAL_MIN_DIGIT_LENGTH_EQUAL_START, config.EVAL_MIN_DIGIT_LENGTH_EQUAL_STOP):
         for min_sim in np.arange(0.5, 1.1, 0.1):
